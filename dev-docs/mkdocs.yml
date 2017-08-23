@@ -1,0 +1,5 @@
+site_name: OSU Extension CMS Developer Documentation
+pages:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
