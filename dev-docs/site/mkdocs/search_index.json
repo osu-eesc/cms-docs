@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "OSU Extension CMS Developer Documentation\n\n\nThis site contains documentation and information for web developers. If you are a content creator, please see the content creator docs.", 
+            "text": "OSU Extension CMS Developer Documentation\n\n\nThis site contains documentation and information for web developers. If you are a content creator, please see the \nmain CMS documentation\n.", 
             "title": "Home"
         }, 
         {
             "location": "/#osu-extension-cms-developer-documentation", 
-            "text": "This site contains documentation and information for web developers. If you are a content creator, please see the content creator docs.", 
+            "text": "This site contains documentation and information for web developers. If you are a content creator, please see the  main CMS documentation .", 
             "title": "OSU Extension CMS Developer Documentation"
         }, 
         {
@@ -62,7 +62,7 @@
         }, 
         {
             "location": "/mkdocs/", 
-            "text": "Full MkDocs Documentation\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Full MkDocs Documentation\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nInstallation\n\n\n\n\nClone the documentation Git repository from \nhttps://github.com/osu-eesc/cms\n\n\nWith HomeBrew installed, run \nbrew install mkdocs\n\n\n\n\nMaking Updates\n\n\n\n\nNavigate to the folder in the documentation site containing mkdocs.yml\n\n\nRun \nmkdocs serve\n\n\nAs you make changes to documentation pages, a live preview will be available at \nhttp://127.0.0.1:8000/\n\n\n\n\nBuilding and Deploying the Documentation Site\n\n\nAfter writing updates to the documentation,\n\n\n\n\nNavigate to the folder in the documentation site containing mkdocs.yml\n\n\nRun \nmkdocs build --clean\n\n\nCommit and push all changes", 
             "title": "Maintaining Documentation"
         }, 
         {
@@ -71,14 +71,19 @@
             "title": "Full MkDocs Documentation"
         }, 
         {
-            "location": "/mkdocs/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/mkdocs/#installation", 
+            "text": "Clone the documentation Git repository from  https://github.com/osu-eesc/cms  With HomeBrew installed, run  brew install mkdocs", 
+            "title": "Installation"
         }, 
         {
-            "location": "/mkdocs/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/mkdocs/#making-updates", 
+            "text": "Navigate to the folder in the documentation site containing mkdocs.yml  Run  mkdocs serve  As you make changes to documentation pages, a live preview will be available at  http://127.0.0.1:8000/", 
+            "title": "Making Updates"
+        }, 
+        {
+            "location": "/mkdocs/#building-and-deploying-the-documentation-site", 
+            "text": "After writing updates to the documentation,   Navigate to the folder in the documentation site containing mkdocs.yml  Run  mkdocs build --clean  Commit and push all changes", 
+            "title": "Building and Deploying the Documentation Site"
         }
     ]
 }
