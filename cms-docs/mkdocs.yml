@@ -1,0 +1,4 @@
+site_name: OSU Extension CMS Documentation
+pages:
+  - Home: index.md
+theme: readthedocs

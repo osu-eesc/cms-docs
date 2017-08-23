@@ -1,5 +1,8 @@
 site_name: OSU Extension CMS Developer Documentation
 pages:
   - Home: index.md
-  - About: about.md
+  - Local Environment Setup: setup.md
+  - Source Control: git.md
+  - Deployment: deployment.md
+  - Maintaining Documentation: mkdocs.md
 theme: readthedocs
