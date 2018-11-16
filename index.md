@@ -1,4 +1,4 @@
 # OSU Extension CMS Documentation
 
-* [CMS Documentation](https://osu-eesc.github.io/cms/cms-docs/site/)
+* [OSU Extension User Guide](https://osu-eesc.github.io/cms/cms-docs/site/)
 * [Developer Documentation](https://osu-eesc.github.io/cms/dev-docs/site)
