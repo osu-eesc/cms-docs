@@ -9,6 +9,7 @@
   * OSU Wordpress sites
   * ScholarsArchive@OSU
   * OSU Library website archive
+
 Content options for the Extension website
   * Announcement
   * Article
@@ -24,9 +25,11 @@ Content options for the Extension website
   * Sub-page
   * Video
   * Newsletter
+
 Other details
   * Do's and Don'ts for content entry
   * Adding topics, keywords, county and program tags to a piece of content (e.g. an article)
   * Level 1 and 2 topics
   * Best practices for small screens
+
 Roles and responsibilities
