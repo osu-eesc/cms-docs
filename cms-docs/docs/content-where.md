@@ -25,7 +25,7 @@ Not a good place for:
 
 The content doesn’t make sense on the Extension website? Ok, details about other options are below.
 
-## Employee Intranet / Employee Resources
+## Employee Intranet/Employee Resources
 
 The OSU Extension [Employee Intranet site](https://employee.extension.oregonstate.edu/) is the best place for statewide resources for internal use. In the future, we can make ongoing improvements to our internal site, with the goal of making it a more robust, interactive platform for information, communication, and collaboration.
 
@@ -63,7 +63,7 @@ About:
   * Documents in Box can be shared with people inside and outside OSU (they don’t need to have an ONID account to view a Box folder). To share, create a folder on Box then click “Share” to invite people to see it. You can also make it available to anyone with the link. Any documents within this folder will have the same permissions.
   * Box can include Google Docs. [Learn more about Box](http://box.oregonstate.edu/).
 
-## Webforms (Qualtrics / Google Forms)
+## Webforms (Qualtrics/Google Forms)
 
 Webforms are not currently available on the Extension website. During Phase 2 we’ll revisit. In the meantime, we recommend using [Qualtrics](http://main.oregonstate.edu/qualtrics) or [Google Forms](http://is.oregonstate.edu/google).
 
