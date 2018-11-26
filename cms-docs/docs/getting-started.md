@@ -26,10 +26,10 @@
   * [Video](content-options.md#video)
   * [Newsletter](content-options.md#newsletter)
 
-[Other details]()
-  * [Do's and Don'ts for content entry]()
-  * [Adding topics, keywords, county and program tags to a piece of content (e.g. an article)]()
-  * [Level 1 and 2 topics]()
-  * [Best practices for small screens]()
+[Other details](other-details.md)
+  * [Do's and Don'ts for content entry](other-details.md#dos-and-donts-for-content-entry)
+  * [Adding topics, keywords, county and program tags to a piece of content (e.g. an article)](other-details.md#adding-topics-keywords-county-and-program-tags-to-a-piece-of-content-eg-an-article)
+  * [Level 1 and 2 topics](other-details.md#level-1-and-2-topics)
+  * [Best practices for small screens](other-details.md#best-practices-for-small-screens)
 
-[Roles and responsibilities]()
+[Roles and responsibilities](roles-responsibilities.md)
