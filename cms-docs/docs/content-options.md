@@ -44,7 +44,9 @@ To add collections to topic and/or program landing pages, tag the collection wit
 
 Example of a collection’s structure:
 
-| #### **Title**
+---
+
+#### **Title**
 Introduction text.
 
 **Section title**
@@ -53,8 +55,9 @@ Introduction text.
 
 **Section title**
   * Collection item &#35;1
-  * Collection item &#35;2 |
-|----|
+  * Collection item &#35;2
+
+---
 
 “For more information” text.
 
