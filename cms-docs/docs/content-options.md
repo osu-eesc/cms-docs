@@ -57,11 +57,13 @@ Introduction text.
   * Collection item &#35;1
   * Collection item &#35;2
 
----
-
 “For more information” text.
 
+---
+
 Collection with example content:
+
+---
 
 #### **Getting started with your home garden**
 This is a collection of articles to help you get started on your home gardening.
@@ -76,6 +78,8 @@ This is a collection of articles to help you get started on your home gardening.
   * Improving Garden Soils with Organic Matter
 
 To get ideas for things to do each month in your garden, see the Garden Calendar.
+
+---
 
 ## County (also used for combined county/AES locations)
 
