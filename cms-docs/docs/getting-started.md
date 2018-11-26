@@ -2,10 +2,10 @@
 
 [You have content, great! Now where should it go?](content-where.md)
   * [Extension website](content-where.md#extension-website)
-  * [Employee Intranet / Employee Resources](content-where.md#employee-intranet-employee-resources)
+  * [Employee Intranet/Employee Resources](content-where.md#employee-intranetemployee-resources)
   * [Extension ConnEXTions](content-where.md#extension-connextions)
   * Box
-  * Webforms (Qualtrics / Google Forms)
+  * Webforms (Qualtrics/Google Forms)
   * OSU Wordpress sites
   * ScholarsArchive@OSU
   * OSU Library website archive
