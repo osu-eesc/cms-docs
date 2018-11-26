@@ -22,7 +22,7 @@
   * [Program](content-options.md#program)
   * [Program resource](content-options.md#program-resource)
   * [Social media link](content-options.md#social-media-link)
-  * [Sub-page](content-options.md#subpage)
+  * [Sub-page](content-options.md#sub-page)
   * [Video](content-options.md#video)
   * [Newsletter](content-options.md#newsletter)
 
