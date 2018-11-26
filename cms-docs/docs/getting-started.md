@@ -8,28 +8,28 @@
   * [Webforms (Qualtrics/Google Forms)](content-where.md#webforms-qualtricsgoogle-forms)
   * [OSU Wordpress sites](content-where.md#osu-wordpress-sites)
   * [ScholarsArchive@OSU](content-where.md#scholarsarchiveosu)
-  * [OSU Library Website Archive](content-where.md#osu-library-website-archive)
+  * [OSU Library website archive](content-where.md#osu-library-website-archive)
 
-Content options for the Extension website
-  * Announcement
-  * Article
-  * Collection
-  * County (also used for combined county/AES locations)
-  * Educational document
-  * Event
-  * Online resource
-  * Project
-  * Program
-  * Program resource
-  * Social media link
-  * Sub-page
-  * Video
-  * Newsletter
+[Content options for the Extension website](content-options.md)
+  * [Announcement](content-options.md#announcement)
+  * [Article](content-options.md#article)
+  * [Collection](content-options.md#collection)
+  * [County (also used for combined county/AES locations)](content-options.md#county-also-used-for-combined-countyaes-locations)
+  * [Educational document](content-options.md#educational-document)
+  * [Event](content-options.md#event)
+  * [Online resource](content-options.md#online-resource)
+  * [Project](content-options.md#project)
+  * [Program](content-options.md#program)
+  * [Program resource](content-options.md#program-resource)
+  * [Social media link](content-options.md#social-media-link)
+  * [Sub-page](content-options.md#subpage)
+  * [Video](content-options.md#video)
+  * [Newsletter](content-options.md#newsletter)
 
-Other details
-  * Do's and Don'ts for content entry
-  * Adding topics, keywords, county and program tags to a piece of content (e.g. an article)
-  * Level 1 and 2 topics
-  * Best practices for small screens
+[Other details]()
+  * [Do's and Don'ts for content entry]()
+  * [Adding topics, keywords, county and program tags to a piece of content (e.g. an article)]()
+  * [Level 1 and 2 topics]()
+  * [Best practices for small screens]()
 
-Roles and responsibilities
+[Roles and responsibilities]()
