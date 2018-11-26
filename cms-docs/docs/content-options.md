@@ -1,5 +1,7 @@
 # Content options for the Extension website
 
+![Content Options Table](content-options-table.png)
+
 ## Announcement
 
 For county and program news items or announcements.
