@@ -1,4 +1,4 @@
 site_name: OSU Extension Website Documentation
 pages:
-  - Home: index.md
+  - Home: docs/index.md
 theme: readthedocs
