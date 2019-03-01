@@ -6,4 +6,4 @@ nav:
   - Where to add content: content-where.md
   - Roles & Responsibilities: roles-responsibilities.md
   - Other Details: other-details.md
-theme: readthedocs
+theme: sphinx_rtd_theme
