@@ -2,4 +2,8 @@ site_name: OSU Extension Website Documentation
 pages:
   - Home: index.md
   - Getting Started: getting-started.md
+  - Content Options: content-options.md
+  - Where to add content: content-where.md
+  - Roles & Responsibilities: roles-responsibilities.md
+  - Other Details: other-details.md
 theme: readthedocs
