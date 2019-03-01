@@ -2,7 +2,6 @@
 
 This site contains documentation and information about adding and editing content on the OSU Extension Content Management System.
 
-## Guides
 
 * [Getting Started with Content: A Quick-Start Guide](getting-started.md) (You have content, great! Now where should it go?)
 * [Managing Content Team's Content](https://docs.google.com/document/d/1qS0VxhMye74lBROlBmbTatHKZvKDQwgE69yi1bg6IhI/edit?usp=sharing) (working draft basic guide)
