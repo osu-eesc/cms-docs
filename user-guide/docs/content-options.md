@@ -1,6 +1,6 @@
 # Content options for the Extension website
 
-![Content Options Table](content-options-table.png)
+![Content Options Table](images/content-options-table.png)
 
 ## Announcement
 
