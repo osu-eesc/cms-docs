@@ -1,9 +1,15 @@
 site_name: OSU Extension Website Documentation
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
-  - Content Options: content-options.md
-  - Where to add content: content-where.md
-  - Roles & Responsibilities: roles-responsibilities.md
-  - Other Details: other-details.md
+  - Quick Start: quick-start.md
+  - Introduction: intro.md
+  - Using the Extension Website: using-site.md
+  - Getting Started with your Content: getting-started.md
+  - Adding and Editing Content: adding-editing.md
+  - Managing Content: managing-content.md
+  - Content Requirements and Best Practices: content-requirements.md
+  - Getting Help: getting-help.md
+  - Instructions for Special User Roles: user-roles.md
+  - Glossary: glossary.md
+  - Update Log: update-log.md
 theme: readthedocs
