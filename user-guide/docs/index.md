@@ -2,7 +2,7 @@
 
 This site contains documentation and information about adding and editing content on the OSU Extension Content Management System.
 
-* [Quick Start]()
+* [Quick Start](quick-start.md)
 * [Introduction – Extension’s Digital Strategy](intro.md)
 * [Using the Extension Website](using-site.md)
 * [Getting Started with your Content](getting-started.md)
