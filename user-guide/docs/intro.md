@@ -3,6 +3,7 @@
 The ways people seek and use information online are more diverse than ever. It has become obvious that there is no *one* best way to reach Extension’s audiences. Today, people get information from social media, smartphone apps, Google searches, smart home devices, and more. In the future, these channels will vary even more widely. We can be certain that as technology develops, the ways people use it will constantly change.
 
 If Extension hopes to engage a wide audience and remain relevant, it needs digital content that is flexible and adaptive to these changes. Oregon State University Extension has developed a digital strategy to meet this need. This project aligns with similar initiatives in other colleges and organizations within OSU as well as the University itself. The University’s [Strategic Plan 4.0](https://leadership.oregonstate.edu/sites/leadership.oregonstate.edu/files/provost-documents/sp4-adjusted.pdf) includes goals such as:
+
   - “[deliver] distinctive and affordable education via multiple pathways”,
   - “retool the OSU experience for the 21st century learner”,
   - “coordinate marketing and communications across onsite, digital, and hybrid learning platforms”, and
@@ -11,6 +12,7 @@ If Extension hopes to engage a wide audience and remain relevant, it needs digit
 All of these goals align with Extension’s new digital strategy.
 
 Extension’s digital strategy consists of two high-level objectives:
+
   1. Create a central “content management system” (CMS) for digital content that can provide a variety of feeds to devices and platforms.
   2. Implement a “customer relationship management” (CRM) system to deliver content in a personalized way.
 
@@ -44,6 +46,7 @@ The next phase of the digital strategy initiative will be to develop a customer 
 A CRM system will allow us to interact with web-based learners and clients in a more constructive way. Previously, Extension presented content to visitors with little opportunity for conversation, feedback, or follow-up. Our new digital strategy will give Extension educators opportunities to build relationships through the web.
 
 Extension will use Salesforce to be compatible with other groups across the university using it. This project is still in the early stages, but at this time, our priorities are to:
+
   - hire a Salesforce programmer to develop and implement the software;
   - provide a personalized digital experience to our clients that is relevant to their needs and interests and timely and accessible;
   - meet high standards of security and privacy; and

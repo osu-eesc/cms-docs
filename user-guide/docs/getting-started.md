@@ -30,6 +30,7 @@ There are several options for content that doesn't go on the Extension website. 
 Your groups assigned in the Drupal content management system determine what content you are allowed to edit. When someone in a group creates a piece of content, anyone in that group can edit it. Similarly, a person can’t edit content that belongs to a group they are not part of.
 
 When you are a member of a group, the type of group determines what type of content you can add. There are four types of groups.
+
   - Content Team
   - Program Team
   - County Office Team
@@ -66,6 +67,7 @@ County office teams can create events and newsletters. They can also set up “c
 ### Topic Committees
 
 Topic Committees are responsible for deciding what content to put on the main page of the topic they are in charge of. This may involve:
+
   - identifying the various audiences the topic is aimed at and their questions
   - highlighting high quality, important, or seasonally relevant content for that topic
   - setting up keywording standards for content in that topic
@@ -80,6 +82,7 @@ Most members of topic committees will also be members of a content team. However
 Say that in county X, there is a single person that acts as a Master Gardener volunteer coordinator. This employee develops educational materials as well as forms and other materials for volunteers.
 
 This person would be a member of (at least) two groups.
+
   1. The “Home Horticulture” content team: They would use this group to enter their educational gardening content, since gardening information is relevant to people outside the program too, not just participants.
   2. The “Master Gardener – X County” program team: They would use this group to enter the program materials for Master Gardeners in their county. They could also display educational content that their volunteers would find useful.
 
@@ -108,6 +111,7 @@ The content types that you are able to use depend on the group type you are usin
 ### Shared Content Types
 
 These content types can be added by a number of group types.
+
   - **Announcement**: a time-sensitive piece of information
   - **Event**: an event that people can attend
   - **Newsletter Issue**: a newsletter. This can also include content that comes out sequentially and that we would like to keep a record of, such as pest alerts or research updates.

@@ -1,12 +1,14 @@
 # Using the Extension Website
 
 The Extension website has two different uses:
+
   1. browsing for information the public can see and interact with, and
   2. making changes to the information with the interface that content authors use to manage content while logged in.
 
 ## Browsing the Website
 
 Every person uses the Internet with their own methods and style. Each of us reads, clicks, and searches differently. To support these differences and the preferences of our diverse Extension audience, the website provides multiple ways to find content:
+
   - searching for content;
   - finding content by browsing a topic-based menu;
   - finding content through a participant-based program; and
@@ -80,6 +82,7 @@ Since the newsletter was entered only once, updates will automatically show up i
 To make changes to content, **content authors**, people who enter content, must log in to the site. There is a “Log in” link at the bottom right of every page. This will take you to a screen where you use your ONID credentials to log in. When you are logged in, you will see a “My Groups” link in the top black menu bar on every page.
 
 There are three pages to understand in order to use the back-end:
+
   - the “My Groups” page,
   - the “Group Content” page, and
   - the “Edit Screen.”
@@ -131,6 +134,7 @@ Use the buttons for only their intended purpose. For example, don’t use headin
 ##### Links
 
 To **add a link**, type and highlight the text you want to use as the link label and click the button in the text editor that looks like a chain link. This will open a small window. There are several ways to enter a link:
+
   - To link to content that already exists on the site, start typing the name of the content. Matching titles will appear. Select the content you want to link to.
   - To link to external content, copy and paste the URL.
   - To link to an email address, enter “mailto:(email address).”
@@ -149,7 +153,8 @@ For fields that allow you to upload an image or document or embed a video, you w
 *Image browser.*
 
 The browser consists of two tabs:
-  1. **Upload new**: This is where you can upload a new file. After selecting the file from your computer (or entering a video embed URL), you will need to enter some additional information.
+
+1. **Upload new**: This is where you can upload a new file. After selecting the file from your computer (or entering a video embed URL), you will need to enter some additional information.
     - **Image**: There are a number of fields you can fill out for an image.
       - **Alternative text**: If there is text in the image, re-enter it here so that assistive technology and search engines can read it. See Captions and Alternative Text for more information.
       - **Caption**: Enter any additional information about the image that is useful to visitors here (not in the Alternative text field). Keep in mind that this photo may be reused for other purposes in the future.
@@ -160,6 +165,7 @@ The browser consists of two tabs:
   2. **Reuse existing**: If you or someone else has already uploaded the file you want to use, you can reuse it without having to re-enter the information. Search by the filename of the existing item or the name it was given when originally uploaded. When you find it, click the checkbox next to it. Then click the “Select” button at the bottom of the window. Save the page for the selection to take effect.
 
 #### Content Browser
+
 For fields that allow you to reference an existing piece of content, you will see a button that says “Select Content.” Clicking this button will open a new window called the **content browser**.
 
 ![Content Browser Screenshot](images/content-browser.png)
@@ -169,6 +175,7 @@ For fields that allow you to reference an existing piece of content, you will se
 You can search for existing content by title, content type, group, topic, and/or author. When you find the content you want to use, click the checkbox next to it. Then click the “Finish” button at the bottom of the window. Save the page for the selection to take effect.
 
 #### Page Sections
+
 When adding or editing certain kinds of content, including program and county pages, projects, and web-based newsletters, you will need to manage content on the page via **page sections**. With this method, you add pieces of content to the page in chunks, one section at a time.
 
 There are several different types of sections you can use for different kinds of content on the page. Some sections are for basic page elements such as text and images. Others create dynamic lists that pull content onto the page. These include county or program events lists (which pull events) and program resource lists (which pull program resources). Once you set up one of these sections, it will automatically show new content as it is entered without you needing to update the page. The types of page sections available depend on the type of content you are working on. See [Adding and Editing Content](adding-editing.md) for details about the type of sections available for each type.
@@ -190,6 +197,7 @@ In the edit screen just above where you add and arrange page sections, there is 
 ![Page Section Settings Screenshot](images/page-section-settings.png)
 
 When you switch to this tab, you will see the extra settings available for each section. The current available settings are:
+
   - **Section ID**: This allows you to link to a specific section on a page. The ID should be a short, unique name with no spaces or punctuation besides dashes (-) or underscores (\_). When you give a section an ID, you can link directly to that section by adding “#SECTION_ID” to the end of the subpage’s URL.
   - **Background color**: You can select a background color for the section that stretches all the way across the screen. The options are white or gray. “Call to Action” sections can also be black or orange.
   - **List style**: For sections that display content in a list (e.g. featured content and program resources lists), you can select the style to display each piece of content. You can choose between “List,” “Grid,” or “Text List” (see below).
