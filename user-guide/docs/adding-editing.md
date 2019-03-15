@@ -759,7 +759,7 @@ Teaser: a condensed version of a piece of content that links to a separate page 
 Educational content: research-based materials that are meant to inform visitors about a topic
 Thumbnail: image representing content that will display in the content’s teaser. If none is specified for a piece of content, a default will be used if possible
 Landing page: the “main” page for a participant-based program, county, or topic
-Localist: OSU’s universitywide calendar system. Automatically pulls events entered in the Extension website nightly.
+Localist: OSU’s university wide calendar system. Automatically pulls events entered in the Extension website nightly.
 Program: an externally facing activity that members of the public can participate in
 Statewide program: the main group that maintains content for a program
 Local program: offshoot of a program that maintains content for a specific county or geographical region
