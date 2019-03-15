@@ -229,7 +229,6 @@ Counties and Programs can add educational documents to a page by adding a “fea
 
 [![Create an Event Video Link](https://cfvod.kaltura.com/p/391241/sp/39124100/thumbnail/entry_id/1_m09iw794/version/100021/width/940/height/559)](https://media.oregonstate.edu/media/t/1_m09iw794)
 
-https://media.oregonstate.edu/media/t/1_m09iw794
 
 ### What It Is
 
@@ -264,6 +263,7 @@ On the edit screen for an event, you will see the following fields:
   ![Event Occurs Multiple Times Screenshot](images/event-multiple-times.png)
 
   We also recommend that you check the “All Day Event” box for these events in order to hide the time fields from the event date and prevent confusion.
+
   - **Short Description**: a short description of the event
   - **Full Description**: the full event description
   - **Event location fields**:
@@ -459,6 +459,7 @@ On the edit screen for a program resource, you will see the following fields:
       ![Program Resource Versions Screenshot](images/program-resource-versions.png)
 
       *Example of a program resource with multiple file versions.*
+
   - **Description**: a description of the resource that displays in the teaser
   - **Type**: This field is for organizational purposes and will not affect how the program resource displays to visitors to the site. If none fit, select “Other.”
   - **Category**: To organize program resources, you can configure categories for them (see below).
