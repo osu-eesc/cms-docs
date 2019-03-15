@@ -5,6 +5,7 @@ How to add and edit content in the new Extension website depends on the content 
 ## Content Entry Workflow
 
 In general, you will need to follow these steps when entering content on the Extension website:
+
   1. See if the content already exists on the site.
     - See [Planning and evaluating content](content-requirements.md#planning-and-evaluating-content).
   2. Determine whether the content is appropriate for the Extension website.
