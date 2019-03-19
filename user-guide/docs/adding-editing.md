@@ -260,9 +260,9 @@ On the edit screen for an event, you will see the following fields:
   - **Event Date**: the date(s) when the event occurs
   - **Event occurs multiple times in the specified period**: check this box if you are entering an ongoing event such as a plant clinic or hotline that has regular hours over the date range you specified. This will reveal a field where you can enter those hours more specifically.
 
-  ![Event Occurs Multiple Times Screenshot](images/event-multiple-times.png)
+    ![Event Occurs Multiple Times Screenshot](images/event-multiple-times.png)
 
-  We also recommend that you check the “All Day Event” box for these events in order to hide the time fields from the event date and prevent confusion.
+    We also recommend that you check the “All Day Event” box for these events in order to hide the time fields from the event date and prevent confusion.
 
   - **Short Description**: a short description of the event
   - **Full Description**: the full event description
@@ -687,83 +687,125 @@ Topics are set up by the EESC web team. No one can add or delete a topic, but to
 
 You can request a new topic by submitting a [support request](https://osueesc.atlassian.net/servicedesk/customer/portal/2).
 
-The educational content that shows on topic pages is entered by content teams. A single topic page may showcase content from multiple content teams, and a single content team may enter content for multiple topics. Topic Committee groups are responsible for featuring content on topic pages. See Getting Started with Content - Topic Committees for more information.
-Instructions
+The educational content that shows on topic pages is entered by content teams. A single topic page may showcase content from multiple content teams, and a single content team may enter content for multiple topics. Topic Committee groups are responsible for featuring content on topic pages. See [Getting Started with Content - Topic Committees](getting-started.md#topic-committees) for more information.
+
+### Instructions
+
 On the edit screen for a topic landing page, you will see the following fields:
-Hero image: the large image across the top of the page. Please use an image that is at least 2000px wide and 325px tall. When uploading an image, please be sure to set the “focal point” so it will display properly on all screen sizes.
 
-Description: the short block of text that appears at the top of the page. Limit this to one or two sentences.
+  - **Hero image**: the large image across the top of the page. Please use an image that is at least 2000px wide and 325px tall. When uploading an image, please be sure to set the “**focal point**” so it will display properly on all screen sizes.
 
-Related Topics: creates links on the topic landing page to other topics.
+    ![Hero Image Screenshot](images/hero-image.png)
 
-About Section: Click the “Add Text with Background” button to enter a longer description of the topic and an image to use as a background. Please use an image at least 2000px wide and tall enough to be a backdrop to the text you write. Remember to set the focal point when uploading it.
+  - **Description**: the short block of text that appears at the top of the page. Limit this to one or two sentences.
 
-Landing page sections: You can add two different types of sections to the page:
-Custom topic section: a section title (e.g., “Featured Resources”), several pieces of manually selected content, and a manually entered link to see more content. A good option here is to use a link to the topic’s “Browse Resources” page with one or more filters already applied. Examples may be specific subtopics such as “Nutrients” or audiences such as “Coastal Region.” More than one Custom topic section can be added to highlight frequently looked for categories.
-Latest topic content: the newest three pieces of content tagged with the topic. It can be narrowed by content type to, for example, show only the newest three videos or Extension Catalog publications. More than one of these sections can be added.
+    ![Description Screenshot](images/description.png)
 
+  - **Related Topics**: creates links on the topic landing page to other topics.
 
-Featured experts: Enter the ONID usernames (not full names) of the people to show in the “Meet Our Experts” section. If none are selected, the first four people in alphabetical order with their “Expertise” set to the topic will show up.
+    ![Related Topics Screenshot](images/related-topics.png)
 
-Where and How It Displays
+  - **About Section**: Click the “Add Text with Background” button to enter a longer description of the topic and an image to use as a background. Please use an image at least 2000px wide and tall enough to be a backdrop to the text you write. Remember to set the focal point when uploading it.
+
+    ![About Section Screenshot](images/about-section.png)
+
+  - **Landing page sections**: You can add two different types of sections to the page:
+    - **Custom topic section**: a section title (e.g., “Featured Resources”), several pieces of manually selected content, and a manually entered link to see more content. A good option here is to use a link to the topic’s “Browse Resources” page with one or more filters already applied. Examples may be specific subtopics such as “Nutrients” or audiences such as “Coastal Region.” More than one Custom topic section can be added to highlight frequently looked for categories.
+    - **Latest topic content**: the newest three pieces of content tagged with the topic. It can be narrowed by content type to, for example, show only the newest three videos or Extension Catalog publications. More than one of these sections can be added.
+
+      ![Featured Resources Screenshot](images/featured-resources.png)
+      ![Browse All Resources Button](images/browse-all-resources.png)
+
+  - **Featured experts**: Enter the ONID usernames (not full names) of the people to show in the “Meet Our Experts” section. If none are selected, the first four people in alphabetical order with their “Expertise” set to the topic will show up.
+
+    ![Featured Experts Screenshot](images/featured-experts.png)
+
+### Where and How It Displays
+
 The black menu bar at the top of every page contains a list of all topics. There are also links to all top-level topics on the home page.
 
 We encourage counties to link to topics that are especially relevant to visitors from their county. This can be done via a “Button Link” or “Call to Action” section.
-User Profile
-What It Is
+
+## User Profile
+
+### What It Is
+
 Information about a person. This includes contact information and information about the work they do.
-Who Can Add It
+
+### Who Can Add It
+
 All users on the Extension website are able to edit certain parts of their profile. This includes users who are not a member of any groups.
-Instructions
+
+### Instructions
+
 To get to the edit screen for your profile, click on the “My Account” link in the footer of any page:
+
+![Footer Menu Screenshot](images/footer-menu.png)
 
 Then, click on the “Edit” tab at the top of your profile. The fields you are able to edit are in the “Profile” tab on the left-hand side of the edit screen.
 
+![User Edit Screenshot](images/user-edit-screen.png)
 
 On the edit screen for your profile, you will see the following fields:
-Photo: a photo of yourself.
-External profile link: If you have a profile on another college website, you can link to it here. Visitors who click on you will go there directly.
-Biography: information about yourself and your work, including links or lists of publications.
-Expertise: the topic(s) in which you work. Selecting a topic here will list you as an “Expert” on that topic page. Feel free to list expertises that are not in the topic list in your Biography field.
-Website URL: You can link to other websites with information about you, such as a LinkedIn account.
+
+  - **Photo**: a photo of yourself.
+  - **External profile link**: If you have a profile on another college website, you can link to it here. Visitors who click on you will go there directly.
+  - **Biography**: information about yourself and your work, including links or lists of publications.
+  - **Expertise**: the topic(s) in which you work. Selecting a topic here will list you as an “Expert” on that topic page. Feel free to list expertises that are not in the topic list in your Biography field.
+  - **Website URL**: You can link to other websites with information about you, such as a LinkedIn account.
 
 For changes to other information, please submit a support request.
-Where and How It Displays
-The black menu bar at the top of every page contains a link to the faculty and staff directory. This is a list of all people in Extension.
+
+### Where and How It Displays
+
+The black menu bar at the top of every page contains a link to the [faculty and staff directory](https://extension.oregonstate.edu/people/directory). This is a list of all people in Extension.
 
 There are also narrowed-down directories on program, county, and topic pages. These depend on the tags given to the user.
 
 People can also be found by typing their name in the Search field at the top of every page.
-Video
-What It Is
-An informational video.
-Who Can Add It
-Members of content team groups. Note that members of county and program groups can add videos directly to their pages. See the subpage section for more information.
-Instructions
-On the edit screen for a video, you will see the following fields:
-Video: You can embed a video from YouTube, Vimeo, or OSU Media Space.
-Description: a short description of the video. This is shown in the teaser as well as the full video page.
-Supplemental text: additional text to show on the full video page.
-Topics, Keywords, Programs, and Regions: See below.
-Author and Publishing Information: information about the content for future maintenance.
-If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
-If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-Important Note: All videos produced by or for Extension should be captioned for accessibility. See Accessibility for more information.
-How and Where it Displays
+## Video
+
+### What It Is
+
+An informational video.
+
+### Who Can Add It
+
+Members of content team groups. Note that members of county and program groups can add videos directly to their pages. See the [Subpage](#subpage) section for more information.
+
+### Instructions
+
+On the edit screen for a video, you will see the following fields:
+
+  - **Video**: You can embed a video from YouTube, Vimeo, or OSU Media Space.
+  - **Description**: a short description of the video. This is shown in the teaser as well as the full video page.
+  - **Supplemental text**: additional text to show on the full video page.
+  - **Topics, Keywords, Programs, and Regions**: See below.
+  - **Author and Publishing Information**: information about the content for future maintenance.
+    - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
+    - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
+
+**Important Note**: All videos produced by or for Extension should be captioned for accessibility. See [Accessibility]() for more information.
+
+### How and Where it Displays
+
 The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the video displays.
-Topic: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show below the video in a “Related Resources” section.
-Program: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the Subpage section for more information.
+
+  - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show below the video in a “Related Resources” section.
+  - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
 
 Counties and Programs can add videos to a page by adding a “featured content” section.
-Review of Terms
-Teaser: a condensed version of a piece of content that links to a separate page containing the full content. These usually contain the title, a thumbnail, and a short description of the content.
-Educational content: research-based materials that are meant to inform visitors about a topic
-Thumbnail: image representing content that will display in the content’s teaser. If none is specified for a piece of content, a default will be used if possible
-Landing page: the “main” page for a participant-based program, county, or topic
-Localist: OSU’s university wide calendar system. Automatically pulls events entered in the Extension website nightly.
-Program: an externally facing activity that members of the public can participate in
-Statewide program: the main group that maintains content for a program
-Local program: offshoot of a program that maintains content for a specific county or geographical region
-Project: an activity with impact or outputs (such as a toolkit or calculator) that are of interest to the public
-Focal point: specified point in an image that controls how the image is cropped when it is automatically resized. Set by moving the white “+” icon on the image preview in the image browser that appears when uploading or editing an image.
+
+## Review of Terms
+
+  - **Teaser**: a condensed version of a piece of content that links to a separate page containing the full content. These usually contain the title, a thumbnail, and a short description of the content.
+  - **Educational content**: research-based materials that are meant to *inform visitors about a topic*
+  - **Thumbnail**: image representing content that will display in the content’s teaser. If none is specified for a piece of content, a default will be used if possible
+  - **Landing page**: the “main” page for a participant-based program, county, or topic
+  - **Localist**: OSU’s university wide calendar system. Automatically pulls events entered in the Extension website nightly.
+  - **Program**: an *externally facing* activity that members of the public can participate in
+  - **Statewide program**: the main group that maintains content for a program
+  - **Local program**: offshoot of a program that maintains content for a specific county or geographical region
+  - **Project**: an activity with impact or outputs (such as a toolkit or calculator) that are of interest to the public
+  - **Focal point**: specified point in an image that controls how the image is cropped when it is automatically resized. Set by moving the white “+” icon on the image preview in the image browser that appears when uploading or editing an image.
