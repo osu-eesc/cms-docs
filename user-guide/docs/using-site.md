@@ -68,6 +68,7 @@ Many visitors familiar with the old website expect to find content on their coun
 #### Case Study: Finding a Newsletter
 
 A newsletter called [*GROWING*](https://extension.oregonstate.edu/newsletter/growing) is published in Linn and Benton Counties. A person might find this newsletter on the Extension site in several ways.
+
   - [Search for “growing” and filter by Type “Newsletter.”](https://extension.oregonstate.edu/search?search=growing&search-filter%5B0%5D=type%3Aext_newsletter)
   - [Search for “growing newsletter.”](https://extension.oregonstate.edu/search?search=growing+newsletter)
   - [Use the link on the Linn-Benton Master Gardener program page.](https://extension.oregonstate.edu/mg/benton/volunteer-resources)
@@ -138,7 +139,7 @@ To **add a link**, type and highlight the text you want to use as the link label
   - To link to content that already exists on the site, start typing the name of the content. Matching titles will appear. Select the content you want to link to.
   - To link to external content, copy and paste the URL.
   - To link to an email address, enter “mailto:(email address).”
-  - To link to a specific section on the current page or another page, paste in the URL and add “#(section-id)” to the end. See [Page Sections](quick-start.md#page-sections) for more information.
+  - To link to a specific section on the current page or another page, paste in the URL and add “#(section-id)” to the end. See [Page Sections](#page-sections) for more information.
 
 You can **edit a link** by placing your cursor inside the link and clicking on the link icon in the text editor. The same window will pop up where you can edit the link.
 

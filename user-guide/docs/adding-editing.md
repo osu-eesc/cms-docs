@@ -344,7 +344,7 @@ On the edit screen for a newsletter issue, you will see the following fields:
   - **Issue Type**: “Web Content,” “File Upload,” or “Link to Issue”
     - File Upload Issues: This type of issue consists of a document uploaded to the website. When you choose this option, you will see a file upload field.
     - Linked Issues: This type of issue consists of a page or document hosted on another website. This includes newsletters sent via MailChimp or in Box. When you choose this option, you will see a field to enter the URL of the issue.
-    - Web Content Issues: This type of issue consists of content entered into the website. When you choose this option, the newsletter issue acts like a subpage. See [Page Sections](quick-start.md#page-sections) for information about adding and arranging content on the page.
+    - Web Content Issues: This type of issue consists of content entered into the website. When you choose this option, the newsletter issue acts like a subpage. See [Page Sections](using-site.md#page-sections) for information about adding and arranging content on the page.
     - **Short Description**: the Table of Contents or description of what visitors can find in this issue.
   - **Author and publishing information**: Previous issues are arranged based on the “Date Published or Revised” entered here.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
@@ -466,7 +466,7 @@ On the edit screen for a program resource, you will see the following fields:
   - **This resource is for active program volunteers**: This is for internal informational purposes only. In the future, it could be used to pull information into a volunteer management solution Extension may adopt.
   - **Thumbnail**: an image for the resource that displays in the teaser. If empty and the resource type is “document,” it will use an image of the first page of the document.
 
-*Quick Tip*: If you will need to replace a program resource document with a new version in the future, consider taking advantage of the file versioning functionality available in Box. See: [File Management](content-requirements.md#file-management) for more information.
+**Quick Tip**: If you will need to replace a program resource document with a new version in the future, consider taking advantage of the file versioning functionality available in Box. See: [File Management](content-requirements.md#file-management) for more information.
 
 #### Managing Program Resource Categories
 
@@ -494,6 +494,7 @@ Better Bones and Balance uses categories to organize their Program Resources:
 ![Program Categories Screenshot](images/program-categories.png)
 
 Their program subpages roughly correspond to these categories:
+
   - DVD -> Better Bones and Balance Store Items
   - Fact Sheets -> Research & Publications
   - Instructor Resources -> Instructor Resources
@@ -520,7 +521,7 @@ The edit screen for a project has the following fields:
   - **Short description**: a description of the Project that shows up in the tease.
   - **Thumbnail**: an image representing the Project that shows up in the teaser
   - **Website URL**: If your project already has it’s content on an external website, you can enter the link here. Visitors will be taken directly to that site when they click on the Project.
-  - **Content**: the content that shows on the Project’s page (see [Page Sections](quick-start.md#page-sections) for more information). The following types of sections are available to add to the page:
+  - **Content**: the content that shows on the Project’s page (see [Page Sections](using-site.md#page-sections) for more information). The following types of sections are available to add to the page:
     - **Image**: an uploaded image
     - **Button Link**: a link styled as an orange button
     - **Text**: formatted text
@@ -558,7 +559,7 @@ The edit screen for a project supporting material has the following fields:
   - **Type**: the type of material. This is used for informational or organizational purposes only, and isn’t seen by the public.
   - **Website URL**: If your project already has it’s content on an external website, you can enter the link here. Visitors will be taken directly to that site when they click on the Project.
   - **Content**: the main text that shows on the Material’s page
-  - **Page Sections**: additional content that shows on the Material’s page (see [Page Sections](quick-start.md#page-sections) for more information). The following types of sections are available to add to the page:
+  - **Page Sections**: additional content that shows on the Material’s page (see [Page Sections](using-site.md#page-sections) for more information). The following types of sections are available to add to the page:
     - **Image**: an uploaded image
     - **Button Link**: a link styled as an orange button
     - **Text**: formatted text
@@ -591,7 +592,7 @@ Members of program and county office groups.
 
 The edit screen for a subpage contains fields for the page title, hero image, and some basic text content. The hero image displays as a banner at the top of the page, so it should be about 2000px wide by 400px high. If this is empty, it will use the hero image of the county or program in its group.
 
-Content for subpages is primarily added through page sections (see [Page Sections](quick-start.md#page-sections) for more information). These types of sections are available to all subpages:
+Content for subpages is primarily added through page sections (see [Page Sections](using-site.md#page-sections) for more information). These types of sections are available to all subpages:
 
   - **Button Link**: a link to another page (in or outside of the Extension site) styled as a large orange button
   - **Call to Action**: a link to another page (in or outside of the Extension site) that includes a description and image
