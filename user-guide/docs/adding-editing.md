@@ -45,7 +45,7 @@ Announcements are not for individual events such as a workshop or lecture. Also,
 
 Members of program or county office groups. If an announcement applies to more than one county or program, coordinate to make sure to add it only once.
 
-**Quick Tip**: If an announcement has been entered that needs to be edited, added to or removed from your page, you should contact the uploader of the announcement. See [“Working with Other Content Authors”](managing-content.md#working-with-other-content-authors).
+**Quick Tip**: If an announcement has been entered that needs to be edited, added to or removed from your page, you should contact the uploader of the announcement. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
 
 ### Instructions
 
@@ -247,7 +247,7 @@ An event that a visitor to the website could attend. If it isn’t a gathering s
 
 Any user on the site. If an event applies to more than one county or program, coordinate and make sure to add it only once.
 
-**Quick Tip**: If an event has been entered that needs to be edited or removed from your page, you should contact the uploader of the event. See [“Working with Other Content Authors”](managing-content.md#working-with-other-content-authors).
+**Quick Tip**: If an event has been entered that needs to be edited or removed from your page, you should contact the uploader of the event. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
 
 ### Instructions
 
