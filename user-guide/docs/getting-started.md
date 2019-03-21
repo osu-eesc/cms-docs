@@ -60,7 +60,7 @@ Program teams will enter most of their content as “program resources”. Each 
 
 County office groups are responsible for *entering content about their office’s physical location and services provided, highlighting the activities going on at the office, and directing visitors to relevant educational and program content*. This also includes the combined stations.
 
-County office groups can create events and newsletters. They can also set up “county focus areas” on the Extension website. These serve as a link between the county and a topic or program that is of particular interest to visitors from that county. For example, a county on the coast could describe their work with coastal issues and link to educational content about marine wildlife. Combined stations will also be linked to the research pages on the College of Agricultural Sciences website for agricultural experiment and combined stations.
+County office groups can create events and newsletters. They can also set up local focus areas on the Extension website. These serve as a link between the county and a topic or program that is of particular interest to visitors from that county. For example, a county on the coast could describe their work with coastal issues and link to educational content about marine wildlife. Combined stations will also be linked to the research pages on the College of Agricultural Sciences website for agricultural experiment and combined stations.
 
 ### Topic Committees
 
@@ -119,7 +119,6 @@ These content types can be added by a number of group types.
   - **Event**: an event that people can attend
   - **Newsletter Issue**: a newsletter. This can also include content that comes out sequentially and that we would like to keep a record of, such as pest alerts or research updates.
   - **Social Media Link**: a link to a social media account for an Extension program or county office.
-  - **Subpage**: A page to organize program resources and supply supplementary text, images, and videos.
 
 ### Content Team Content Types
 
@@ -134,6 +133,7 @@ These content types can be added by a number of group types.
 
   - **Program**: Represents an externally facing Extension program that members of the public can participate in. (See the [Adding and Editing Content - Program](adding-editing.md#program) section for more information about what a “program” is.)
   - **Program Resource**: A file or link to a resource needed for visitors to join or participate in a program.
+  - **Subpage**: A page to organize program resources and supply supplementary text, images, and videos.
 
 ### County Office Team Content Types
 
