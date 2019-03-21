@@ -166,13 +166,30 @@ These have been set up for you. No one can add or delete them.
 
 The edit screen for a county office has three sections:
 
-  - **Landing Page**: this is the main page visitors see for the county. The content on this page acts like a subpage. See the [Subpage](#subpage) section of this guide for more information.
-  - **Sidebar**: You can add additional links to the sidebar on county pages. These will show up on every page associated with the county.
-  - **County Info**: This is where you will be able to edit the location and contact information for a county.
+  - **Landing Page**: this is the main page visitors see for the county. Most of this page is automatically generated based on content you enter, but there are some things you can specify here:
+    - **Hero image**: the full-width image that appears at the top of county pages.
+    - **Introduction**: text at the top of the landing page to introduce the county.
+    - **Quick links**: a bar of up to four highlighted links (e.g. Facebook, Twitter, a newsletter, or a calendar).
+    - **Featured content section**: you can select a few content items to display on the landing page. We recommend listing newsletters or other content that is specific to the county.
+  - **Other Content**: this is where you can specify other content related to the county. Specifically, the introductory text for automatically-generated pages (see below) and custom sidebar links.
+  - **County Info**: the contact information, location, office hours, etc. for the county.
 
 **Quick Tip**: Members of county groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
 
 ### How and Where It Displays
+
+Each county has several automatically generated pages:
+  - **Landing page**: the "main" page for the county that contains contact information and other info that people are usually looking for on county pages. This page has the following sections:
+    - Introduction: text entered when you edit the county.
+    - Announcements: automatically generated list of announcements entered by or tagged with the county.
+    - Location and contact info: information entered when you edit the county.
+    - Quick links: content entered when you edit the county.
+    - Upcoming events: automatically generated list of events entered by or tagged with the county.
+    - What we do teaser: automatically generated list of focus areas entered by the county.
+    - Featured content: content entered when you edit the county.
+  - **What We Do**: lists the focus areas for the county (see below) as well as the programs that are tagged with the county.
+  - **Events**: lists events entered by the county or local programs in the county. Events entered by other groups and tagged with the county are displayed in a separate list.
+  - **Faculty and Staff**: lists the users on the site who work in the county.
 
 There is a list of all counties on the [Find Us](https://extension.oregonstate.edu/find-us) page. The link to “Find Us” is in the top black menu bar at the top of every page. The sidebar on participant-based program pages also have links to the counties where that program is active.
 
@@ -313,6 +330,50 @@ All Extension events will be automatically exported to OSU’s main calendar, **
   - If you delete an event before it is over (e.g., if you noticed it was a duplicate), it will show as “cancelled” in Localist.
 
 The FNR Extension website pulls events from the Extension website when “Forestry Extension” is selected under “additional calendars.”
+
+## Local Focus Area
+
+### What It Is
+
+Information about Extension activities, work, or research done in a county or combined station that relates to a program or topic area. These are intended to act as a link between county pages and topic or program pages. You can highlight content that is especially relevant locally, but try to use topic pages to present educational content.
+
+### Who Can Add It
+
+Members of County Office groups.
+
+### Instructions
+
+On the edit screen for a focus area, you will see the following fields:
+
+  - **Short description**: this will display in the focus area's teaser, which shows up on county pages and search results.
+  - **Thumbnail**: this will display in the focus area's teaser, which shows up on county pages and search results.
+  - **Display on county landing page**: three focus area teasers display on each county landing page. Ones that have this box checked show up first.
+  - **Program area**: the program area the focus area relates to. This is used for internal organization and reporting only.
+  - **Marketing category**: which of the Extension marketing categories the focus area relates to. This is used for internal organization and reporting only. It may also help coordinate content between county pages and county pull sheets and other marketing materials.
+  - **Topic**: the topic(s) the focus area relates to. Selecting a topic here will cause a link to it to appear at the bottom of the focus area's page (see below).
+  - **Contact information**: if the focus area has specific contact info that is different than the main county, enter it here.
+  - **How to display**: you have three options:
+    - **Link to a local program**: this will allow you to select a local program (MG or 4-H). Links to the focus area will take visitors directly to the landing page for that local program.
+    - **Link to an existing focus area in another county**: if you would like to share a focus area with another county (e.g. for a regional focus area), select it here. Links to the focus area you create will take visitors directly to the existing focus area.
+    - **Display a custom page**: this creates a new page for the focus area. The following fields are available for this page:
+      - **Hero image**: large image that displays at the top of the page.
+      - **Introduction**: text at the top of the page to introduce the focus area.
+      - **Summary/about**: an additional text area (with a full-screen background image) for more information about the focus area.
+      - **Featured users**: specify the faculty/staff in the county who work in this focus area.
+      - **Page sections**: additional content for the page. See the [Page Sections](using-site.md#page-sections) section of this guide for more information. The following types of sections are available:
+        - **Call to action**: link to content or an external website with a custom title, description, and image.
+        - **County events list**: list of events entered by or tagged by the county. You can narrow the events shown by either the topic(s) or "additional calendar" the events are tagged with.
+        - **Custom content list**: One or more pieces of content with a custom section title and description. The first three items selected will show as teasers with thumbnails. The remaining selected items will display in a simpler text-only list.
+        - **Highlighted content item**: a piece of content with a custom description and full-width background image.
+        - **Image slider**: a slideshow of uploaded images.
+        - **Quick links bar**: a full-width bar that contains up to four highlighted links (e.g. to Facebook, Twitter, a newsletter, or a calendar).
+        - **Video**: a video from YouTube, Vimeo, or OSU Media Space.
+
+### How and Where It Displays
+
+All focus areas entered by a county group will show up on an automatically-generated "What We Do" page for the county. To reorder the focus areas, click the pencil icon that appears when you hover over the page title and select "Reorder Focus Areas".
+
+Three focus areas will display on the county landing page with a button to see the full list. You can control which focus areas show up here using the "display on county landing page" checkbox on the focus areas.
 
 ## Newsletter Issue
 
@@ -580,19 +641,21 @@ By default, the newest materials show up at the bottom of the sidebar. If you ar
 
 ### What It Is
 
-A customizable page for organizing content and providing additional context or information.
+A customizable page for organizing content and providing additional context or information about a program.
 
 **Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your page’s content more readable by using these [accessibility]() and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
 ### Who Can Add It
 
-Members of program and county office groups.
+Members of program groups.
 
 ### Instructions
 
 The edit screen for a subpage contains fields for the page title, hero image, and some basic text content. The hero image displays as a banner at the top of the page, so it should be about 2000px wide by 400px high. If this is empty, it will use the hero image of the county or program in its group.
 
-Content for subpages is primarily added through page sections (see [Page Sections](using-site.md#page-sections) for more information). These types of sections are available to all subpages:
+**Quick tip**: There is a link above the first text box on the edit screen that says "Edit Summary". When you click this, a smaller text box appears. The text in this box is what displays in teasers for the subpage. These appear in search results or when someone selects the subpage as featured content.
+
+Content for subpages is primarily added through page sections (see [Page Sections](using-site.md#page-sections) for more information). These types of sections are available
 
   - **Button Link**: a link to another page (in or outside of the Extension site) styled as a large orange button
   - **Call to Action**: a link to another page (in or outside of the Extension site) that includes a description and image
@@ -603,17 +666,6 @@ Content for subpages is primarily added through page sections (see [Page Section
   - **Text with background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
   - **Two-Column Section**: allows you to display other sections in two columns instead of one (in large enough screens)
   - **Video**: an embedded video from YouTube, Vimeo, or OSU Media Space
-
-Additionally, more sections are available depending on the page’s group type.
-
-County sections:
-
-  - **County Events List**: shows a list of events that have either been added by the county or tagged with the county by another group. You can specify an “additional calendar” to only show events tagged with that calendar.
-  - **County Faculty/Staff Directory**: shows a list of people tagged with the county.
-  - **County Programs List**: shows a list of programs tagged with the county.
-
-Program sections:
-
   - **Program Events List**: shows a list of events that have either been added to the program or tagged with the program by another group.
   - **Program Resources List**: a list of program resources associated with the program.
     - When you add this section, you can specify one or more “Category to display.” Only resources tagged with all specified categories will show in the section.
@@ -631,7 +683,7 @@ Program sections:
 
 ### Where and How It Displays
 
-Subpages display in county or program sidebars. You can reorder subpages in the sidebar by clicking the “Reorder Pages” button at the bottom of the sidebar.
+Subpages display in program sidebars. You can reorder subpages in the sidebar by clicking the “Reorder Pages” button at the bottom of the sidebar.
 
 ![Program Sidebar Screenshot](images/program-sidebar.png)
 
