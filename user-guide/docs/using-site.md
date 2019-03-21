@@ -130,7 +130,7 @@ This field is used to enter text. Buttons at the top allow you to format the tex
 
 ![Text Editor](images/text-editor.png)
 
-Use the buttons for only their intended purpose. For example, don’t use headings to merely make text bigger or add emphasis. Similarly, don’t use the subscript or superscript button to make text smaller. See the Accessibility section later in this guide for more information.
+Use the buttons for only their intended purpose. For example, don’t use headings to merely make text bigger or add emphasis. Similarly, don’t use the subscript or superscript button to make text smaller. See the [Accessibility](content-requirements.md#accessibility) section later in this guide for more information.
 
 ##### Links
 

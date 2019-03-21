@@ -95,7 +95,7 @@ On the edit screen for an article, you will see the following fields:
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your article more readable by using these <ins>accessibility</ins> and [writing for the web](content-requirements.md#writing-for-the-web) tips.
+**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your article more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
 ### How and Where It
 
@@ -194,7 +194,7 @@ Educational documents are not appropriate for program forms, event information, 
 
 **Catalog publications should not be added as educational documents.** These are added and maintained by EESC.
 
-**Important Note:** Be sure you have permission to share the file before you upload it to the Extension website. See Copyrighted Content.
+**Important Note:** Be sure you have permission to share the file before you upload it to the Extension website. See [Copyrighted Content](content-requirements.md#copyrighted-content).
 
 ### Who Can Add It
 
@@ -285,7 +285,7 @@ On the edit screen for an event, you will see the following fields:
 
     ![Promotional Flyer Screenshot](images/flyer.png)
 
-    - Important Note: For accessibility, it is important that any information in a flyer is also included in another field on the event (e.g., in the full description field). See [Accessibility]().
+    - Important Note: For accessibility, it is important that any information in a flyer is also included in another field on the event (e.g., in the full description field). See [Accessibility](content-requirements.md#accessibility).
   - **Thumbnail**: an image for the event
 
     ![Thumbnail Screenshot](images/thumbnail.png)
@@ -350,7 +350,7 @@ On the edit screen for a newsletter issue, you will see the following fields:
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your newsletter content more readable by using these [accessibility]() and [writing for the web](content-requirements.md#writing-for-the-web) tips.
+**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your newsletter content more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
 ### How and Where It Displays
 
@@ -582,7 +582,7 @@ By default, the newest materials show up at the bottom of the sidebar. If you ar
 
 A customizable page for organizing content and providing additional context or information.
 
-**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your page’s content more readable by using these [accessibility]() and [writing for the web](content-requirements.md#writing-for-the-web) tips.
+**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your page’s content more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
 ### Who Can Add It
 
@@ -787,7 +787,7 @@ On the edit screen for a video, you will see the following fields:
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-**Important Note**: All videos produced by or for Extension should be captioned for accessibility. See [Accessibility]() for more information.
+**Important Note**: All videos produced by or for Extension should be captioned for accessibility. See [Accessibility](content-requirements.md#accessibility) for more information.
 
 ### How and Where it Displays
 
