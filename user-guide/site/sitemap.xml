@@ -1,148 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/adding-editing/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/content-requirements/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/getting-help/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/getting-started/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/glossary/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/intro/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/managing-content/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/quick-start/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/update-log/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/user-roles/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
 
-    
+
+
     <url>
-<<<<<<< HEAD
-     <loc>None</loc>
-=======
      <loc>/using-site/</loc>
->>>>>>> cd54eb9d6774067d3c2d002ca78a9978b8f4edbf
      <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
+
 
 </urlset>
