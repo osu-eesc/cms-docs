@@ -373,6 +373,8 @@ On the edit screen for a focus area, you will see the following fields:
 
 All focus areas entered by a county group will show up on an automatically-generated "What We Do" page for the county. To reorder the focus areas, click the pencil icon that appears when you hover over the page title and select "Reorder Focus Areas".
 
+![Focus Area Reorder Link Screenshot](images/wwd-reorder.png)
+
 Three focus areas will display on the county landing page with a button to see the full list. You can control which focus areas show up here using the "display on county landing page" checkbox on the focus areas.
 
 ## Newsletter Issue
