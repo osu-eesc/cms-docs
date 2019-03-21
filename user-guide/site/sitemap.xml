@@ -1,63 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/adding-editing/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/content-requirements/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/getting-help/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/getting-started/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/glossary/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/intro/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/managing-content/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/quick-start/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/update-log/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/user-roles/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
     <url>
-     <loc>None</loc>
-     <lastmod>2019-03-20</lastmod>
+     <loc>/using-site/</loc>
+     <lastmod>2019-03-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
 </urlset>
