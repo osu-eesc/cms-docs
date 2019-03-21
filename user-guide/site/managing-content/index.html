@@ -8,23 +8,24 @@
   
   
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Managing content - OSU Extension Website Documentation</title>
+  <title>Managing Content - OSU Extension Website Documentation</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="../css/highlight.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Managing content";
+    var mkdocs_page_name = "Managing Content";
     var mkdocs_page_input_path = "managing-content.md";
-    var mkdocs_page_url = "/managing-content/";
+    var mkdocs_page_url = null;
   </script>
   
-  <script src="../js/jquery-2.1.1.min.js"></script>
-  <script src="../js/modernizr-2.8.3.min.js"></script>
-  <script type="text/javascript" src="../js/highlight.pack.js"></script> 
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
   
 </head>
 
@@ -38,7 +39,7 @@
         <a href=".." class="icon icon-home"> OSU Extension Website Documentation</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" />
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -54,37 +55,32 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="../adding-editing/">Adding editing</a>
+    <a class="" href="../quick-start/">Quick Start</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../content-requirements/">Content requirements</a>
+    <a class="" href="../intro/">Introduction</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../getting-help/">Getting help</a>
+    <a class="" href="../using-site/">Using the Extension Website</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../getting-started/">Getting started</a>
+    <a class="" href="../getting-started/">Getting Started with your Content</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../glossary/">Glossary</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../intro/">Intro</a>
+    <a class="" href="../adding-editing/">Adding and Editing Content</a>
 	    </li>
           
             <li class="toctree-l1 current">
 		
-    <a class="current" href="./">Managing content</a>
+    <a class="current" href="./">Managing Content</a>
     <ul class="subnav">
             
     <li class="toctree-l2"><a href="#managing-content">Managing Content</a></li>
@@ -109,22 +105,27 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="../quick-start/">Quick start</a>
+    <a class="" href="../content-requirements/">Content Requirements and Best Practices</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../update-log/">Update log</a>
+    <a class="" href="../getting-help/">Getting Help</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../user-roles/">User roles</a>
+    <a class="" href="../user-roles/">Instructions for Special User Roles</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../using-site/">Using site</a>
+    <a class="" href="../glossary/">Glossary</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../update-log/">Update Log</a>
 	    </li>
           
         </ul>
@@ -149,7 +150,7 @@
     
       
     
-    <li>Managing content</li>
+    <li>Managing Content</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -240,96 +241,29 @@
 <li>adding a section to a page.</li>
 </ul>
 <h3 id="content-on-topic-pages">Content on Topic Pages</h3>
-<table>
-<thead>
-<tr>
-<th><strong>You or a member of your group added the content</strong></th>
-<th><strong>Someone else added the content</strong></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Educational content</strong></td>
-<td>Edit the content and <strong>add a tag for the topic in Step 2 of the edit screen</strong>. </br></br>If you want the content to show on the topic landing page, a member of the topic committee will need to select it in a “<strong>featured topic section</strong>.”</td>
-<td>Select the content in a “<strong>featured topic section</strong>” on the landing page. You will need to be a member of the topic committee for that topic. </br>Or </br><strong>Contact the person</strong> who added the content and ask them to tag it with the topic. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information.</td>
-</tr>
-<tr>
-<td><strong>Events &amp; Announcements</strong></td>
-<td>Edit the content and <strong>add a tag for the topic in Step 2 on the Edit screen</strong>.</td>
-<td><strong>Contact the person</strong> who added the content and ask them to tag it with the topic. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information.</td>
-</tr>
-<tr>
-<td><strong>People (“Experts”)</strong> <td colspan=2>Edit your profile and add the topic as your “Expertise” </br>Or </br>Topic committees may select up to four people to display on the landing page, whether or not they have the topic as an expertise.</td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<p>| <strong>You or a member of your group added the content</strong> | <strong>Someone else added the content</strong>
+-|-----------------------------------------------------|-----------------------------------
+<strong>Educational content</strong> | Edit the content and <strong>add a tag for the topic in Step 2 of the edit screen</strong>. </br></br>If you want the content to show on the topic landing page, a member of the topic committee will need to select it in a “<strong>featured topic section</strong>.” | Select the content in a “<strong>featured topic section</strong>” on the landing page. You will need to be a member of the topic committee for that topic. </br>Or </br><strong>Contact the person</strong> who added the content and ask them to tag it with the topic. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information.
+<strong>Events &amp; Announcements</strong> | Edit the content and <strong>add a tag for the topic in Step 2 on the Edit screen</strong>. | <strong>Contact the person</strong> who added the content and ask them to tag it with the topic. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information.
+<strong>People (“Experts”)</strong> <td colspan=2>Edit your profile and add the topic as your “Expertise” </br>Or </br>Topic committees may select up to four people to display on the landing page, whether or not they have the topic as an expertise.</td> |</p>
 <h3 id="content-on-program-pages">Content on Program Pages</h3>
-<table>
-<thead>
-<tr>
-<th><strong>You or a member of your group added the content</strong></th>
-<th><strong>Someone else added the content</strong></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Educational content</strong></td>
-<td>N/A - Educational content is not entered through a program group.</td>
-<td><strong>Contact the person</strong> who entered the content and ask them to add a tag for the program and any appropriate keywords. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information. Then, add a “<strong>Program Tagged Content</strong>” section to the program page where you want the content to display. You can select a keyword to only display content tagged with that keyword in a particular page section. </br>Or </br>Add a “<strong>featured content</strong>” section to the page and select the content. Remember that it is better to direct people to topic pages, which are always getting updates, than to try to list all relevant content on a program page.</td>
-</tr>
-<tr>
-<td><strong>Program resources*</strong></td>
-<td>Add a “<strong>Program resource list</strong>” section to the page where you want the content to show. You will probably need to select a “Category to display” so you can narrow this section down to specific items. Then edit the program resource and <strong>tag it with the category</strong> you specified.</td>
-<td>Local programs can display program resources from their statewide parent by adding a “<strong>Program statewide resource list</strong>” section to a page. You can narrow the list down by selecting a “category to display” configured by the statewide program.</td>
-</tr>
-<tr>
-<td><strong>Events &amp; Announcements</strong></td>
-<td>Enter the content through the program’s group </br>Or </br>Edit the content and <strong>add a tag for the program</strong>. </br></br>Someone associated with the program will need to add a “<strong>Program events list</strong>” section to the page where you want the content to show.</td>
-<td><strong>Contact the person</strong> who added the content and ask them to tag it with the program. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information. </br></br>Someone associated with the program will need to add a “<strong>Program events list</strong>” section to the page where you want the content to show.</td>
-</tr>
-<tr>
-<td><strong>People</strong> <td colspan=2>Submit a web support request to have a person added to the directory for a program.</td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<p>| <strong>You or a member of your group added the content</strong> | <strong>Someone else added the content</strong>
+-|-----------------------------------------------------|-----------------------------------
+<strong>Educational content</strong> | N/A - Educational content is not entered through a program group. | <strong>Contact the person</strong> who entered the content and ask them to add a tag for the program and any appropriate keywords. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information. Then, add a “<strong>Program Tagged Content</strong>” section to the program page where you want the content to display. You can select a keyword to only display content tagged with that keyword in a particular page section. </br>Or </br>Add a “<strong>featured content</strong>” section to the page and select the content. Remember that it is better to direct people to topic pages, which are always getting updates, than to try to list all relevant content on a program page.
+<strong>Program resources*</strong> | Add a “<strong>Program resource list</strong>” section to the page where you want the content to show. You will probably need to select a “Category to display” so you can narrow this section down to specific items. Then edit the program resource and <strong>tag it with the category</strong> you specified. | Local programs can display program resources from their statewide parent by adding a “<strong>Program statewide resource list</strong>” section to a page. You can narrow the list down by selecting a “category to display” configured by the statewide program.
+<strong>Events &amp; Announcements</strong> | Enter the content through the program’s group </br>Or </br>Edit the content and <strong>add a tag for the program</strong>. </br></br>Someone associated with the program will need to add a “<strong>Program events list</strong>” section to the page where you want the content to show. | <strong>Contact the person</strong> who added the content and ask them to tag it with the program. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information. </br></br>Someone associated with the program will need to add a “<strong>Program events list</strong>” section to the page where you want the content to show.
+<strong>People</strong> <td colspan=2>Submit a web support request to have a person added to the directory for a program.</td> |</p>
 <p>*Please remember: Do not add educational content as a program resource. Program resources are for materials such as handbooks or forms that are only of interest to participants in a program.</p>
 <p>Once content has been added to county or program pages, the sidebar where the pages are listed can be reordered, nested, or both (i.e., housed beneath a broader subpage). See <a href="../adding-editing/#subpage">Adding and Editing Content: Subpage</a> for more information.</p>
 <h4 id="restricting-tagging-of-your-program">Restricting Tagging of Your Program</h4>
 <p>If needed, you can set up your program so that only members of the program’s group can tag educational content with it. This means that only members of the program group would be able to make educational content appear on the program’s pages.</p>
 <p>To do this, you need to have the role “Member &amp; Setting Manager” in the program’s group. Go to the Group Content page for the group and click the “Settings” tab at the top. This will take you to a page where you can manage the group’s settings. To restrict tagging to the program, check the “Restrict Tagging” box and then save.</p>
 <h3 id="content-on-county-pages">Content on County Pages</h3>
-<table>
-<thead>
-<tr>
-<th><strong>You or a member of your group added the content</strong></th>
-<th><strong>Someone else added the content</strong></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Educational content</strong></td>
-<td>N/A - Educational content is not entered through a county group.</td>
-<td>Add a “<strong>featured content</strong>” section to the page and select the content. Remember that it is better to direct people to topic pages, which are always getting updates, than to try to list all relevant content on a county page.</td>
-</tr>
-<tr>
-<td><strong>Events &amp; Announcements</strong></td>
-<td>Enter the content through the county’s group </br>Or </br>Edit the content and <strong>add a tag for the county</strong>. </br></br>Someone associated with the county will need to add a “<strong>County events list</strong>” section to the page where you want the content to show. You may need to select a “Calendar to display” so you can narrow this section down to specific terms.</td>
-<td><strong>Contact the person</strong> who added the content and ask them to tag it with the county, and if needed, select a specific calendar. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information. </br></br>Someone associated with the county will need to add a “<strong>County events list</strong> section to the page where you want the content to show. You may need to select a “Calendar to display” so you can narrow this section down to specific terms.</td>
-</tr>
-<tr>
-<td><strong>People</strong> <td colspan=2>Submit a web support request to have a person added to the directory for a county.</td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<p>| <strong>You or a member of your group added the content</strong> | <strong>Someone else added the content</strong>
+-|-----------------------------------------------------|-----------------------------------
+<strong>Educational content</strong> | N/A - Educational content is not entered through a county group. | Add a “<strong>featured content</strong>” section to the page and select the content. Remember that it is better to direct people to topic pages, which are always getting updates, than to try to list all relevant content on a county page.
+<strong>Events &amp; Announcements</strong> | Enter the content through the county’s group </br>Or </br>Edit the content and <strong>add a tag for the county</strong>. </br></br>Someone associated with the county will need to add a “<strong>County events list</strong>” section to the page where you want the content to show. You may need to select a “Calendar to display” so you can narrow this section down to specific terms. | <strong>Contact the person</strong> who added the content and ask them to tag it with the county, and if needed, select a specific calendar. See <a href="./#working-with-other-content-authors">Working with Other Content Authors</a> for more information. </br></br>Someone associated with the county will need to add a “<strong>County events list</strong> section to the page where you want the content to show. You may need to select a “Calendar to display” so you can narrow this section down to specific terms.
+<strong>People</strong> <td colspan=2>Submit a web support request to have a person added to the directory for a county.</td> |</p>
 <h3 id="case-study-master-gardener-program-pages">Case Study - Master Gardener Program Pages</h3>
 <p><img alt="How to Display Content Chart" src="../images/how-to-display-content.png" /></p>
 <h3 id="other-ways-to-group-content">Other Ways to Group Content</h3>
@@ -370,10 +304,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../quick-start/" class="btn btn-neutral float-right" title="Quick start">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../content-requirements/" class="btn btn-neutral float-right" title="Content Requirements and Best Practices">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../intro/" class="btn btn-neutral" title="Intro"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../adding-editing/" class="btn btn-neutral" title="Adding and Editing Content"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -387,26 +321,28 @@
 
   Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
-	  
+      
         </div>
       </div>
 
     </section>
-    
+
   </div>
 
   <div class="rst-versions" role="note" style="cursor: pointer">
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../intro/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../adding-editing/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../quick-start/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../content-requirements/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
-    <script src="../js/theme.js"></script>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
 
 </body>
 </html>
