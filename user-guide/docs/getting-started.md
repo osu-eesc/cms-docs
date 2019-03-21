@@ -96,19 +96,20 @@ The content types that you are able to use depend on the group type you are usin
 
 **Web Groups** | **Content Teams** | **Program Groups** | **MG & 4-H County Program Groups** | **County Offices**
 -------------|:-----------------:|:------------------:|:----------------------------------:|:-----------------:
-**Newsletter Issue**<br> Print, electronic, web-based newsletters | <center>x</center> | x | x | x
-**Project**<br> An activity done by Extension with outputs or impacts of interest to the public. May include tools, background research, progress updates, etc. | x | | |
-**Project Supporting Material**<br> Content providing context or additional information about a project | x | | |
-**Educational Document**<br> General-interest educational material uploaded as a document | x | | |
-**Program Resource**<br> Materials only of interest to people involved in a program. May be an uploaded document or a link to an external site | | x | x |
 **Announcement**<br> County and program news items or announcements | | x | x | x
-**Event**<br> Workshops, classes, event information for external audience | x | x | x | x
-**Online Resource**<br> Link to educational material located on another website | x | | |
 **Article**<br> Text and image-based educational content | x | | |
 **Collection**<br> Manually selected groups of educational content | x | | |
+**Educational Document**<br> General-interest educational material uploaded as a document | x | | |
+**Event**<br> Workshops, classes, event information for external audience | x | x | x | x
+**Local Focus Area**<br> Description of work done in a county in a particular topic or program | | | | x
+**Newsletter Issue**<br> Print, electronic, web-based newsletters | <center>x</center> | x | x | x
+**Online Resource**<br> Link to educational material located on another website | x | | |
+**Program Resource**<br> Materials only of interest to people involved in a program. May be an uploaded document or a link to an external site | | x | x |
+**Project**<br> An activity done by Extension with outputs or impacts of interest to the public. May include tools, background research, progress updates, etc. | x | | |
+**Project Supporting Material**<br> Content providing context or additional information about a project | x | | |
+**Social Media Link**<br> Link to a social media account for county or program. | | x | x | x
 **Subpage**<br> Information about county location or program involvement. May also group or link to educational content relevant to a specific audience | | x | x | x
 **Video**<br> An informational video | x | | |
-**Social Media Link**<br> Link to a social media account for county or program. | | x | x | x
 
 ### Shared Content Types
 
@@ -137,6 +138,7 @@ These content types can be added by a number of group types.
 ### County Office Team Content Types
 
   - **County office**: Represents an Extension presence in a county.
+  - **Local focus area**: Information about work or activities done in a county that relate to a program or topic.
 
 ## Review of Terms
 
