@@ -1,0 +1,16 @@
+/*
+ * Use Beaver Orange instead of default blue color.
+ */
+.wy-side-nav-search {
+  background-color: #D73F09;
+}
+
+/*
+ * Use OSU theme link colors.
+ */
+
+a,
+a:visited,
+a:active, {
+  color: #006a8e;
+}

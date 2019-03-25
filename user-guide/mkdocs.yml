@@ -9,7 +9,9 @@ nav:
   - Managing Content: managing-content.md
   - Content Requirements and Best Practices: content-requirements.md
   - Getting Help: getting-help.md
-  - Instructions for Special User Roles: user-roles.md
+  - Instructions for Special User Roles: special-roles.md
   - Glossary: glossary.md
   - Update Log: update-log.md
 theme: readthedocs
+extra_css:
+  - css/extra.css
