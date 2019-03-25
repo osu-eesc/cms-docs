@@ -141,7 +141,7 @@ Therefore, we strongly recommend adding materials as web content **whenever poss
 
 There are some situations when a document cannot or should not be added to the site as website-based content. These include:
 
-  - forms that people need to fill out (though you may want to consider implementing these in [Qualtrics](https://main.oregonstate.edu/qualtrics))
+  - forms that people need to fill out (though you may want to consider implementing these in [Qualtrics](https://is.oregonstate.edu/qualtrics))
   - PowerPoint presentations
   - documents that contain complex graphics, tables, or diagrams
   - documents that need to be private or restricted to a certain group of people
