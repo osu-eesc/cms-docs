@@ -94,8 +94,8 @@ As mentioned in the introduction to this guide, it is important that content hav
 
 The content types that you are able to use depend on the group type you are using.
 
-**Web Groups** | **Content Teams** | **Program Groups** | **MG & 4-H County Program Groups** | **County Offices**
--------------|:-----------------:|:------------------:|:----------------------------------:|:-----------------:
+**Web Groups** | **Content Teams** | **Program Groups** | **MG & 4-H County<br> Program Groups** | **County Offices**
+-------|:-------:|:-------:|:-------:|:-------:
 **Announcement**<br> County and program news items or announcements | | x | x | x
 **Article**<br> Text and image-based educational content | x | | |
 **Collection**<br> Manually selected groups of educational content | x | | |

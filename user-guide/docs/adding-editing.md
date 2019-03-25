@@ -809,7 +809,7 @@ On the edit screen for your profile, you will see the following fields:
   - **Expertise**: the topic(s) in which you work. Selecting a topic here will list you as an “Expert” on that topic page. Feel free to list expertises that are not in the topic list in your Biography field.
   - **Website URL**: You can link to other websites with information about you, such as a LinkedIn account.
 
-For changes to other information, please submit a support request.
+For changes to other information, please submit a [support request](https://osueesc.atlassian.net/servicedesk/customer/portal/2)..
 
 ### Where and How It Displays
 
