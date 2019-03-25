@@ -12,5 +12,5 @@
 a,
 a:visited,
 a:active, {
-  color: #006a8e;
+  color: #006a8e !important;
 }
