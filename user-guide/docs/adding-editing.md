@@ -179,6 +179,7 @@ The edit screen for a county office has three sections:
 ### How and Where It Displays
 
 Each county has several automatically generated pages:
+
   - **Landing page**: the "main" page for the county that contains contact information and other info that people are usually looking for on county pages. This page has the following sections:
     - Introduction: text entered when you edit the county.
     - Announcements: automatically generated list of announcements entered by or tagged with the county.
