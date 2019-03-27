@@ -1,10 +1,18 @@
 site_name: OSU Extension Website Documentation
+
+repo_url: https://github.com/osu-eesc/cms-docs
+edit_uri: edit/master/user-guide/docs
+site_description: 'OSU Extension Web-guide'
+theme:
+  name: readthedocs
+extra_css:
+  - css/extra.css
 nav:
   - Home: index.md
   - Quick Start: quick-start.md
   - Introduction: intro.md
   - Using the Extension Website: using-site.md
-  - Getting Started with your Content: getting-started.md
+  - Getting Started: getting-started.md
   - Adding and Editing Content: adding-editing.md
   - Managing Content: managing-content.md
   - Content Requirements and Best Practices: content-requirements.md
@@ -12,6 +20,3 @@ nav:
   - Instructions for Special User Roles: special-roles.md
   - Glossary: glossary.md
   - Update Log: update-log.md
-theme: readthedocs
-extra_css:
-  - css/extra.css

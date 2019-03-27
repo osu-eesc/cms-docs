@@ -1,4 +1,4 @@
-# Introduction: Extension’s Digital Strategy
+# Extension’s Digital Strategy
 
 The ways people seek and use information online are more diverse than ever. It has become obvious that there is no *one* best way to reach Extension’s audiences. Today, people get information from social media, smartphone apps, Google searches, smart home devices, and more. In the future, these channels will vary even more widely. We can be certain that as technology develops, the ways people use it will constantly change.
 
