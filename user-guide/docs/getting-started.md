@@ -73,11 +73,12 @@ It is helpful in knowing not only your Drupal groups, but the roles of all the p
 - Increase findability of content by monitoring and revising tags
 - Improve readability and review accuracy of existing content
 
-Learn more about these [Primary Roles and Responsibilities](roles-explained.md)
+Learn more about these [Primary Roles and Responsibilities](primary-roles.md)
 
 The executive leadership and communication and technology units also have a role to play. Their responsibilities look at project management, resource alignment, communication and training, systems development and integration, and other strategic planning roles.
 
-Learn more about the [Other Roles and Responsibilities](roles-explained.md#program-area-leaders-and-regional-directors) for leadership and support
+Learn more about the Other Roles and Responsibilities for [Leadership](leadership-roles.md) and [Support](support-roles.md)
+
 
 ### Content Teams
 

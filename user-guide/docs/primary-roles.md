@@ -1,5 +1,7 @@
 # Primary Roles and Responsibilities
 
+[Return to Roles and Responsibilities](/getting-started/#roles-and-responsibilities)
+
 The following information can be helpful in knowing the roles of the people involved in the OSU Extension digital content and engagement strategy. Current responsibilities have focused on the Extension website, although it is just a piece of the long-range plans.
 
 ## Everyone in Extension
