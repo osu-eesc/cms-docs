@@ -1,66 +1,38 @@
 # Quick Start Guides
 
-TODO: Opening title and description needed for each
-
-
+Quick Start Guides are short 1 page printable references with brief explanations to help you get up and running with the Extension website.
 
 ## Content Entry Checklist
 
-<a class="img responsive" href="../documents/content-entry-checklists.pdf"><img class="pull-right" src="../images/content-entry-checklist-sm.png" alt="Content Entry Checklist"></a>
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb kombucha fingerstache hella tilde pabst plaid wayfarers. Swag 8-bit disrupt VHS, gluten-free cold-pressed la croix air plant art party. Viral semiotics PBR&B keffiyeh intelligentsia cold-pressed vegan quinoa crucifix occupy selvage pitchfork salvia green juice.
+<a class="" href="../documents/content-entry-checklist.pdf"><img class="img responsive float-right" src="../images/content-entry-checklist-sm.png" alt="Content Entry Checklist"></a>
+<p>Does the content already exist? Are you following best practices? What type of content are you adding? 6 step check list.</p>
 
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-
-<p class="">Download <a class="btn btn-neutral btn-small" href="../documents/content-entry-checklists.pdf">Content Entry Checklist</a></p>
+<p class="clearfix">Download <a class="btn btn-neutral btn-small" href="../documents/content-entry-checklist.pdf">Content Entry Checklist</a></p>
 
 
 ## Content & Group Types
 
 <a class="" href="../documents/content-types.pdf"><img class="pull-right" src="../images/content-types-sm.png" alt="Content & Group Types"></a>
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb kombucha fingerstache hella tilde pabst plaid wayfarers. Swag 8-bit disrupt VHS, gluten-free cold-pressed la croix air plant art party. Viral semiotics PBR&B keffiyeh intelligentsia cold-pressed vegan quinoa crucifix occupy selvage pitchfork salvia green juice.
+<p>Summary of the types of content each group can add and what is is used for.</p>
 
-<p class="">Download <a class="btn btn-neutral btn-small" href="../documents/content-types.pdf">Content & Group Types guide</a></p>
+<p class="clearfix">Download <a class="btn btn-neutral btn-small" href="../documents/content-types.pdf">Content & Group Types guide</a></p>
 
-<p><h2>Content Author Interface</h2>
-
+<h2>Content Author Interface</h2>
 <a class="" href="../documents/site-interface.pdf"><img class="pull-right" src="../images/site-interface-sm.png" alt="Content & Group Types"></a>
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-kombucha fingerstache hella tilde pabst plaid wayfarers. Swag 8-bit disrupt VHS, gluten-free cold-pressed la croix
+<p>Brief description of the user interfaces you'll experience after logging in.</p>
 
-air plant art party. Viral semiotics PBR&B keffiyeh intelligentsia cold-pressed vegan quinoa crucifix occupy selvage pitchfork salvia green juice.
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
+<p class="clearfix">Download <a class="btn btn-neutral btn-small" href="../documents/site-interface.pdf">Content Author Interface guide</a></p>
 
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-
-<p class="">Download <a class="btn btn-neutral btn-small" href="../documents/site-interface.pdf">Content Author Interface guide</a></p>
-
-<p><h2>Tags</h2>
-
+## Tags
 <a class="" href="../documents/tagging.pdf"><img class="pull-right" src="../images/tagging-sm.png" alt="Tags"></a>
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb k
+<p>Overview of the tagging options available for the different contnetn types and what the tags do. </p>
 
-air plant art party. Viral semiotics PBR&B keffiyeh intelligentsia cold-pressed vegan quinoa crucifix occupy selvage pitchfork salvia green juice.
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-
-<p class="">Download <a class="btn btn-neutral btn-small" href="../documents/tagging.pdf">Tags guide</a></p>
+<p class="clearfix">Download <a class="btn btn-neutral btn-small" href="../documents/tagging.pdf">Tags guide</a></p>
 
 
 ## Page Sections
 
-<a class="" href="../documents/page-sections.pdf"><img class="pull-right" src="../images/page-sections-sm.png" alt="Content & Group Types"></a>
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb kombucha fingerstache hella tilde pabst plaid wayfarers. Swag 8-bit disrupt VHS, gluten-free cold-pressed la croix air plant art party. Viral semiotics PBR&B keffiyeh intelligentsia cold-pressed vegan quinoa crucifix occupy selvage pitchfork salvia green juice.
+<a class="" href="../documents/page-sections.pdf"><img class="pull-right" src="../images/page-sections-sm.png" alt="Page Sections"></a>
+<p>What are page sections? Learn what page sections are and how they are used.</p>
 
-
-air plant art party. Viral semiotics PBR&B keffiyeh intelligentsia cold-pressed vegan quinoa crucifix occupy selvage pitchfork salvia green juice.
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
-
-<p class="">Download <a class="btn btn-neutral btn-small" href="../documents/page-sections.pdf">Page Sections guide</a> </p>
+<p class="clearfix">Download <a class="btn btn-neutral btn-small" href="../documents/page-sections.pdf">Page Sections guide</a> </p>
