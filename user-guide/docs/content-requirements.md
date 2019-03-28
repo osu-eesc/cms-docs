@@ -185,12 +185,12 @@ Here is how you can upload files to Box and use them on the Extension website:
 
 #### Step 3: Add a Link to the Extension Site
 
-There are several ways to add a link.
+There are several ways to add a link, depending on the type of content your group can add.
 
   - Create an online resource for the link.
   - Create a program resource for the link.
   - Create a newsletter issue and select “Link” for the type.
-  - Add the link to a text box of a subpage or article.
+  - Add the link to a text box of a subpage, announcement, or article.
 
 This step is also applicable to documents hosted elsewhere, such as on a college site, Dropbox, or Google Drive.
 
