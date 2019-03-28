@@ -47,7 +47,7 @@ A CRM system will allow us to interact with web-based learners and clients in a 
 
 Extension will use Salesforce to be compatible with other groups across the university using it. This project is still in the early stages, but at this time, our priorities are to:
 
-  - hire a Salesforce programmer to develop and implement the software;
+  - work with a Salesforce programmer to develop and implement the software;
   - provide a personalized digital experience to our clients that is relevant to their needs and interests and timely and accessible;
   - meet high standards of security and privacy; and
   - ensure that our clients are comfortable with their experience.
