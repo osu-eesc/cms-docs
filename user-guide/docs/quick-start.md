@@ -13,7 +13,7 @@ Quick Start Guides are short 1 page printable references with brief explanations
 ## Content & Group Types
 
 <a class="" href="../documents/content-types.pdf"><img class="pull-right" src="../images/content-types-sm.png" alt="Content & Group Types"></a>
-<p>Summary of the types of content each group can add and what is is used for.</p>
+<p>Summary of the types of content each group can add, and what they are used for.</p>
 
 <p class="clearfix">Download <a class="btn btn-neutral btn-small" href="../documents/content-types.pdf">Content & Group Types guide</a></p>
 
@@ -25,7 +25,7 @@ Quick Start Guides are short 1 page printable references with brief explanations
 
 ## Tags
 <a class="" href="../documents/tagging.pdf"><img class="pull-right" src="../images/tagging-sm.png" alt="Tags"></a>
-<p>Overview of the tagging options available for the different contnetn types and what the tags do. </p>
+<p>Overview of the tagging options available for the different content types and what the tags do. </p>
 
 <p class="clearfix">Download <a class="btn btn-neutral btn-small" href="../documents/tagging.pdf">Tags guide</a></p>
 

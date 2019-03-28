@@ -1,83 +1,65 @@
 # Primary Roles and Responsibilities
 
-[Return to Roles and Responsibilities](/getting-started/#roles-and-responsibilities)
+[Return to Roles and Responsibilities](../getting-started/#roles-and-responsibilities)
 
 The following information can be helpful in knowing the roles of the people involved in the OSU Extension digital content and engagement strategy. Current responsibilities have focused on the Extension website, although it is just a piece of the long-range plans.
 
 ## Everyone in Extension
 
 - Contributor role
-  - Engage with the appropriate content team, program group, or county/combined station office to ensure your content is in the Drupal content management system and appropriately tagged to show on the website and other media
-  - Enter contacts, document interactions, maintain data, and use the customer relationship management system​ (this is in the future when launched)
+    - Engage with the appropriate content team, program group, or county/combined station office to ensure your content is in the Drupal content management system and appropriately tagged to show on the website and other media
+    - Enter contacts, document interactions, maintain data, and use the customer relationship management system​ (this is in the future when launched)
+
 - Keep informed on the Extension digital content and engagement strategy
-  - Stay up to date on the new engagement platform and website updates
+    - Stay up to date on the new engagement platform and website updates
 
 ## Program Area Leaders and Regional Directors
 
 - Strategic leader role for content areas and programmatic and regional goals
-  - Oversight of and input into the overall Extension digital content and engagement strategy
-  - Annual meeting with the Digital Content and Engagement (DCE) Strategy Team to review program area content metrics and alignment of program content, audiences, goals, and strategy
-  - Communication between program area leaders, regional directors, and EESC as new needs are identified for content teams to create or modify educational content
+
+    - Oversight of and input into the overall Extension digital content and engagement strategy
+    - Annual meeting with the Digital Content and Engagement (DCE) Strategy Team to review program area content metrics and alignment of program content, audiences, goals, and strategy
+    - Communication between program area leaders, regional directors, and EESC as new needs are identified for content teams to create or modify educational content
+
 - Guide tactical execution of Extension&#39;s digital content and engagement strategy
-  - Manage and support content team leader(s), program group coordinators, and county office and combined station group coordinator(s)
-  - Represent program and regional area needs on a governance board
-  - Review metrics and analytics to ensure consistent progress throughout the year
-  - Support engagement and monitor workflows in content teams and program or county office groups
+    - Manage and support content team leader(s), program group coordinators, and county office and combined station group coordinator(s)
+    - Represent program and regional area needs on a governance board
+    - Review metrics and analytics to ensure consistent progress throughout the year
+    - Support engagement and monitor workflows in content teams and program or county office groups
 
-Suggested Focus for 2019
 
-  - Establish process and calendar for creation/management of content
-  - Help the DCE team establish metrics necessary to maintain progress and align with current OSU Strategic Plan
-  - Work with content strategist to establish governance plans
-  - Ensure supervised faculty are engaged and actively participating in at least one content team
-  - Begin planning for use of customer relationship management system to meet specific program goals
-
-## Team or Group Leaders
+## Team Leader or Group Coordinator
 
 - Administrative role assignment for your content team, county office or program group to lead the creation and management of high-quality content to Oregonians and beyond
-  - With guidance from your program area leader, regional director, related group or team leader(s), and the Digital Content and Engagement (DCE) Strategy Team, lead a high functioning team to identify and create educational, programmatic, or location-based content (depending on your group)
-  - Manage the content to ensure accessibility, ease of use, and high-quality display
-  - Define and communicate content team member roles (\*see appendix &quot;More Defined Content Team Member Roles&quot;) or division of group assignments
-  - Review content metrics, analytics, and provide recommendations to team or group members as needed
+    - With guidance from your program area leader, regional director, related group or team leader(s), and the Digital Content and Engagement (DCE) Strategy Team, lead a high functioning team to identify and create educational, programmatic, or location-based content (depending on your group)
+    - Manage the content to ensure accessibility, ease of use, and high-quality display
+    - Define and communicate content team member roles (\*see appendix &quot;More Defined Content Team Member Roles&quot;) or division of group assignments
+    - Review content metrics, analytics, and provide recommendations to team or group members as needed
+
 - Serve as main point of contact for team or group members
-  - Provide a point of contact between faculty and staff who use the website, the program area leader, regional director, and DCE team, to identify and prioritize needs, determine task assignments, and work together to achieve timely solutions
-  - Consolidate feedback from audiences, volunteers, and/or faculty and staff who use the website on needed capabilities and improvements, and pass these to the program area leader, regional director, and DCE team
-  - Initiate and moderate team or group planning discussions, and request, plan, and attend needed trainings
-  - Refer team or group members to the support and training guides for technical questions or concerns
-  - Add or remove member names in the Drupal content management system group or designate a member manager
-  - Learn the capabilities of available custom features to use to improve engagement
-  - Discuss standard practices with local programs group members (if applicable) and with team members related to content tagging and descriptions
+    - Provide a point of contact between faculty and staff who use the website, the program area leader, regional director, and DCE team, to identify and prioritize needs, determine task assignments, and work together to achieve timely solutions
+    - Consolidate feedback from audiences, volunteers, and/or faculty and staff who use the website on needed capabilities and improvements, and pass these to the program area leader, regional director, and DCE team
+    - Initiate and moderate team or group planning discussions, and request, plan, and attend needed trainings
+    - Refer team or group members to the support and training guides for technical questions or concerns
+    - Add or remove member names in the Drupal content management system group or designate a member manager
+    - Learn the capabilities of available custom features to use to improve engagement
+    - Discuss standard practices with local programs group members (if applicable) and with team members related to content tagging and descriptions
 
-Suggested Focus for 2019
-
-  - Establish team or group role assignments
-  - Review website changes, content updates, and new features as they are rolled out and communicate to team or group members
-  - Establish a content plan with the support of the content strategist
-  - Coordinate who will do entry in the team or group and establish a process
-  - Ensure faculty and staff on related Extension website pages are up to date
 
 ## Team or Group Members
 
 - Collaborator role to develop educational content (content teams), programmatic content (program groups), and physical location and local services content (county office /combined station groups)
-
-- With guidance from your team or group leader, assess customer need​s ​and​ ​identify​ ​gaps in content
-- Revise​, create, and review ​new​ ​content​ in alignment with your content plan
+    - With guidance from your team or group leader, assess customer need​s ​and​ ​identify​ ​gaps in content
+    - Revise​, create, and review ​new​ ​content​ in alignment with your content plan
 
 - Maintain​ content in​ ​the Drupal content management system
-  - Ensure content is current, relevant, and customer focused
+    - Ensure content is current, relevant, and customer focused
+    - Evaluate content, select the appropriate content type, identify the group to enter the content in, and check if there are duplicates before adding content
+    - Enter, upload, ​tag, and add quality images to new content following brand, access, and other requirements
+    - Add descriptions and sections to the main web pages to display the tagged content for specific areas
+    - Review existing content to ensure it is up to date, accurate, and appropriately tagged or other requirements
+    - Archive old content and note any reasons in the revisions field
 
-- Evaluate content, select the appropriate content type, identify the group to enter the content in, and check if there are duplicates before adding content
-- Enter, upload, ​tag, and add quality images to new content following brand, access, and other requirements
-- Add descriptions and sections to the main web pages to display the tagged content for specific areas
-- Review existing content to ensure it is up to date, accurate, and appropriately tagged or other requirements
-- Archive old content and note any reasons in the revisions field
-
-Suggested Focus for 2019
-
-- Contribute to your team&#39;s content plan or group&#39;s assignments
-- Add missing, relevant content to the website
-- Increase findability of content by monitoring and revising tags
-- Improve readability and review accuracy of existing content
 
 ### More Defined Content Team Member Roles
 
