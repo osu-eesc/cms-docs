@@ -12,7 +12,7 @@ Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. U
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
 
-<p class="">Download <a class="" href="../documents/content-entry-checklists.pdf"> Content Entry Checklist</a> PDF</p>
+<p class="">Download <a class="btn btn-neutral" href="../documents/content-entry-checklists.pdf"> Content Entry Checklist</a></p>
 
 
 ## Content & Group Types
@@ -20,7 +20,7 @@ Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. U
 <a class="" href="../documents/content-types.pdf"><img class="pull-right" src="../images/content-types-sm.png" alt="Content & Group Types"></a>
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb kombucha fingerstache hella tilde pabst plaid wayfarers. Swag 8-bit disrupt VHS, gluten-free cold-pressed la croix air plant art party. Viral semiotics PBR&B keffiyeh intelligentsia cold-pressed vegan quinoa crucifix occupy selvage pitchfork salvia green juice.
 
-<p class="">Download <a class="" href="../documents/content-types.pdf">Content & Group Types</a> guide PDF</p>
+<p class="">Download <a class="btn btn-neutral" href="../documents/content-types.pdf">Content & Group Types</a> guide</p>
 
 <p><h2>Content Author Interface</h2>
 
@@ -35,7 +35,7 @@ Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. U
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
 
-<p class="">Download <a class="" href="../documents/site-interface.pdf">Content Author Interface</a> guide PDF</p> </p>
+<p class="">Download <a class="btn btn-neutral" href="../documents/site-interface.pdf">Content Author Interface</a> guide</p> </p>
 
 <p><h2>Tags</h2>
 
@@ -48,7 +48,7 @@ Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. U
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
 
-<p class="">Download <a class="" href="../documents/tagging.pdf">Tags</a> guide PDF</p>
+<p class="">Download <a class="btn btn-neutral" href="../documents/tagging.pdf">Tags</a> guide</p>
 
 
 ## Page Sections
@@ -63,4 +63,4 @@ Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. U
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
 Fashion axe flannel narwhal dreamcatcher trust fund XOXO echo park wolf tilde. Ugh raw denim twee slow-carb
 
-<p class="">Download <a class="" href="../documents/page-sections.pdf">Page Sections</a> guide PDF</p>
+<p class="">Download <a class="btn btn-neutral" href="../documents/page-sections.pdf">Page Sections</a> guide PDF</p>
