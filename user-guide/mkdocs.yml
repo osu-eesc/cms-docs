@@ -1,7 +1,5 @@
 site_name: OSU Extension Website Documentation
 
-repo_url: https://github.com/osu-eesc/cms-docs
-edit_uri: edit/master/user-guide/docs
 site_description: 'OSU Extension Web-guide'
 theme:
   name: readthedocs
