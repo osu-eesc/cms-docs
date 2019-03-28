@@ -131,47 +131,7 @@ Most members of topic committees will also be members of a content team. However
 >  2. The “Master Gardener – X County” program team: They would use this group to enter the program materials for Master Gardeners in their county. They could also display educational content that their volunteers would find useful.
 
 
-## Roles and Responsibilities
 
-  It is helpful in knowing not only your Drupal groups, but the roles of all the people involved in the OSU Extension digital content and engagement strategy. This can show you where to get support. Current responsibilities have focused on the Extension website, although it is just a piece of the long-range plans.
-
-  **Everyone in Extension**
-
-  -
-    - Engage with and contribute to at least one content team or program or office group
-    - Ensure your web profile is updated, add a headshot photo, and select expertise
-    - Provide information requested to begin development of the customer relationship management system
-
-  **Program Area Leaders and Regional Directors**
-
-  -
-    - Establish process and calendar for creation/management of content
-    - Help the DCE team establish metrics necessary to maintain progress and align with current OSU Strategic Plan
-    - Work with content strategist to establish governance plans
-    - Ensure supervised faculty are engaged and actively participating in at least one content team
-    - Begin planning for use of customer relationship management system to meet specific program goals
-
-  **Team or Group Leaders**
-
-  -
-    - Establish team or group role assignments
-    - Review website changes, content updates, and new features as they are rolled out and communicate to team or group members
-    - Establish a content plan with the support of the content strategist
-    - Coordinate who will do entry in the team or group and establish a process
-    - Ensure faculty and staff on related Extension website pages are up to date
-
-  **Team or Group Members**
-
-  - Contribute to your team&#39;s content plan or group&#39;s assignments
-  - Add missing, relevant content to the website
-  - Increase findability of content by monitoring and revising tags
-  - Improve readability and review accuracy of existing content
-
-  Learn more about these Primary Roles and Responsibilities [make this linked to a nested subpage].
-
-  The executive leadership and communication and technology units also have a role to play. Their responsibilities look at project management, resource alignment, communication and training, systems development and integration, and other strategic planning roles.
-
-  Learn more about the Other Roles and Responsibilities for leadership and support [make this link to nested subpages with leadership and support roles]
 
 ## Content Types
 
