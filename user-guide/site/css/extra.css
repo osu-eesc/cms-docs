@@ -1,8 +1,12 @@
 /*
- * Use Beaver Orange instead of default blue color.
+ * Use Beaver Orange instead of default blue color in navs.
  */
 .wy-side-nav-search {
   background-color: #D73F09;
+}
+
+.wy-nav-top {
+  background: #D73F09;
 }
 
 .rst-content blockquote {
