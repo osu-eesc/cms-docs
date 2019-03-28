@@ -45,7 +45,7 @@ Announcements are not for individual events such as a workshop or lecture. Also,
 
 Members of program or county office groups. If an announcement applies to more than one county or program, coordinate to make sure to add it only once.
 
-**Quick Tip**: If an announcement has been entered that needs to be edited, added to or removed from your page, you should contact the uploader of the announcement. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
+> **Quick Tip**: If an announcement has been entered that needs to be edited, added to or removed from your page, you should contact the uploader of the announcement. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
 
 ### Instructions
 
@@ -95,7 +95,7 @@ On the edit screen for an article, you will see the following fields:
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your article more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
+> **Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your article more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
 ### How and Where It
 
@@ -174,7 +174,7 @@ The edit screen for a county office has three sections:
   - **Other Content**: this is where you can specify other content related to the county. Specifically, the introductory text for automatically-generated pages (see below) and custom sidebar links.
   - **County Info**: the contact information, location, office hours, etc. for the county.
 
-**Quick Tip**: Members of county groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
+> **Quick Tip**: Members of county groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
 
 ### How and Where It Displays
 
@@ -208,7 +208,7 @@ In almost all cases, educational documents would work better as articles. This m
 
 Educational documents are not appropriate for program forms, event information, driving directions, and other content that is not educational. Instead, these should usually be program resources, events, newsletters, or announcements.
 
-**Quick Tip**: There are several options available for you to upload files. The best place depends on the audience the document is intended for, whether it will have new versions in the future, and whether it should be private to a certain group. See [File Management](content-requirements.md#file-management) for more information.
+> **Quick Tip**: There are several options available for you to upload files. The best place depends on the audience the document is intended for, whether it will have new versions in the future, and whether it should be private to a certain group. See [File Management](content-requirements.md#file-management) for more information.
 
 **Catalog publications should not be added as educational documents.** These are added and maintained by EESC.
 
@@ -265,7 +265,7 @@ An event that a visitor to the website could attend. If it isn’t a gathering s
 
 Any user on the site. If an event applies to more than one county or program, coordinate and make sure to add it only once.
 
-**Quick Tip**: If an event has been entered that needs to be edited or removed from your page, you should contact the uploader of the event. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
+> **Quick Tip**: If an event has been entered that needs to be edited or removed from your page, you should contact the uploader of the event. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
 
 ### Instructions
 
@@ -354,14 +354,14 @@ On the edit screen for a focus area, you will see the following fields:
   - **Topic**: the topic(s) the focus area relates to. Selecting a topic here will cause a link to it to appear at the bottom of the focus area's page (see below).
   - **Contact information**: if the focus area has specific contact info that is different than the main county, enter it here.
   - **How to display**: you have three options:
-    - **Link to a local program**: this will allow you to select a local program (MG or 4-H). Links to the focus area will take visitors directly to the landing page for that local program.
+    1. **Link to a local program**: this will allow you to select a local program (MG or 4-H). Links to the focus area will take visitors directly to the landing page for that local program.
     - **Link to an existing focus area in another county**: if you would like to share a focus area with another county (e.g. for a regional focus area), select it here. Links to the focus area you create will take visitors directly to the existing focus area.
     - **Display a custom page**: this creates a new page for the focus area. The following fields are available for this page:
-      - **Hero image**: large image that displays at the top of the page.
-      - **Introduction**: text at the top of the page to introduce the focus area.
-      - **Summary/about**: an additional text area (with a full-screen background image) for more information about the focus area.
-      - **Featured users**: specify the faculty/staff in the county who work in this focus area.
-      - **Page sections**: additional content for the page. See the [Page Sections](using-site.md#page-sections) section of this guide for more information. The following types of sections are available:
+        - **Hero image**: large image that displays at the top of the page.
+        - **Introduction**: text at the top of the page to introduce the focus area.
+        - **Summary/about**: an additional text area (with a full-screen background image) for more information about the focus area.
+        - **Featured users**: specify the faculty/staff in the county who work in this focus area.
+        - **Page sections**: additional content for the page. See the [Page Sections](using-site.md#page-sections) section of this guide for more information. The following types of sections are available:
         - **Call to action**: link to content or an external website with a custom title, description, and image.
         - **County events list**: list of events entered by or tagged by the county. You can narrow the events shown by either the topic(s) or "additional calendar" the events are tagged with.
         - **Custom content list**: One or more pieces of content with a custom section title and description. The first three items selected will show as teasers with thumbnails. The remaining selected items will display in a simpler text-only list.
@@ -414,7 +414,7 @@ On the edit screen for a newsletter issue, you will see the following fields:
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your newsletter content more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
+> **Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your newsletter content more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
 ### How and Where It Displays
 
@@ -490,7 +490,7 @@ The edit screen for a program has three sections:
   - **Sidebar**: You can add additional links to the sidebar on program pages. These will show up on every page associated with the program.
   - **Program Info**: This is where you can edit the description, thumbnail image (photo or square graphic companion logo that has been approved by OSU), tags, and other information for the program.
 
-**Quick Tip**: Members of program groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
+> **Quick Tip**: Members of program groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
 
 If your program has an existing website, you can enter the link in the “Program Info” section of the edit page. Visitors will go directly to this site when they click on the program. If you would like to have a short description about the program, show faculty or staff, and add events or newsletters to show here and other places on the Extension website, before directing people to the external site, do not add the link to the “Program Info” section. Instead hyperlink to it on the program landing page using a “Button Link” section.
 
@@ -530,7 +530,7 @@ On the edit screen for a program resource, you will see the following fields:
   - **This resource is for active program volunteers**: This is for internal informational purposes only. In the future, it could be used to pull information into a volunteer management solution Extension may adopt.
   - **Thumbnail**: an image for the resource that displays in the teaser. If empty and the resource type is “document,” it will use an image of the first page of the document.
 
-**Quick Tip**: If you will need to replace a program resource document with a new version in the future, consider taking advantage of the file versioning functionality available in Box. See: [File Management](content-requirements.md#file-management) for more information.
+> **Quick Tip**: If you will need to replace a program resource document with a new version in the future, consider taking advantage of the file versioning functionality available in Box. See: [File Management](content-requirements.md#file-management) for more information.
 
 #### Managing Program Resource Categories
 
@@ -552,14 +552,13 @@ Program Resources display in “Program Resource List” sections on program sub
 
 Local programs can display program resources from their statewide program. To do this, add a “Program Statewide Resource List” section to a page. You can narrow the resources shown by the categories configured by the statewide program.
 
-#### Case Study: BBB Program Resources
+
+> #### Case Study: BBB Program Resources
 Better Bones and Balance uses categories to organize their Program Resources:
-
 ![Program Categories Screenshot](images/program-categories.png)
-
 Their program subpages roughly correspond to these categories:
 
-  - DVD -> Better Bones and Balance Store Items
+>  - DVD -> Better Bones and Balance Store Items
   - Fact Sheets -> Research & Publications
   - Instructor Resources -> Instructor Resources
   - Recertification -> Become a BBB Instructor
@@ -646,7 +645,7 @@ By default, the newest materials show up at the bottom of the sidebar. If you ar
 
 A customizable page for organizing content and providing additional context or information about a program.
 
-**Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your page’s content more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
+> **Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your page’s content more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
 ### Who Can Add It
 
@@ -656,7 +655,7 @@ Members of program groups.
 
 The edit screen for a subpage contains fields for the page title, hero image, and some basic text content. The hero image displays as a banner at the top of the page, so it should be about 2000px wide by 400px high. If this is empty, it will use the hero image of the county or program in its group.
 
-**Quick tip**: There is a link above the first text box on the edit screen that says "Edit Summary". When you click this, a smaller text box appears. The text in this box is what displays in teasers for the subpage. These appear in search results or when someone selects the subpage as featured content.
+> **Quick Tip**: There is a link above the first text box on the edit screen that says "Edit Summary". When you click this, a smaller text box appears. The text in this box is what displays in teasers for the subpage. These appear in search results or when someone selects the subpage as featured content.
 
 Content for subpages is primarily added through page sections (see [Page Sections](using-site.md#page-sections) for more information). These types of sections are available
 
@@ -682,7 +681,7 @@ Content for subpages is primarily added through page sections (see [Page Section
   - **Program Tagged Content List**: an automatically generated list of content in the site that has been tagged with the program.
   - **Statewide Program Events List**: shows a list of events that have been entered by a local program’s statewide “parent.”
 
-**Quick Tip**: For help featuring educational content entered by Content Teams on their pages, see: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
+> **Quick Tip**: For help featuring educational content entered by Content Teams on their pages, see: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
 
 ### Where and How It Displays
 
@@ -727,7 +726,7 @@ A “topic page” actually consists of several pages, which are listed in a men
 
 If there isn’t any content on a page, the link won’t appear in the menu.
 
-**Quick Tip**: For guidelines to help decide what content to feature on a Topic Page, [Planning and Evaluating Content](content-requirements.md#planning-and-evaluating-content).
+> **Quick Tip**: For guidelines to help decide what content to feature on a Topic Page, [Planning and Evaluating Content](content-requirements.md#planning-and-evaluating-content).
 
 ### Who Can Add It
 

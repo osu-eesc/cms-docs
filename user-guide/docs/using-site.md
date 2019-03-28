@@ -65,18 +65,17 @@ The program groups that maintain these pages have a lot of flexibility around ho
 
 Many visitors familiar with the old website expect to find content on their county’s page. Counties, like programs, maintain pages to organize and direct visitors toward content. People can find their county on the “Locations” page under “Find Us” in the top black menu bar.
 
-#### Case Study: Finding a Newsletter
-
+> #### Case Study: Finding a Newsletter
 A newsletter called [*GROWING*](https://extension.oregonstate.edu/newsletter/growing) is published in Linn and Benton Counties. A person might find this newsletter on the Extension site in several ways.
 
-  - [Search for “growing” and filter by Type “Newsletter.”](https://extension.oregonstate.edu/search?search=growing&search-filter%5B0%5D=type%3Aext_newsletter)
+>  - [Search for “growing” and filter by Type “Newsletter.”](https://extension.oregonstate.edu/search?search=growing&search-filter%5B0%5D=type%3Aext_newsletter)
   - [Search for “growing newsletter.”](https://extension.oregonstate.edu/search?search=growing+newsletter)
   - [Use the link on the Linn-Benton Master Gardener program page.](https://extension.oregonstate.edu/mg/benton/volunteer-resources)
   - [Use the link on the Linn County page.](https://extension.oregonstate.edu/linn/newsletter)
   - [Use the link on the Benton County page.](https://extension.oregonstate.edu/benton)
   - [Use the link on the “Browse Resources” page for the Gardening Techniques topic.](https://extension.oregonstate.edu/topic/gardening/techniques/resources?type=ext_newsletter)
 
-Since the newsletter was entered only once, updates will automatically show up in all these places.
+> Since the newsletter was entered only once, updates will automatically show up in all these places.
 
 ## Making Changes to Content
 

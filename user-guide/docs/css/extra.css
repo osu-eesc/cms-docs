@@ -5,6 +5,11 @@
   background-color: #D73F09;
 }
 
+.rst-content blockquote {
+  border: 2px solid #D73F09;
+  padding: 1em;
+}
+
 /*
  * Use OSU theme link colors.
  */

@@ -34,10 +34,10 @@ The goal behind a central CMS is to *meet people where they are* instead of tryi
   * **Atomic**: "Atomic" means “of or forming a single irreducible unit or component in a larger system.” This means that we want to enter content in the system as the smallest possible (and sensible) pieces. Then the system can put them back together in different ways depending on the context.
   * **Described**: Computers are getting “smarter” all the time, but they always do better with a little human help. Authors should include information about the content in the system. This gives clues as to what the content is about, who it is for, and when it is appropriate to present.
 
-### Case Study: Home Food Safety and Preservation Program  Publications
+> ### Case Study: Home Food Safety and Preservation Program  Publications
 On the previous Extension website, this program created a page for its publications. Each publication is a PDF file containing information about a food preservation topic, and each PDF was a link on the page.
 
-Instead of adding them all to the CMS as one long page of links like on the old site, content managers for the program entered each publication separately. Now the website can [list them all together for volunteers](https://extension.oregonstate.edu/mfp/publications) *and* [present them separately](https://extension.oregonstate.edu/search?search=canning+peaches) to visitors interested in a specific subject. Also, if authors need to update information, then they just need to change the publication once. It will be updated everywhere it shows on the site, which avoids broken links and reduces workload.
+>Instead of adding them all to the CMS as one long page of links like on the old site, content managers for the program entered each publication separately. Now the website can [list them all together for volunteers](https://extension.oregonstate.edu/mfp/publications) *and* [present them separately](https://extension.oregonstate.edu/search?search=canning+peaches) to visitors interested in a specific subject. Also, if authors need to update information, then they just need to change the publication once. It will be updated everywhere it shows on the site, which avoids broken links and reduces workload.
 
 ## Customer Relationship Management
 

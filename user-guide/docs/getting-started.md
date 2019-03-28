@@ -121,16 +121,17 @@ Most members of topic committees will also be members of a content team. However
 
 *Types of groups and how they overlap.*
 
-#### Case Study: Groups for a Master Gardener Coordinator
+> #### Case Study: Groups for a Master Gardener Coordinator
 
-Say that in county X, there is a single person that acts as a Master Gardener volunteer coordinator. This employee develops educational materials as well as forms and other materials for volunteers.
+> Say that in county X, there is a single person that acts as a Master Gardener volunteer coordinator. This employee develops educational materials as well as forms and other materials for volunteers.
 
-This person would be a member of (at least) two groups.
+> This person would be a member of (at least) two groups.
 
-  1. The “Home Horticulture” content team: They would use this group to enter their educational gardening content, since gardening information is relevant to people outside the program too, not just participants.
-  2. The “Master Gardener – X County” program team: They would use this group to enter the program materials for Master Gardeners in their county. They could also display educational content that their volunteers would find useful.
+>  1. The “Home Horticulture” content team: They would use this group to enter their educational gardening content, since gardening information is relevant to people outside the program too, not just participants.
+>  2. The “Master Gardener – X County” program team: They would use this group to enter the program materials for Master Gardeners in their county. They could also display educational content that their volunteers would find useful.
 
-  ## Roles and Responsibilities
+
+## Roles and Responsibilities
 
   It is helpful in knowing not only your Drupal groups, but the roles of all the people involved in the OSU Extension digital content and engagement strategy. This can show you where to get support. Current responsibilities have focused on the Extension website, although it is just a piece of the long-range plans.
 

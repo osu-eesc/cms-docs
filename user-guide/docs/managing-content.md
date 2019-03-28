@@ -164,8 +164,8 @@ To do this, you need to have the role “Member & Setting Manager” in the prog
 | **Events & Announcements** | Enter the content through the county’s group </br>Or </br>Edit the content and **add a tag for the county**. </br></br>Someone associated with the county will need to add a “**County events list**” section to the page where you want the content to show. You may need to select a “Calendar to display” so you can narrow this section down to specific terms. | **Contact the person** who added the content and ask them to tag it with the county, and if needed, select a specific calendar. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors) for more information. </br></br>Someone associated with the county will need to add a “**County events list** section to the page where you want the content to show. You may need to select a “Calendar to display” so you can narrow this section down to specific terms. |
 | **People** | Submit a [web support request](https://osueesc.atlassian.net/servicedesk/customer/portal/2) to have a person added to the directory for a county. | |
 
-### Case Study - Master Gardener Program Pages
 
+> ### Case Study - Master Gardener Program Pages
 ![How to Display Content Chart](images/how-to-display-content.png)
 
 ### Other Ways to Group Content

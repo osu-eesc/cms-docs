@@ -280,22 +280,25 @@ In the upcoming phase of development for the website, there will be more robust 
 
 Tagging a piece of content with a program or county generally makes it appear on the corresponding program or county page. When you do this, please be mindful of whether your content is relevant to visitors to that page.
 
-### Case Study: Tags on an Article
+> ### Case Study: Tags on an Article
 
-The article “[Start Planning Early: Things to consider when selling trees from your property](https://extension.oregonstate.edu/forests/health-managment/start-planning-early-things-consider-when-selling-trees-your-property)” is tagged as follows:
-  - Topics: Forest Health and Management; Cutting and Selling Trees
-    - Shows on both topic pages: [Forest Health and Management](https://extension.oregonstate.edu/topic/forests/health-managment/resources), [Cutting and Selling Trees](https://extension.oregonstate.edu/topic/forests/cutting-selling/resources)
-  - Keywords: logging, timber harvest, clear cut, thinning
-    - Shows when [topic pages are filtered](https://extension.oregonstate.edu/topic/forests/health-managment/resources?keyword=timber%20harvest)
-    - Shows in [search results for keywords](https://extension.oregonstate.edu/search?search=logging)
-  - Region: Statewide
-  - Language: (none)
-  - Program: Master Woodland Manager
-    - If the MWM program had a “Program Tagged Content List” section configured, this article would show up there
+> The article “[Start Planning Early: Things to consider when selling trees from your property](https://extension.oregonstate.edu/forests/health-managment/start-planning-early-things-consider-when-selling-trees-your-property)” is tagged as follows:
 
-### Case Study: Tags on Event
+> - **Topics:** *Forest Health and Management; Cutting and Selling Trees*
+      - Shows on both topic pages: [Forest Health and Management](https://extension.oregonstate.edu/topic/forests/health-managment/resources), [Cutting and Selling Trees](https://extension.oregonstate.edu/topic/forests/cutting-selling/resources)
+  - **Keywords:** *logging, timber harvest, clear cut, thinning*
+      - Shows when [topic pages are filtered](https://extension.oregonstate.edu/topic/forests/health-managment/resources?keyword=timber%20harvest)
+      - Shows in [search results for keywords](https://extension.oregonstate.edu/search?search=logging)
+  - **Region:** *Statewide*
+      - Language: (none)
+      - Program: Master Woodland Manager
+      - If the MWM program had a “Program Tagged Content List” section configured, this article would show up there
 
-The event “[4-H Annual Western Region Livestock Education Day](https://extension.oregonstate.edu/4h/linn/events/4th-annual-western-region-livestock-education-day)” is tagged with a number of counties and local 4-H programs. This is because it is applicable to the entire Western region of the state. It shows up on the pages for each county and program it is tagged with. Note that, because it was added through the Linn County 4-H group, it does not need to be tagged with the Linn County 4-H program to show up on that page.
+
+> ### Case Study: Tags on Event
+
+> The event “[4-H Annual Western Region Livestock Education Day](https://extension.oregonstate.edu/4h/linn/events/4th-annual-western-region-livestock-education-day)” is tagged with a number of counties and local 4-H programs.
+This is because it is applicable to the entire Western region of the state. It shows up on the pages for each county and program it is tagged with. Note that, because it was added through the Linn County 4-H group, it does not need to be tagged with the Linn County 4-H program to show up on that page.
 
 ## Legal Requirements
 
