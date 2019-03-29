@@ -121,7 +121,7 @@ The caption displays below the image with information about the subject of the i
 
 The alt text is a *replacement* for the image when the image is not available. This happens, for example, when a person is using assistive technology or has images turned off. It is also visible to search engines that scan the site for relevant content to show in search results.
 
-Alt text is usually only necessary when there is text in the image. In this case you should re-enter that text in the alt text field. You should also include alt text when the image illustrates something that isn’t explained in the caption or other surrounding text.
+Alt text is usually only necessary when there is text in the image. In this case you should re-enter that text in the alt text field as it appears in the image. You should also include alt text when the image illustrates something that isn’t explained in the caption or other surrounding text.
 
 ## File Management
 
@@ -295,7 +295,7 @@ Tagging a piece of content with a program or county generally makes it appear on
       - If the MWM program had a “Program Tagged Content List” section configured, this article would show up there
 
 
-> ### Case Study: Tags on Event
+> ### Case Study: Tags on an Event
 
 > The event “[4-H Annual Western Region Livestock Education Day](https://extension.oregonstate.edu/4h/linn/events/4th-annual-western-region-livestock-education-day)” is tagged with a number of counties and local 4-H programs.
 This is because it is applicable to the entire Western region of the state. It shows up on the pages for each county and program it is tagged with. Note that, because it was added through the Linn County 4-H group, it does not need to be tagged with the Linn County 4-H program to show up on that page.

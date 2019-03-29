@@ -28,7 +28,7 @@ In general, you will need to follow these steps when entering content on the Ext
 
 ## Announcement
 
-### What It Is
+### What Is an Announcement
 
 A short, time-sensitive piece of information that you need to call attention to. Also used to advertise seasonal services such as clinics and hotlines.
 
@@ -41,13 +41,13 @@ Examples:
 
 Announcements are not for individual events such as a workshop or lecture. Also, announcements only display on the site for a set period of time, so they shouldn’t be content that needs to remain visible long-term.
 
-### Who Can Add It
+### Who Can Add Announcements
 
 Members of program or county office groups. If an announcement applies to more than one county or program, coordinate to make sure to add it only once.
 
 > **Quick Tip**: If an announcement has been entered that needs to be edited, added to or removed from your page, you should contact the uploader of the announcement. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
 
-### Instructions
+### Instructions for Announcements
 
 On the edit screen for an announcement, you will see the following fields:
 
@@ -57,7 +57,7 @@ On the edit screen for an announcement, you will see the following fields:
   - **Additional Counties and Additional Programs**: other counties and programs where the announcement should show. You do not need to include the county and program you are using to add the announcement.
   - **Announcement Topic**: specifies on which topic page(s) the announcement should show.
 
-### How and Where It Displays
+### How and Where Announcements Display
 
 Topic, program, and county landing pages display one announcement **teaser**. After the teaser is a button to “See All Announcements.” This page shows teasers for all announcements for that topic, program, or county. Each teaser links to the full announcement content.
 
@@ -71,17 +71,17 @@ Teasers will only display during the dates specified in the “display dates” 
 
 ## Article
 
-### What It Is
+### What Is an Article
 
 A text-based piece of educational content. This is the preferred way to enter educational content owned by OSU Extension.
 
 Articles stay on the site long-term, so they shouldn’t contain content that is only relevant for a short time. Use newsletter issues or announcements for these instead.
 
-### Who Can Add It
+### Who Can Add Articles
 
 Members of Content Team groups.
 
-### Instructions
+### Instructions for Articles
 
 On the edit screen for an article, you will see the following fields:
 
@@ -97,7 +97,7 @@ On the edit screen for an article, you will see the following fields:
 
 > **Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your article more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
-### How and Where It
+### How and Where Articles Display
 
 The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the article displays.
 
@@ -108,7 +108,7 @@ Counties and Programs can display articles on a page by adding a “featured con
 
 ## Collection
 
-### What It Is
+### What Is a Collection
 
 A grouping of existing pieces of educational content. Examples:
 
@@ -119,11 +119,11 @@ Collections must be maintained by the content team. This can be time consuming. 
 
 Collections serve a specific purpose and are not a solution for all needs, especially where the website is helping to organize the content too. You don’t usually need a collection for grouping content based on geographical region or topic. Filters on topic pages can accomplish this.
 
-### Who Can Add It
+### Who Can Add Collections
 
 Members of Content Team groups.
 
-### Instructions
+### Instructions for Collections
 
 Before you create a collection, be sure to find (or add to the site, if needed) all the content that should be part of it.
 
@@ -143,7 +143,7 @@ On the edit screen for a collection, you will see the following fields:
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-### How and Where It Displays
+### How and Where Collections Display
 
 Collections display just like articles, educational documents, and other pieces of educational content. They display on topic and program pages based on the tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen.
 
@@ -154,15 +154,15 @@ Counties and Programs can add collections to a page by adding a “featured cont
 
 ## County Office
 
-### What It Is
+### What Is a County Office
 
 Represents information about a county and content on its main page.
 
-### Who Can Add It
+### Who Can Add County Offices
 
 These have been set up for you. No one can add or delete them.
 
-### Instructions
+### Instructions for County Offices
 
 The edit screen for a county office has three sections:
 
@@ -176,7 +176,7 @@ The edit screen for a county office has three sections:
 
 > **Quick Tip**: Members of county groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
 
-### How and Where It Displays
+### How and Where County Offices Display
 
 Each county has several automatically generated pages:
 
@@ -196,7 +196,7 @@ There is a list of all counties on the [Find Us](https://extension.oregonstate.e
 
 ## Educational Document
 
-### What It Is
+### What Is an Educational Document
 
 A document (PDF, Word Document, Excel spreadsheet, or PowerPoint presentation) containing educational information.
 
@@ -214,11 +214,11 @@ Educational documents are not appropriate for program forms, event information, 
 
 **Important Note:** Be sure you have permission to share the file before you upload it to the Extension website. See [Copyrighted Content](content-requirements.md#copyrighted-content).
 
-### Who Can Add It
+### Who Can Add Educational Documents
 
 Members of Content Team groups.
 
-### Instructions
+### Instructions for Educational Documents
 
 On the edit screen for an educational document, you will see the following fields:
 
@@ -232,7 +232,7 @@ On the edit screen for an educational document, you will see the following field
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-### How and Where It Displays
+### How and Where Educational Documents Display
 
 The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the educational document displays.
 
@@ -248,11 +248,11 @@ Counties and Programs can add educational documents to a page by adding a “fea
 [![Create an Event Video Link](https://cfvod.kaltura.com/p/391241/sp/39124100/thumbnail/entry_id/1_m09iw794/version/100021/width/940/height/559)](https://media.oregonstate.edu/media/t/1_m09iw794)
 
 
-### What It Is
+### What Is an Event
 
 An event that a visitor to the website could attend. If it isn’t a gathering someone can attend, it shouldn’t be an event. This includes deadlines, office closures, and “services” such as a plant clinic or hotline. Instead, these should be announcements.
 
-### Why Do This
+### Why Create Events
 
   - Showcase and track the amount of on-the-ground programming that you do
   - Expand your outreach to local and new audiences about your events
@@ -261,13 +261,13 @@ An event that a visitor to the website could attend. If it isn’t a gathering s
   - Be able to send specific events to interested people through future digital strategy
   - Find out which events are most viewed and by what audiences through analytics
 
-### Who Can Add It
+### Who Can Add Events
 
 Any user on the site. If an event applies to more than one county or program, coordinate and make sure to add it only once.
 
 > **Quick Tip**: If an event has been entered that needs to be edited or removed from your page, you should contact the uploader of the event. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
 
-### Instructions
+### Instructions for Events
 
 On the edit screen for an event, you will see the following fields:
 
@@ -312,7 +312,7 @@ On the edit screen for an event, you will see the following fields:
   - **Additional counties or programs**: other counties and programs where the event should show. You don’t need to include the county or program you are using to enter the event.
   - **Topics**: specifies which topic pages the event should show on.
 
-### How and Where It Displays
+### How and Where Events Display
 
 Event teasers will only display on pages until the event ends. They contain the event title, dates, and the city in which it takes place (or “Online” if it is a webinar). They show on the following pages on the site:
 
@@ -334,15 +334,15 @@ The FNR Extension website pulls events from the Extension website when “Forest
 
 ## Local Focus Area
 
-### What It Is
+### What Is a Local Focus Area
 
 Information about Extension activities, work, or research done in a county or combined station that relates to a program or topic area. These are intended to act as a link between county pages and topic or program pages. You can highlight content that is especially relevant locally, but try to use topic pages to present educational content.
 
-### Who Can Add It
+### Who Can Add Local Focus Areas
 
 Members of County Office groups.
 
-### Instructions
+### Instructions for Local Focus Areas
 
 On the edit screen for a focus area, you will see the following fields:
 
@@ -370,7 +370,7 @@ On the edit screen for a focus area, you will see the following fields:
         - **Quick links bar**: a full-width bar that contains up to four highlighted links (e.g. to Facebook, Twitter, a newsletter, or a calendar).
         - **Video**: a video from YouTube, Vimeo, or OSU Media Space.
 
-### How and Where It Displays
+### How and Where Local Focus Areas Display
 
 All focus areas entered by a county group will show up on an automatically-generated "What We Do" page for the county. To reorder the focus areas, click the pencil icon that appears when you hover over the page title and select "Reorder Focus Areas".
 
@@ -384,15 +384,15 @@ Three focus areas will display on the county landing page with a button to see t
 
 ## Newsletter Issue
 
-### What It Is
+### What Is a Newsletter Issue
 
 Newsletter issues can be documents, links to an email newsletter service, or content entered into the website. They are organized into newsletter containers. For example the [*GROWING*](https://extension.oregonstate.edu/newsletter/growing) newsletter *container* includes the *issues* for Nov/Dec, Sept/Oct, July/Aug, etc.
 
-### Who Can Add It
+### Who Can Add Newsletter Issues
 
 Any user can add newsletter issues. However, you must enter an issue of a newsletter through the *same group* as the newsletter it belongs to.
 
-### Instructions
+### Instructions for Newsletter Issues
 
 **Step 1: Create the Newsletter Container**
 
@@ -420,7 +420,7 @@ On the edit screen for a newsletter issue, you will see the following fields:
 
 > **Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your newsletter content more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
-### How and Where It Displays
+### How and Where Newsletter Issues Display
 
 Newsletter containers display automatically on topic and program pages based on their tags.
 
@@ -438,15 +438,15 @@ If you have a form people can use to sign up for your newsletter, there are seve
 
 ## Online Resource
 
-### What It Is
+### What Is an Online Resource
 
 A link to educational content housed on another site. Use this for any content that is copyrighted by another organization.
 
-### Who Can Add It
+### Who Can Add Online Resources
 
 Members of Content Team groups
 
-### Instructions
+### Instructions for Online Resources
 
 On the edit screen of an online resource, you will see the following fields:
 
@@ -459,7 +459,7 @@ On the edit screen of an online resource, you will see the following fields:
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-### How and Where It Displays
+### How and Where Online Resources Display
 
 The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the online resource displays.
 
@@ -470,7 +470,7 @@ Counties and Programs can add online resources to a page by adding a “featured
 
 ## Program
 
-### What It Is
+### What Is a Program
 
 A **program** on the Extension website is an *externally facing* activity that members of the public can participate in. Examples include 4-H programs and the various Master training programs.
 
@@ -482,11 +482,11 @@ This definition is narrower than what people in Extension normally mean by “pr
 
 Most programs have a single main **“statewide” program** group that maintains content. Counties can point visitors there and add some locally relevant information if applicable. However, some programs (namely, 4-H and Master Gardener) have dedicated staff for maintaining specific local content. These have **local program** groups in addition to the statewide program group.
 
-### Who Can Add It
+### Who Can Add Programs
 
 These have been set up for you. No one can add or delete them.
 
-### Instructions
+### Instructions for Programs
 
 The edit screen for a program has three sections:
 
@@ -498,7 +498,7 @@ The edit screen for a program has three sections:
 
 If your program has an existing website, you can enter the link in the “Program Info” section of the edit page. Visitors will go directly to this site when they click on the program. If you would like to have a short description about the program, show faculty or staff, and add events or newsletters to show here and other places on the Extension website, before directing people to the external site, do not add the link to the “Program Info” section. Instead hyperlink to it on the program landing page using a “Button Link” section.
 
-### How and Where It Displays
+### How and Where Programs Display
 
 There is a list of all programs on the [programs page](https://extension.oregonstate.edu/programs). This is in the top black menu bar at the top of every page under “Get Involved.”
 
@@ -506,17 +506,17 @@ You can tag a program with topics and counties in the “Program Info” section
 
 ## Program Resource
 
-### What It Is
+### What Is a Program Resource
 
 A document or link that is necessary for participation in a program (see definition of program above). Examples include forms, policies, or procedures. These should be items that are *only of interest to participants in a specific program*.
 
 It is very important that educational materials that are useful to the general public **NOT** be entered as program resources but rather another content type through a Content Team group. Program resources are only seen and needed by participants in a program, and so are more difficult for a general audience to find.
 
-### Who Can Add It
+### Who Can Add Program Resources
 
 Members of Program groups
 
-### Instructions
+### Instructions for Program Resources
 
 On the edit screen for a program resource, you will see the following fields:
 
@@ -548,7 +548,7 @@ This will take you to a page with a list of available categories. It also shows 
 
 When you add or edit a category, you can enter both a name and a description. These are only visible on edit screens and won’t show publicly to visitors to the site.
 
-### Where and How It Displays
+### Where and How Program Resources Display
 
 Program Resources display in “Program Resource List” sections on program subpages. These are sorted alphabetically by default, but you can customize the order. See the [Subpage](#subpage) section below for more information.
 
@@ -571,17 +571,17 @@ Their program subpages roughly correspond to these categories:
 
 ## Project
 
-### What It Is
+### What Is a Project
 
 A **project** on the Extension website is an Extension activity with impact or outputs (such as a toolkit or calculator) that are of interest to the public. They often include partnerships with external organizations.
 
 Projects differ from programs in that they do not involve ongoing participation with members of the public, such as volunteering or increasing levels of involvement. However, projects may seek public input through surveys, offer courses, or provide targeted information.
 
-### Who Can Add it
+### Who Can Add Projects
 
-Members of content team groups.
+EESC will set up projects for content team groups upon request.
 
-### Instructions
+### Instructions for Projects
 
 The edit screen for a project has the following fields:
 
@@ -602,7 +602,7 @@ The edit screen for a project has the following fields:
 
   - **Tags**: includes topic, program area, program, and counties
 
-### Where and How It Displays
+### Where and How Projects Display
 
 There is a list of all projects on the [projects page](https://extension.oregonstate.edu/projects). This is in the top black menu bar at the top of every page under “Get Involved.”
 
@@ -610,15 +610,15 @@ If you tag a Project with a topic, it will show up on the “Our Work” page fo
 
 ## Project Supporting Material
 
-### What It Is
+### What Is a Project Supporting Material
 
 Content that provides context or additional information about a Project (see above). This may include instructions for use of the Project’s outputs, links to surveys, links to purchase options, or information about supporting the project.
 
-### Who Can Add It
+### Who Can Add Project Supporting Materials
 
-Members of Content Team groups.
+Members of Content Team groups that contain the project.
 
-### Instructions
+### Instructions for Project Supporting Materials
 
 The edit screen for a project supporting material has the following fields:
 
@@ -637,7 +637,7 @@ The edit screen for a project supporting material has the following fields:
     - **Video**: a video hosted on YouTube, Vimeo, or OSU Media Space
     - **Call to Action**: text, image, and link to encourage visitors to the page to take an action
 
-### Where and How it Shows Up
+### Where and How Project Supporting Materials Display
 
 All supporting materials tagged with a Project will show up in a sidebar on that Project’s page.
 
@@ -645,17 +645,17 @@ By default, the newest materials show up at the bottom of the sidebar. If you ar
 
 ## Subpage
 
-### What It Is
+### What Is a Subpage
 
 A customizable page for organizing content and providing additional context or information about a program.
 
 > **Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your page’s content more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
 
-### Who Can Add It
+### Who Can Add Subpages
 
 Members of program groups.
 
-### Instructions
+### Instructions for Subpages
 
 The edit screen for a subpage contains fields for the page title, hero image, and some basic text content. The hero image displays as a banner at the top of the page, so it should be about 2000px wide by 400px high. If this is empty, it will use the hero image of the county or program in its group.
 
@@ -687,7 +687,7 @@ Content for subpages is primarily added through page sections (see [Page Section
 
 > **Quick Tip**: For help featuring educational content entered by Content Teams on their pages, see: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
 
-### Where and How It Displays
+### Where and How Subpages Display
 
 Subpages display in program sidebars. You can reorder subpages in the sidebar by clicking the “Reorder Pages” button at the bottom of the sidebar.
 
@@ -709,7 +709,7 @@ You can add links to external sites, such as a college or association site, to t
 
 ## Topic Page
 
-### What It Is
+### What Is a Topic Page
 
 A “topic page” actually consists of several pages, which are listed in a menu across the top of the landing page:
 
@@ -732,7 +732,7 @@ If there isn’t any content on a page, the link won’t appear in the menu.
 
 > **Quick Tip**: For guidelines to help decide what content to feature on a Topic Page, [Planning and Evaluating Content](content-requirements.md#planning-and-evaluating-content).
 
-### Who Can Add It
+### Who Can Add Topic Pages
 
 Topics are set up by the EESC web team. No one can add or delete a topic, but topic committee members are able to edit certain sections of the landing page. If you have content that doesn’t fit into an existing topic, you can request a new one for consideration. The following criteria are used to determine whether something should be a topic on the site:
 
@@ -748,7 +748,7 @@ You can request a new topic by submitting a [support request](https://osueesc.at
 
 The educational content that shows on topic pages is entered by content teams. A single topic page may showcase content from multiple content teams, and a single content team may enter content for multiple topics. Topic Committee groups are responsible for featuring content on topic pages. See [Getting Started with Content - Topic Committees](getting-started.md#topic-committees) for more information.
 
-### Instructions
+### Instructions for Topic Pages
 
 On the edit screen for a topic landing page, you will see the following fields:
 
@@ -779,7 +779,7 @@ On the edit screen for a topic landing page, you will see the following fields:
 
     ![Featured Experts Screenshot](images/featured-experts.png)
 
-### Where and How It Displays
+### How and Where Topic Pages Display
 
 The black menu bar at the top of every page contains a list of all topics. There are also links to all top-level topics on the home page.
 
@@ -787,15 +787,15 @@ We encourage counties to link to topics that are especially relevant to visitors
 
 ## User Profile
 
-### What It Is
+### What Is a User Profile
 
 Information about a person. This includes contact information and information about the work they do.
 
-### Who Can Add It
+### Who Can Add User Profiles
 
 All users on the Extension website are able to edit certain parts of their profile. This includes users who are not a member of any groups.
 
-### Instructions
+### Instructions for User Profiles
 
 To get to the edit screen for your profile, click on the “My Account” link in the footer of any page:
 
@@ -815,7 +815,7 @@ On the edit screen for your profile, you will see the following fields:
 
 For changes to other information, please submit a [support request](https://osueesc.atlassian.net/servicedesk/customer/portal/2)..
 
-### Where and How It Displays
+### Where and How User Profiles Display
 
 The black menu bar at the top of every page contains a link to the [faculty and staff directory](https://extension.oregonstate.edu/people/directory). This is a list of all people in Extension.
 
@@ -825,15 +825,15 @@ People can also be found by typing their name in the Search field at the top of 
 
 ## Video
 
-### What It Is
+### What Is a Video
 
 An informational video.
 
-### Who Can Add It
+### Who Can Add Videos
 
 Members of content team groups. Note that members of county and program groups can add videos directly to their pages. See the [Subpage](#subpage) section for more information.
 
-### Instructions
+### Instructions for Videos
 
 On the edit screen for a video, you will see the following fields:
 
@@ -847,7 +847,7 @@ On the edit screen for a video, you will see the following fields:
 
 **Important Note**: All videos produced by or for Extension should be captioned for accessibility. See [Accessibility](content-requirements.md#accessibility) for more information.
 
-### How and Where it Displays
+### How and Where Videos Display
 
 The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the video displays.
 

@@ -49,7 +49,7 @@ Member managers can add users to their own groups, but certain administrators ca
 
 Certain EESC staff are responsible for periodically entering “Featured Questions” that get sent in through Ask an Expert. To get permission to do this, you need to be a member of a group with the special role “AAE Admin.” Then you will have the ability to add Featured Questions through that group.
 
-### Instructions
+### Instructions for Featured Questions
 
 On the edit screen for a Featured Question, you will see the following fields:
 
@@ -61,7 +61,7 @@ On the edit screen for a Featured Question, you will see the following fields:
   - **Topics, Keywords, Programs, and Regions**: See below.
   - **Author and Publishing Information**: Information about the content for future maintenance
 
-### How and Where it Displays
+### How and Where Featured Questions Display
 
 The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the question displays.
 

@@ -28,6 +28,6 @@ You can submit a support request using [this form](https://osueesc.atlassian.net
 
 ## Getting Updates on Recent Changes
 
-EESC posts new features for the Extension website, trainings, and other relevant information on the [Extension Digital Strategy Project Blog](http://blogs.oregonstate.edu/extensionweb/). New posts are announced in the ConnEXTions newsletter each week. You can also subscribe to the blog directly to receive an email whenever a new post is added, which is typically 2 to 4 posts per month.
+EESC posts new features for the Extension website, trainings, and other relevant information on the [Extension Digital Strategy Project Blog](http://blogs.oregonstate.edu/extensionweb/). New posts are announced in the ConnEXTions newsletter. You can also subscribe to the blog directly to receive an email whenever a new post is added, which is typically 2 to 4 posts per month.
 
 We also send the most important updates to group leaders via email. It is up to these group leaders to share the information with other members of their group in whatever way works best for them. If you keep up with the project blog, you will have all the important information you need.

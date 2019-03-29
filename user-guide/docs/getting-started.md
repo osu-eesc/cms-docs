@@ -25,7 +25,7 @@ There are several options for content that doesn't go on the Extension website. 
 **Scholars Archive** | Historical documents and research | | EESC is responsible for archiving Extension catalog publications.
 **Library Archive** | Websites that are historical (no longer maintained) | |
 
-## Drupal Groups
+## Your Groups
 
 Your groups assigned in the Drupal content management system (CMS) determine what content you are allowed to edit. When someone in your a group creates a piece of content, you and anyone in your that group can edit it. If someone adds content in a group you are not a member of, you can’t edit it. Similarly, a person can’t edit content that belongs to a group they are not part of.
 
@@ -37,6 +37,10 @@ When you are a member of a group, the *type* of group determines what *type* of 
   - Topic Committee (representatives from different content teams)
 
 A person may be a member of several groups with different group types, so it is important to understand what content belongs in what group.
+
+![Group Types Venn Diagram](images/group-types.png)
+
+*Types of groups and how they overlap.*
 
 ### Content Teams
 
@@ -74,10 +78,6 @@ Topic Committees are responsible for deciding what content to feature on the top
 They may also write some text for topic pages that describes Extension’s work in a particular area. As a committee, they do not enter pieces of content themselves.
 
 Most members of topic committees will also be members of a content team. However, it is not necessary to be on a content team (or any other group) to be on a topic committee.
-
-![Group Types Venn Diagram](images/group-types.png)
-
-*Types of groups and how they overlap.*
 
 > #### Case Study: Groups for a Master Gardener Coordinator
 
