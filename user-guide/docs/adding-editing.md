@@ -376,7 +376,11 @@ All focus areas entered by a county group will show up on an automatically-gener
 
 ![Focus Area Reorder Link Screenshot](images/wwd-reorder.png)
 
-Three focus areas will display on the county landing page with a button to see the full list. You can control which focus areas show up here using the "display on county landing page" checkbox on the focus areas.
+*Example of a how to Reorder Focus Areas*
+
+Three focus areas will display on the county landing page with a button to see the full list. You can control which focus areas show up here using the "Display on County Landing page" checkbox on the focus areas.
+![Local Focus Area What We Do](images/wwd-display-checkbox.png)
+
 
 ## Newsletter Issue
 
