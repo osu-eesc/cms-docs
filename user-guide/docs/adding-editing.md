@@ -332,7 +332,7 @@ All Extension events will be automatically exported to OSU’s main calendar, **
 
 The FNR Extension website pulls events from the Extension website when “Forestry Extension” is selected under “additional calendars.”
 
-## Local Focus Area
+## Local Focus Area (Available mid April)
 
 ### What Is a Local Focus Area
 
@@ -362,13 +362,14 @@ On the edit screen for a focus area, you will see the following fields:
         - **Summary/about**: an additional text area (with a full-screen background image) for more information about the focus area.
         - **Featured users**: specify the faculty/staff in the county who work in this focus area.
         - **Page sections**: additional content for the page. See the [Page Sections](using-site.md#page-sections) section of this guide for more information. The following types of sections are available:
-        - **Call to action**: link to content or an external website with a custom title, description, and image.
-        - **County events list**: list of events entered by or tagged by the county. You can narrow the events shown by either the topic(s) or "additional calendar" the events are tagged with.
-        - **Custom content list**: One or more pieces of content with a custom section title and description. The first three items selected will show as teasers with thumbnails. The remaining selected items will display in a simpler text-only list.
-        - **Highlighted content item**: a piece of content with a custom description and full-width background image.
-        - **Image slider**: a slideshow of uploaded images.
-        - **Quick links bar**: a full-width bar that contains up to four highlighted links (e.g. to Facebook, Twitter, a newsletter, or a calendar).
-        - **Video**: a video from YouTube, Vimeo, or OSU Media Space.
+
+            - **Call to action**: link to content or an external website with a custom title, description, and image.
+            - **County events list**: list of events entered by or tagged by the county. You can narrow the events shown by either the topic(s) or "additional calendar" the events are tagged with.
+            - **Custom content list**: One or more pieces of content with a custom section title and description. The first three items selected will show as teasers with thumbnails. The remaining selected items will display in a simpler text-only list.
+            - **Highlighted content item**: a piece of content with a custom description and full-width background image.
+            - **Image slider**: a slideshow of uploaded images.
+            - **Quick links bar**: a full-width bar that contains up to four highlighted links (e.g. to Facebook, Twitter, a newsletter, or a calendar).
+            - **Video**: a video from YouTube, Vimeo, or OSU Media Space.
 
 ### How and Where Local Focus Areas Display
 
