@@ -79,7 +79,7 @@ A newsletter called [*GROWING*](https://extension.oregonstate.edu/newsletter/gro
 
 ## Making Changes to Content
 
-To make changes to content, **content authors**, people who enter content, must log in to the site. There is a “Log in” link at the bottom right of every page. This will take you to a screen where you use your ONID credentials to log in. When you are logged in, you will see a “My Groups” link in the top black menu bar on every page.
+To make changes to content, **content authors**, people who enter content, must log in to the site. There is a “Log in” link at the bottom right of every page. This will take you to a screen where you use your [ONID](http://onid.oregonstate.edu/) credentials to log in. When you are logged in, you will see a “My Groups” link in the top black menu bar on every page.
 
 There are three pages to understand in order to use the back-end:
 

@@ -14,6 +14,12 @@
   padding: 1em;
 }
 
+.rst-content img {
+  border: 1px solid #E5EBEB;
+  display: table;
+  padding: 0.5em;
+}
+
 /*
  * Use OSU theme link colors.
  */

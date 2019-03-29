@@ -134,7 +134,9 @@ On the edit screen for a collection, you will see the following fields:
   - **Introduction**: text that will appear before the collection items
   - **Items**: the pieces of content in the collection
     - To add a piece of content, click “Add Collection Item.” Then click the “Select” button to open the content browser and select the piece of content.
-    - **Troubleshooting Tip**: The content browser allows you to select multiple pieces of content for a single collection item. However, we recommend selecting only one at a time. This makes it easier to organize content: collection items can be reordered, but pieces of content in a single collection item will always be in the order they were selected.
+
+    > **Troubleshooting Tip**: The content browser allows you to select multiple pieces of content for a single collection item. However, we recommend selecting only one at a time. This makes it easier to organize content: collection items can be reordered, but pieces of content in a single collection item will always be in the order they were selected.
+
     - To organize content into sections with titles, click “Add Collection Section.” This will provide you with fields where you can specify the title of the section and the pieces of content that appear in that section.
   - **For More Information**: text that will appear after the collection items
   - **Thumbnail**: image that will display in the teaser. If this is empty, it will use a default image based on the topic.
@@ -290,12 +292,18 @@ On the edit screen for an event, you will see the following fields:
       - If “At another non-office location,” type the name of the location into the search field on the map. The address fields below will get automatically filled in.
         - If the address is not yet known or private, type “To Be Determined” or “To be provided to registrants” in the location name. Then enter the city, state, and ZIP code.
       - If “Online-only,” no address needs to be provided.
+        ![Location Options Screenshot](images/event-location.png)
     - **Room/building number**: include if needed
-    - **Troubleshooting Tip**: If you change an event from an existing location to a custom address, the old location may still show when you save. To correct this:
-      1. For the field “Where will this event be held?” select “At a county office.”
-      2. Change the drop-down list  to --None-- which unsets the existing location.
-      3. Click the “At another non-office location” button and enter the new address.
-      4. Save.
+
+    <blockquote><strong>Troubleshooting Tip</strong>: If you change an event from an existing location to a custom address, the old location may still show when you save. To correct this:<br><br>
+      <ol>
+        <li>For the field “Where will this event be held?” select “At a county office.”</li>
+        <li> Change the drop-down list  to --None-- which unsets the existing location.</li>
+        <li>Click the “At another non-office location” button and enter the new address.</li>
+        <li>Save.</li>
+      </ol>
+    </blockquote>
+
   - **Event Cost**: how much it costs to attend the event
   - **Registration Link**: a link to register for the event online. If you enter the link here, you don’t need to enter it in the description.
   - **Contact name, email, and phone**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls events from the Extension website.
@@ -405,16 +413,21 @@ The **first time** you upload a newsletter, you will need to create a container 
 
 On the edit screen for a newsletter issue, you will see the following fields:
 
-  - **Title**: a title distinguishing it from other Issues (e.g. “GROWING: May - June 2018”)
+  - **Title**: a title distinguishing it from other Issues (e.g. “GROWING: May - June 2019”)
   - **Associated Newsletter**: the newsletter to which this issue belongs
-    - **Troubleshooting Tip**: If the newsletter you want isn’t in the list, one of two things is happening:
-      1. you aren’t adding the issue through the group the newsletter belongs to, or
-      2. the newsletter hasn’t been created yet.
+
+  <blockquote><strong>Troubleshooting Tip</strong>: If the newsletter you want isn’t in the list, one of two things is happening:<br><br>
+    <ol>
+      <li>you aren’t adding the issue through the group the newsletter belongs to, or</li>
+      <li>the newsletter hasn’t been created yet.</li>
+    </ol>
+  </blockquote>
+
   - **Issue Type**: “Web Content,” “File Upload,” or “Link to Issue”
     - File Upload Issues: This type of issue consists of a document uploaded to the website. When you choose this option, you will see a file upload field.
     - Linked Issues: This type of issue consists of a page or document hosted on another website. This includes newsletters sent via MailChimp or in Box. When you choose this option, you will see a field to enter the URL of the issue.
     - Web Content Issues: This type of issue consists of content entered into the website. When you choose this option, the newsletter issue acts like a subpage. See [Page Sections](using-site.md#page-sections) for information about adding and arranging content on the page.
-    - **Short Description**: the Table of Contents or description of what visitors can find in this issue.
+  - **Short Description**: the Table of Contents or description of what visitors can find in this issue.
   - **Author and publishing information**: Previous issues are arranged based on the “Date Published or Revised” entered here.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
@@ -528,6 +541,7 @@ On the edit screen for a program resource, you will see the following fields:
       ![Program Resource Versions Screenshot](images/program-resource-versions.png)
 
       *Example of a program resource with multiple file versions.*
+      <br><br>
 
   - **Description**: a description of the resource that displays in the teaser
   - **Type**: This field is for organizational purposes and will not affect how the program resource displays to visitors to the site. If none fit, select “Other.”
@@ -838,7 +852,7 @@ Members of content team groups. Note that members of county and program groups c
 
 On the edit screen for a video, you will see the following fields:
 
-  - **Video**: You can embed a video from YouTube, Vimeo, or OSU Media Space.
+  - **Video**: You can embed a video from [YouTube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), or [OSU MediaSpace](https://media.oregonstate.edu/).
   - **Description**: a short description of the video. This is shown in the teaser as well as the full video page.
   - **Supplemental text**: additional text to show on the full video page.
   - **Topics, Keywords, Programs, and Regions**: See below.
