@@ -104,6 +104,8 @@ The tags in the “Topics, Keywords, Programs, and Regions” section of the edi
   - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show at the bottom of the article in a “Related Resources” section.
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
 
+    ![Topics, Keywords, Programs, and Regions Screenshot](images/topic-program.png)
+
 Counties and Programs can display articles on a page by adding a “featured content” section.
 
 ## Collection
