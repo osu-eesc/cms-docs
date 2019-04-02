@@ -137,6 +137,8 @@ On the edit screen for a collection, you will see the following fields:
   - **Items**: the pieces of content in the collection
     - To add a piece of content, click “Add Collection Item.” Then click the “Select” button to open the content browser and select the piece of content.
 
+      ![Add Collection Item Screenshot](images/collection-item.png)
+
     > **Troubleshooting Tip**: The content browser allows you to select multiple pieces of content for a single collection item. However, we recommend selecting only one at a time. This makes it easier to organize content: collection items can be reordered, but pieces of content in a single collection item will always be in the order they were selected.
 
     - To organize content into sections with titles, click “Add Collection Section.” This will provide you with fields where you can specify the title of the section and the pieces of content that appear in that section.
@@ -229,6 +231,9 @@ On the edit screen for an educational document, you will see the following field
   - **Title**: the title of the document
   - **Document Type**: this will display as a label in the document’s teaser. It helps to provide context to visitors. If empty, “Educational Document” will display.
   - **Document Upload**: upload the document. When you upload from your computer, you will need to name the document again. You can use the title, the file name, or whatever will help you find it again if you need it in the future.
+
+    ![Document Upload Screenshot](images/document-upload.png)
+
   - **Short Description**: a summary of the document’s contents that will show in the teaser
   - **Thumbnail**: the image that will show in the teaser. If this is empty and the document is a PDF, it will use an image of the first page of the document. If the document is not a PDF, it will use a default image based on the document’s topic.
   - **Topics, Keywords, Programs, and Regions**: see below
@@ -640,6 +645,9 @@ Members of Content Team groups that contain the project.
 The edit screen for a project supporting material has the following fields:
 
   - **Associated Project**: the project that the material supports. This is necessary because a content team may contain more than one Project.
+
+    ![Choose Associated Project Screenshot](images/associated-project.png)
+
   - **Type**: the type of material. This is used for informational or organizational purposes only, and isn’t seen by the public.
   - **Website URL**: If your project already has it’s content on an external website, you can enter the link here. Visitors will be taken directly to that site when they click on the Project.
   - **Content**: the main text that shows on the Material’s page
