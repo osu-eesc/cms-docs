@@ -27,7 +27,7 @@ There are several options for content that doesn't go on the Extension website. 
 
 ## Your Groups
 
-Your groups assigned in the Drupal content management system (CMS) determine what content you are allowed to edit. When someone in your a group creates a piece of content, you and anyone in your that group can edit it. If someone adds content in a group you are not a member of, you can’t edit it. Similarly, a person can’t edit content that belongs to a group they are not part of.
+Your groups assigned in the Drupal content management system (CMS) determine what content you are allowed to edit. When someone in your a group creates a piece of content, you and anyone in your that group can edit it.
 
 When you are a member of a group, the *type* of group determines what *type* of content you can add. There are four types of groups on the site.
 
@@ -103,7 +103,7 @@ It is helpful in knowing not only your Drupal groups, but the roles of all the p
 **Program Area Leaders and Regional Directors**
 
   - Establish process and calendar for creation/management of content
-  - Help the DCE team establish metrics necessary to maintain progress and align with current OSU Strategic Plan
+  - Help the Digital Content and Engagement (DCE) team establish metrics necessary to maintain progress and align with current OSU Strategic Plan
   - Work with content strategist to establish governance plans
   - Ensure supervised faculty are engaged and actively participating in at least one content team
   - Begin planning for use of customer relationship management system to meet specific program goals
@@ -150,7 +150,7 @@ The content types that you are able to use depend on the group type you are usin
 **Project**<br> An activity done by Extension with outputs or impacts of interest to the public. May include tools, background research, progress updates, etc. | x | | |
 **Project Supporting Material**<br> Content providing context or additional information about a project | x | | |
 **Social Media Link**<br> Link to a social media account for county or program. | | x | x | x
-**Subpage**<br> Information about county location or program involvement. May also group or link to educational content relevant to a specific audience | | x | x | x
+**Subpage**<br> Information about county location or program involvement. May also group or link to educational content relevant to a specific audience | | x | x | 
 **Video**<br> An informational video | x | | |
 
 
