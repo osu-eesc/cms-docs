@@ -36,7 +36,7 @@ The following information can be helpful in knowing the roles of the people invo
     - Define and communicate roles of content team members (\*see appendix &quot;More Defined Content Team Member Roles&quot;) or division of group assignments
     - Review content metrics, analytics, and provide recommendations to team or group members as needed
     - Initiate and lead team or group planning discussions, and be the point of contact to request, plan, and attend needed trainings
-    Learn the capabilities of available custom features to use to improve engagement
+    - Learn the capabilities of available custom features to use to improve engagement
 
 - Serve as main point of contact for team or group members
     - Provide a point of contact between faculty and staff who use the website, the program area leader, regional director, and DCE team, to identify and prioritize needs, determine task assignments, and work together to achieve timely solutions
