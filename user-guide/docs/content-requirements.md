@@ -56,13 +56,13 @@ OSU’s Strategic Plan 4.0 places a strong emphasis on promoting diversity and i
   - People of diverse ages
   - Non-human visitors to the site, such as search engine crawlers
 
-As an institution that receives federal funding, we are **legally required to make content and services accessible**. Here are some guidelines to make sure content is accessible:
+As an institution that receives federal funding, we are **legally required to make content and services accessible**. See OSU’s [IT Accessibility Policy](https://accessibility.oregonstate.edu/itpolicy). Here are some guidelines to make sure content is accessible:
 
   - **Use text editor controls for what they were intended.** Many assistive technologies depend on text formatting to give structure and meaning to content. Therefore, it’s important to use formatting only when appropriate. For example, don’t create a “fake” heading by just making text bold. On the other hand, don’t use the heading formatting (e.g. Heading 2, Heading 3) just to emphasize text. Headings should reflect the structure of the content.
 
     ![Heading Dropdown Screenshot](images/heading-dropdown.png)
 
-  - **Don’t put important text in images.** People with visual impairments can have trouble reading text that is part of an image. Text in images such as event flyers and diagrams should also be typed in another field on the content, such as the description field on an event. If you must put text in an image, also type that text in the image’s alternative (“alt”) text field.
+  - **Don’t put important text in images.** People with visual impairments can have trouble reading text that is part of an image. Text in images also cannot be translated by automatic translators or scanned by search engines. Text in images such as event flyers and diagrams should also be typed in another field on the content, such as the description field on an event. If you must put text in an image, also type that text in the image’s alternative (“alt”) text field.
   - **Use meaningful labels for links.** It is important that the text in a link makes sense and describes what the link does. If the link gets broken, you will find it easier to locate the resource again if the link includes the title of the missing page. Assistive technologies often read link text by itself to help speed up browsing. Also, search engine crawlers put more weight on keywords in link text.
     - You should never use a “raw” URL. For example, instead of “www.google.com,” use “Google.” See [Using the Site](using-site.md#links) for how to create links in text areas.
     - The same thing applies to email addresses. Instead of “Contact Jane Doe at jane.doe@oregonstate.edu,” just put “Contact Jane Doe.”
@@ -70,11 +70,15 @@ As an institution that receives federal funding, we are **legally required to ma
       - Makes it less likely for spam bots to find and abuse the email address.
       - Profile links go to an online form which results in less errors than clicking on an email link.
       - Profiles also give several methods of getting in touch with someone for visitors that prefer one method over the others.
-    - Avoid links that contain the phrase “Click here.” This is not descriptive enough and is redundant and inaccurate for people who are not using a mouse.
+    - Avoid links that contain the phrase “Click here.” This is not descriptive enough and is inaccurate for people who are not using a mouse.
   - **Avoid text in all caps.** This makes text difficult to pronounce for screen readers (they may mistake it for an acronym). It is also more difficult to read for people with dyslexia.
   - **Use tables only for tabular data.** Tables are complex structures that are difficult for assistive technologies to understand. Only use them when necessary—for example, when presenting tabular data. Don’t use tables for formatting text in columns. Two-column sections on pages can accomplish this.
 
-OSU’s [Web and Mobile Services](https://is.oregonstate.edu/web-and-mobile-services) offers “Accessibility Basics for the Web” trainings that content authors should consider attending. You can also read OSU’s [IT Accessibility Policy](https://accessibility.oregonstate.edu/itpolicy).
+Here are some more University resources to help you create accessible electronic content:
+
+  - [Accessible Electronic Documents (PDFs, Microsoft Word Documents, etc.)](https://accessibility.oregonstate.edu/documents)
+  - [Accessible Web Pages](https://accessibility.oregonstate.edu/web)
+  - OSU’s [Web and Mobile Services](https://is.oregonstate.edu/web-and-mobile-services) offers “Accessibility Basics for the Web” trainings that content authors should consider attending.
 
 ### Other Strategies
 
