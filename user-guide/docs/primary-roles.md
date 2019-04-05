@@ -30,19 +30,19 @@ The following information can be helpful in knowing the roles of the people invo
 
 ## Team Leader or Group Coordinator
 
-- Administrative role assignment for your content team, county office or program group to lead the creation and management of high-quality content to Oregonians and beyond
+- Administrative role assignment for your content team, county office or program group to lead the creation and management of high-quality content for Oregonians and beyond
     - With guidance from your program area leader, regional director, related group or team leader(s), and the Digital Content and Engagement (DCE) Strategy Team, lead a high functioning team to identify and create educational, programmatic, or location-based content (depending on your group)
     - Manage the content to ensure accessibility, ease of use, and high-quality display
-    - Define and communicate content team member roles (\*see appendix &quot;More Defined Content Team Member Roles&quot;) or division of group assignments
+    - Define and communicate roles of content team members (\*see appendix &quot;More Defined Content Team Member Roles&quot;) or division of group assignments
     - Review content metrics, analytics, and provide recommendations to team or group members as needed
+    - Initiate and lead team or group planning discussions, and be the point of contact to request, plan, and attend needed trainings
+    Learn the capabilities of available custom features to use to improve engagement
 
 - Serve as main point of contact for team or group members
     - Provide a point of contact between faculty and staff who use the website, the program area leader, regional director, and DCE team, to identify and prioritize needs, determine task assignments, and work together to achieve timely solutions
     - Consolidate feedback from audiences, volunteers, and/or faculty and staff who use the website on needed capabilities and improvements, and pass these to the program area leader, regional director, and DCE team
-    - Initiate and moderate team or group planning discussions, and request, plan, and attend needed trainings
     - Refer team or group members to the support and training guides for technical questions or concerns
-    - Add or remove member names in the Drupal content management system group or designate a member manager
-    - Learn the capabilities of available custom features to use to improve engagement
+    - Add or remove member names in the Drupal content management system group or designate a member manager as point of contact
     - Discuss standard practices with local programs group members (if applicable) and with team members related to content tagging and descriptions
 
 
@@ -57,8 +57,8 @@ The following information can be helpful in knowing the roles of the people invo
     - Evaluate content, select the appropriate content type, identify the group to enter the content in, and check if there are duplicates before adding content
     - Enter, upload, ​tag, and add quality images to new content following brand, access, and other requirements
     - Add descriptions and sections to the main web pages to display the tagged content for specific areas
-    - Review existing content to ensure it is up to date, accurate, and appropriately tagged or other requirements
-    - Archive old content and note any reasons in the revisions field
+    - Review existing content to ensure it is up-to-date, accurate, and appropriately tagged and meets other requirements
+    - Archive old content and note reasons for removal in the revisions field
 
 
 ### More Defined Content Team Member Roles
@@ -70,8 +70,8 @@ The following information can be helpful in knowing the roles of the people invo
 - Check for duplicate content and coordinate which group will upload shared content
 - Enter, tag, and add images to content in the content management system
 - Make edits with author(s) for readability, accessibility and other requirements
-- Change the moderation state of content (draft, published, in review, archived)
-- Stay up to date on latest website changes and follow governance guidelines
+- Change the moderation status of content (draft, published, in review, archived)
+- Stay updated on latest website changes and follow governance guidelines
 
 **Subject matter expert and reviewer (could also be Extension faculty not on a team)**
 
@@ -81,12 +81,12 @@ The following information can be helpful in knowing the roles of the people invo
 - Assess audience needs, review analytics, and identify gaps in content
 - Collaborate to develop content strategy plans
 
-**Topic page committee representative**
+**Topic page committee representative (decides what content to feature on a topic page)**
 
 - Collaborate with other content team representatives to decide what to feature on the topic landing page, so it stays balanced, fresh (seasonal), and interesting
 - Communicate with Digital Content and Engagement (DCE) Strategy Team, content team leaders, and knowledge experts to find out what the audiences are reading or searching for on the website to help inform the decisions
 - Group content under displayed headings as needed, which may require asking content teams or EESC to add specific keywords to their content to help sorting
-- Review the top menus on the topic landing page to ensure all content showing up relates to the topic and contact the uploader as needed to remove tags or duplicates
+- Review the top menus on the topic landing page to ensure all content showing up relates to the topic; contact the uploader as needed to remove tags or duplicates
 - Search the website to find other content that should be tagged with the topic and contact content teams or EESC to add tags
 - Share with their respective content teams about content that needs to be updated or created, which can be added to a content calendar for planning purposes
 - Collaboratively write and add descriptions about the OSU Extension&#39;s work on the topic and add images or related topics to fill out the design of the page

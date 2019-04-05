@@ -119,7 +119,7 @@ It is helpful in knowing not only your Drupal groups, but the roles of all the p
 **Team or Group Members**
 
 - Contribute to your team&#39;s content plan or group&#39;s assignments
-- Add missing, relevant content to the website
+- Add relevant content to the website; fill in gaps
 - Increase findability of content by monitoring and revising tags
 - Improve readability and review accuracy of existing content
 
@@ -150,7 +150,7 @@ The content types that you are able to use depend on the group type you are usin
 **Project**<br> An activity done by Extension with outputs or impacts of interest to the public. May include tools, background research, progress updates, etc. | x | | |
 **Project Supporting Material**<br> Content providing context or additional information about a project | x | | |
 **Social Media Link**<br> Link to a social media account for county or program. | | x | x | x
-**Subpage**<br> Information about county location or program involvement. May also group or link to educational content relevant to a specific audience | | x | x | 
+**Subpage**<br> Information about county location or program involvement. May also group or link to educational content relevant to a specific audience | | x | x |
 **Video**<br> An informational video | x | | |
 
 
