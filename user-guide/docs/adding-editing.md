@@ -347,7 +347,7 @@ All Extension events will be automatically exported to OSU’s main calendar, **
 
 The FNR Extension website pulls events from the Extension website when “Forestry Extension” is selected under “additional calendars.”
 
-## Local Focus Area (Available mid April)
+## Local Focus Area
 
 ### What Is a Local Focus Area
 
