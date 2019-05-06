@@ -58,7 +58,8 @@ On the edit screen for a Featured Question, you will see the following fields:
   - **Related Resources**: Link to other content on the site related to the question
   - **Answer Photo**: Image that will show on the full question page
   - **Thumbnail**: Image that will show in the teaser
-  - **Topics, Keywords, Programs, and Regions**: See below.
+  - **Tags**: information about the question to help with display, sorting, search, and promotion. See below for more details.
+  - **Teaser settings**: thumbnail and short description that display in the question's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
   - **Author and Publishing Information**: Information about the content for future maintenance
 
 ### How and Where Featured Questions Display
@@ -124,3 +125,36 @@ If you want to tag many stories at once:
     - Check the box if you want the tag you entered to be added alongside any existing tags the stories have. For example, if you enter the keyword “apples” and one of the stories you selected already has the keyword “pears,” this will cause that story to have *both* keywords “apples” and “pears.”
     - Leave the box unchecked if you want the tag you entered to overwrite any existing tags the stories have. For example, if you enter the keyword “apples” and one of the stories you selected already has the keyword “pears,” this will cause that story to *only* have the keyword “apples.”
   7. Click “Apply” at the bottom of the page.
+
+## EESC Pubs Team
+
+To copyedit content in the Extension website, you need to have the "Content Editor" role. All members of the EESC pubs team should have this role.
+
+When you log in to the site, you will be taken to a [dashboard that lists all content that has been assigned to you to copyedit](https://extension.oregonstate.edu/admin/content/copyedit). There are also tabs at the top of the page that show you lists of content you have copyedited that is pending approval as well as all content that hasn't been assigned to a copyeditor.
+
+![Copyediting tabs](images/copyedit-tabs.png)
+
+### Assigning content
+
+There are two ways to assign a piece of content to a content editor.
+
+  1. You can assign the content to yourself when you edit it. To do this, open the "Author and Publishing Information" section of the content's edit screen and yourself as the "Copyeditor" under "Review and Copyediting"
+
+    ![Copyedit assignee field](images/copyedit-assign-field.png)
+
+  2. You can assign the content to yourself or another person without editing it from the "Unassigned" tab of the dashboard.
+    1. Check the box(es) next to the content you want to assign.
+    2. At the top of the list of content, under "Action", select "Assign". Then click "Apply to selected items".
+      ![Copyedit bulk select](images/copyedit-bulk-select.png)
+    3. Check the box for "Copyeditor" and select the name from the drop down list that appears. Then click "Apply".
+      ![Copyedit bulk assign](images/copyedit-bulk-assign.png)
+
+### Editing content
+
+To edit a piece of content, click on it in the list on the dashboard and click the "Edit" tab. Make your edits, then click save at the bottom of the page. Just above the "Save" button, it should say, "Change to: Copyedited Pending Approval".
+
+![Copyedit save button](images/copyedit-save.png)
+
+Saving content as "Copyedited Pending Approval" will trigger an email to the contact person for the group the content belongs to prompting them to approve the changes. You can see what content you have copyedited that needs to be approved by going to the "Pending Approval" tab on the dashboard.
+
+You can make additional changes to content that has already been copyedited. This will trigger an additional email to the group's contact person.

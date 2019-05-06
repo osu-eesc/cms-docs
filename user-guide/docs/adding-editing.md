@@ -51,11 +51,15 @@ Members of program or county office groups. If an announcement applies to more t
 
 On the edit screen for an announcement, you will see the following fields:
 
-  - **Display dates**: dates during which the announcement should be visible. The announcement will display during the start and end date specified. For example, if you want an announcement to display on January 1, 2, and 3, you would select the dates January 1–January 3.
-  - **Short Description**: a short summary of the announcement. This will show in “teasers” followed by a “Read more…” link to the full announcement content.
+  - **Display Dates**: dates during which the announcement should be visible. The announcement will display during the start and end date specified. For example, if you want an announcement to display on January 1, 2, and 3, you would select the dates January 1–January 3.
+  - **Emergency Alert**: Checking this box will make the announcement appear in a large red box at the top of every page for the county or program it was added through.
   - **Content**: the full content of the announcement.
-  - **Additional Counties and Additional Programs**: other counties and programs where the announcement should show. You do not need to include the county and program you are using to add the announcement.
-  - **Announcement Topic**: specifies on which topic page(s) the announcement should show.
+  - **Related Content**: If the announcement is related to another piece of content on the site, for example, an event that is occuring soon or a new publication that was released, select the content here to create a link to it on the announcement page.
+  - **Tags**
+    - **Additional Counties and Additional Programs**: other counties and programs where the announcement should show. You do not need to include the county and program you are using to add the announcement.
+    - **Announcement Topic**: specifies on which topic page(s) the announcement should show.
+  - **Teaser Settings**
+    - **Short Description**: a short summary of the announcement. This will show in “teasers” followed by a “Read more…” link to the full announcement content.
 
 ### How and Where Announcements Display
 
@@ -86,11 +90,10 @@ Members of Content Team groups.
 On the edit screen for an article, you will see the following fields:
 
   - **Title**: the title of the article
-  - **Summary/deck**: a short description of the contents of the article that display in the teaser
   - **Content**: the full article content
   - **Images**: images that go with the article. These will display in a column on the right-hand side of the article’s text.
-  - **Thumbnail**: image that displays in the article’s teaser. If this is empty, it will use the first image in the “images” field. If this is empty, it will use a default image based on the topic.
-  - **Topics, Keywords, Programs, and Regions**: see below
+  - **Tags**: information about the article to help with display, sorting, search, and promotion. See below for more details.
+  - **Teaser settings**: thumbnail and short description that display in the article's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
   - **Author and Publishing Information**: information about the content for future maintenance.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
@@ -99,7 +102,7 @@ On the edit screen for an article, you will see the following fields:
 
 ### How and Where Articles Display
 
-The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the article displays.
+The tags in the “Tags” section of the edit screen determine where the article displays.
 
   - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show at the bottom of the article in a “Related Resources” section.
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
@@ -132,7 +135,6 @@ Before you create a collection, be sure to find (or add to the site, if needed) 
 On the edit screen for a collection, you will see the following fields:
 
   - **Title**: the title of the collection
-  - **Short Description**: a summary of the collection’s contents that will show in the teaser
   - **Introduction**: text that will appear before the collection items
   - **Items**: the pieces of content in the collection
     - To add a piece of content, click “Add Collection Item.” Then click the “Select” button to open the content browser and select the piece of content.
@@ -142,9 +144,10 @@ On the edit screen for a collection, you will see the following fields:
     > **Troubleshooting Tip**: The content browser allows you to select multiple pieces of content for a single collection item. However, we recommend selecting only one at a time. This makes it easier to organize content: collection items can be reordered, but pieces of content in a single collection item will always be in the order they were selected.
 
     - To organize content into sections with titles, click “Add Collection Section.” This will provide you with fields where you can specify the title of the section and the pieces of content that appear in that section.
+
   - **For More Information**: text that will appear after the collection items
-  - **Thumbnail**: image that will display in the teaser. If this is empty, it will use a default image based on the topic.
-  - **Topics, Keywords, Programs, and Regions**: see below
+  - **Tags**: information about the collection to help with display, sorting, search, and promotion. See below for more details.
+  - **Teaser settings**: thumbnail and short description that display in the collection's teaser. If the thumbnail is empty, it will use a default image based on the topic.
   - **Author and Publishing Information**: information about the content for future maintenance
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
@@ -236,7 +239,7 @@ On the edit screen for an educational document, you will see the following field
 
   - **Short Description**: a summary of the document’s contents that will show in the teaser
   - **Thumbnail**: the image that will show in the teaser. If this is empty and the document is a PDF, it will use an image of the first page of the document. If the document is not a PDF, it will use a default image based on the document’s topic.
-  - **Topics, Keywords, Programs, and Regions**: see below
+  - **Tags**: information about the document to help with display, sorting, search, and promotion. See below for more details.
   - **Author and Publishing Information**: information about the content for future maintenance.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
@@ -291,8 +294,6 @@ On the edit screen for an event, you will see the following fields:
 
     We also recommend that you check the “All Day Event” box for these events in order to hide the time fields from the event date and prevent confusion.
 
-  - **Short Description**: a short description of the event
-  - **Full Description**: the full event description
   - **Event location fields**:
     - The field asks “Where will this event be held?”
       - If “At a county office,” then select the county office from the drop-down field that appears. The address field will get automatically filled in.
@@ -313,19 +314,19 @@ On the edit screen for an event, you will see the following fields:
 
   - **Event Cost**: how much it costs to attend the event
   - **Registration Link**: a link to register for the event online. If you enter the link here, you don’t need to enter it in the description.
-  - **Contact name, email, and phone**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls events from the Extension website.
+  - **Description**: the full event description
   - **More information or promotional flyer**: uploaded flyer or registration form for the event
 
     ![Promotional Flyer Screenshot](images/flyer.png)
 
     - Important Note: For accessibility, it is important that any information in a flyer is also included in another field on the event (e.g., in the full description field). See [Accessibility](content-requirements.md#accessibility).
-  - **Thumbnail**: an image for the event
 
-    ![Thumbnail Screenshot](images/thumbnail.png)
-
-  - **Additional calendar**: used to export events to other calendars and create narrowed-down event lists on program and county pages
-  - **Additional counties or programs**: other counties and programs where the event should show. You don’t need to include the county or program you are using to enter the event.
-  - **Topics**: specifies which topic pages the event should show on.
+  - **Contact name, email, and phone**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls events
+  - **Tags**
+    - **Additional calendar**: used to export events to other calendars and create narrowed-down event lists on program and county pages
+    - **Additional counties or programs**: other counties and programs where the event should show. You don’t need to include the county or program you are using to enter the event.
+    - **Topics**: specifies which topic pages the event should show on.
+  - **Teaser settings**: thumbnail and short description that display in the event's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
 
 ### How and Where Events Display
 
@@ -361,21 +362,16 @@ Members of County Office groups.
 
 On the edit screen for a focus area, you will see the following fields:
 
-  - **Short description**: this will display in the focus area's teaser, which shows up on county pages and search results.
-  - **Thumbnail**: this will display in the focus area's teaser, which shows up on county pages and search results.
   - **Display on county landing page**: three focus area teasers display on each county landing page. Ones that have this box checked show up first.
-  - **Program area**: the program area the focus area relates to. This is used for internal organization and reporting only.
-  - **Marketing category**: which of the Extension marketing categories the focus area relates to. This is used for internal organization and reporting only. It may also help coordinate content between county pages and county pull sheets and other marketing materials.
-  - **Topic**: the topic(s) the focus area relates to. Selecting a topic here will cause a link to it to appear at the bottom of the focus area's page (see below).
-  - **Contact information**: if the focus area has specific contact info that is different than the main county, enter it here.
   - **How to display**: you have three options:
     1. **Link to a local program**: this will allow you to select a local program (MG or 4-H). Links to the focus area will take visitors directly to the landing page for that local program.
-    - **Link to an existing focus area in another county**: if you would like to share a focus area with another county (e.g. for a regional focus area), select it here. Links to the focus area you create will take visitors directly to the existing focus area.
-    - **Display a custom page**: this creates a new page for the focus area. The following fields are available for this page:
+    2. **Link to an existing focus area in another county**: if you would like to share a focus area with another county (e.g. for a regional focus area), select it here. Links to the focus area you create will take visitors directly to the existing focus area.
+    3. **Display a custom page**: this creates a new page for the focus area. The following fields are available for this page:
         - **Hero image**: large image that displays at the top of the page.
         - **Introduction**: text at the top of the page to introduce the focus area.
         - **Summary/about**: an additional text area (with a full-screen background image) for more information about the focus area.
         - **Featured users**: specify the faculty/staff in the county who work in this focus area.
+        - **Contact information**: if the focus area has specific contact info that is different than the main county, enter it here.
         - **Page sections**: additional content for the page. See the [Page Sections](using-site.md#page-sections) section of this guide for more information. The following types of sections are available:
 
             - **Call to action**: link to content or an external website with a custom title, description, and image.
@@ -385,6 +381,12 @@ On the edit screen for a focus area, you will see the following fields:
             - **Image slider**: a slideshow of uploaded images.
             - **Quick links bar**: a full-width bar that contains up to four highlighted links (e.g. to Facebook, Twitter, a newsletter, or a calendar).
             - **Video**: a video from YouTube, Vimeo, or OSU Media Space.
+
+  - **Tags**
+    - **Program area**: the program area the focus area relates to. This is used for internal organization and reporting only.
+    - **Marketing category**: which of the Extension marketing categories the focus area relates to. This is used for internal organization and reporting only. It may also help coordinate content between county pages and county pull sheets and other marketing materials.
+    - **Topic**: the topic(s) the focus area relates to. Selecting a topic here will cause a link to it to appear at the bottom of the focus area's page.
+  - **Teaser settings**: thumbnail and short description that display in the focus area's teaser. If the thumbnail is empty, it will use a default image based on the topic.
 
 ### How and Where Local Focus Areas Display
 
@@ -434,7 +436,7 @@ On the edit screen for a newsletter issue, you will see the following fields:
     - File Upload Issues: This type of issue consists of a document uploaded to the website. When you choose this option, you will see a file upload field.
     - Linked Issues: This type of issue consists of a page or document hosted on another website. This includes newsletters sent via MailChimp or in Box. When you choose this option, you will see a field to enter the URL of the issue.
     - Web Content Issues: This type of issue consists of content entered into the website. When you choose this option, the newsletter issue acts like a subpage. See [Page Sections](using-site.md#page-sections) for information about adding and arranging content on the page.
-  - **Short Description**: the Table of Contents or description of what visitors can find in this issue.
+  - **Teaser settings**: thumbnail and short description that display in the issue's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
   - **Author and publishing information**: Previous issues are arranged based on the “Date Published or Revised” entered here.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
@@ -475,7 +477,7 @@ On the edit screen of an online resource, you will see the following fields:
   - **Website URL**: the link to the resource
   - **Short Description**: a description of the resource
   - **Thumbnail**: an image to go with the resource. If empty, it will use a default image based on the tagged topic.
-  - **Topics, Keywords, Programs, and Regions**: see below
+  - **Tags**: information about the resource to help with display, sorting, search, and promotion. See below for more details.
   - **Author and Publishing Information**: information about the content for future maintenance
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
@@ -545,11 +547,6 @@ On the edit screen for a program resource, you will see the following fields:
     - Selecting “External Website” will provide a field for you to enter a URL.
     - Selecting “Document” will provide a field for uploading a document. You can also specify alternate versions of the file. This is for documents that are available in multiple formats (e.g. PDF, Word) or languages. The different versions are differentiated by the names you give them when you upload them.
 
-      ![Program Resource Versions Screenshot](images/program-resource-versions.png)
-
-      *Example of a program resource with multiple file versions.*
-      <br><br>
-
   - **Description**: a description of the resource that displays in the teaser
   - **Type**: This field is for organizational purposes and will not affect how the program resource displays to visitors to the site. If none fit, select “Other.”
   - **Category**: To organize program resources, you can configure categories for them (see below).
@@ -607,8 +604,6 @@ EESC will set up projects for content team groups upon request.
 
 The edit screen for a project has the following fields:
 
-  - **Short description**: a description of the Project that shows up in the tease.
-  - **Thumbnail**: an image representing the Project that shows up in the teaser
   - **Website URL**: If your project already has it’s content on an external website, you can enter the link here. Visitors will be taken directly to that site when they click on the Project.
   - **Content**: the content that shows on the Project’s page (see [Page Sections](using-site.md#page-sections) for more information). The following types of sections are available to add to the page:
     - **Image**: an uploaded image
@@ -623,6 +618,7 @@ The edit screen for a project has the following fields:
       ![Tabbed Section Screenshot](images/tabbed-section.png)
 
   - **Tags**: includes topic, program area, program, and counties
+  - **Teaser settings**: thumbnail and short description that display in the project's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
 
 ### Where and How Projects Display
 
@@ -661,6 +657,7 @@ The edit screen for a project supporting material has the following fields:
     - **Project Columns**: allows you to display other sections in two columns (on large enough screens)
     - **Video**: a video hosted on YouTube, Vimeo, or OSU Media Space
     - **Call to Action**: text, image, and link to encourage visitors to the page to take an action
+  - **Teaser settings**: thumbnail and short description that display in the material's teaser.
 
 ### Where and How Project Supporting Materials Display
 
@@ -684,7 +681,7 @@ Members of program groups.
 
 The edit screen for a subpage contains fields for the page title, hero image, and some basic text content. The hero image displays as a banner at the top of the page, so it should be about 2000px wide by 400px high. If this is empty, it will use the hero image of the county or program in its group.
 
-> **Quick Tip**: There is a link above the first text box on the edit screen that says "Edit Summary". When you click this, a smaller text box appears. The text in this box is what displays in teasers for the subpage. These appear in search results or when someone selects the subpage as featured content.
+There is also a section for "teaser settings" where you can define a short description and thumbnail to display in search results and teasers that list the subpage.
 
 Content for subpages is primarily added through page sections (see [Page Sections](using-site.md#page-sections) for more information). These types of sections are available
 
@@ -865,7 +862,8 @@ On the edit screen for a video, you will see the following fields:
   - **Video**: You can embed a video from [YouTube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), or [OSU MediaSpace](https://media.oregonstate.edu/).
   - **Description**: a short description of the video. This is shown in the teaser as well as the full video page.
   - **Supplemental text**: additional text to show on the full video page.
-  - **Topics, Keywords, Programs, and Regions**: See below.
+  - **Tags**: information about the video to help with display, sorting, search, and promotion. See below for more details.
+  - **Teaser settings**: thumbnail and short description that display in the video's teaser. If the thumbnail is empty, it will use a default image based on the topic.
   - **Author and Publishing Information**: information about the content for future maintenance.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.

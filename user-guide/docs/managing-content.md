@@ -62,6 +62,7 @@ Content that is visible to public visitors is **published** and content that is 
   - **In Review**: The content was published, but has been taken down for review.
   - **Archived**: The content was published, but is now out of date or no longer needed.
 
+Note that when you are viewing a piece of content that is unpublished, not visible to the public, it will have a pink background.
 
 At the bottom of any edit screen, you will see one of two setups, depending on which type of content you are editing:
 
@@ -120,6 +121,18 @@ Next to the Save button on an edit page you will also see the “delete” link.
 ![Delete Content Screenshot](images/delete-content.png)
 
 After clicking on “Delete” it will confirm if you are sure you want to delete it. Deleted content will no longer be accessible and cannot be restored. If you want to maintain a copy of the old content, you must copy and save this yourself beforehand.
+
+## EESC Copyediting
+
+The EESC pubs team will copyedit articles entered on the Extension website. When they make edits, a new draft of the content is created, so the original remains visible to the public and doesn't change. The person marked as the "EESC contact" for the group will get an email whenever a piece of content is copyedited. This will include a link where they can view the copyedited draft and approve the changes. You can also view a list of copyedited content in a group that needs to be approved by going to the group content page for that group and clicking the "Copyedits" tab at the top of the page.
+
+![Copyedit List Screenshot](images/copyedit-dashboard.png)
+
+This page lists all content in the group that has been copyedited and needs approval. You can view the copyedited draft by clicking on the title of the content. It also lists the EESC pubs team member who copyedited the content. If you have questions about the changes that were made, click on their user name to go to their contact form.
+
+When you view the draft for a copyedited piece of content, you can approve it using the moderation controls at the top of the content. Set the dropdown to "copyedited and published" and click the "Apply" button.
+
+![Moderation controls](images/copyedit-moderation-controls.png)
 
 ##  Displaying and Organizing Content on Other Pages
 
