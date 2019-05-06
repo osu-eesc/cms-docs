@@ -274,6 +274,18 @@ The region tag can narrow content down to only what is relevant for someone in a
 
 The region tag defaults to “Statewide.” You should change this tag (remove “Statewide” and add a different region) only if the content is only applicable to one or more specific regions and not statewide.
 
+### Season
+
+The season tag specifies the season (Spring, Summer, Fall, Winter) when the content is relevant. This is used for internal organization and for promotion of seasonally-relevant content. If content is equally-relevant during the entire year, do not select any season.
+
+### Marketing Category
+
+For the most recent legislative session, Extension Marketing developed four categories to describe the work we do to stakeholders. If your content is relevant to any of these categories, specify it with the "marketing category" tag.
+
+### Audience
+
+The audience tag is used for internal organization, and the list of available audiences is currently under development. Eventually, it will be used to help personalize the website experience for individual visitors. If the content is not aimed at any of the listed audiences, do not select any.
+
 ### Language
 
 The language tag specifies what language the content is available in. When you tag content with a language, a few things will happen.

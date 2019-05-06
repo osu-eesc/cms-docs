@@ -314,6 +314,7 @@ On the edit screen for an event, you will see the following fields:
 
   - **Event Cost**: how much it costs to attend the event
   - **Registration Link**: a link to register for the event online. If you enter the link here, you don’t need to enter it in the description.
+  - **Event Type**: the category for the event. This is used for internal reporting as well as for export to Localist.
   - **Description**: the full event description
   - **More information or promotional flyer**: uploaded flyer or registration form for the event
 
