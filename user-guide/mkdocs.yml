@@ -5,6 +5,7 @@ theme:
   name: readthedocs
 extra_css:
   - css/extra.css
+google_analytics: ['UA-109218015-4', 'osu-eesc.github.io/cms-docs/user-guide/site/']
 nav:
   - Home: index.md
   - Quick Start: quick-start.md
