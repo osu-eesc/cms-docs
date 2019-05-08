@@ -22,6 +22,10 @@ On the edit screen for a user, you will see the following fields:
     - **CAS Username**: Enter the person’s ONID username.
   - **Contact information**: Information that shows on the user’s profile page
   - **Profile**: Fields the user themself can edit. Includes fields for their photo, bio, related online links, and expertise (topics).
+    - How to update your directory information and show up as an expert:
+    <figure class="video_container">
+      <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_n6e8u834&flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_9g2z999q" width="554" height="366" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen*; encrypted-media*" frameborder="0" title="Kaltura Player"></iframe>
+    </figure>
   - **Employee**: Information about the person’s role in Extension
     - **Status**: See “Removing Users” below.
     - **Title**: Enter the person’s job title(s).
