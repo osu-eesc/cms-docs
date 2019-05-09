@@ -130,7 +130,7 @@ If you want to tag many stories at once:
 
 To copyedit content in the Extension website, you need to have the "Content Editor" role. All members of the EESC pubs team should have this role.
 
-When you log in to the site, you will be taken to a [dashboard that lists all content that has been assigned to you to copyedit](https://extension.oregonstate.edu/admin/content/copyedit). There are also tabs at the top of the page that show you lists of content you have copyedited that is pending approval as well as all content that hasn't been assigned to a copyeditor.
+When you log in to the site, you will be taken to a [dashboard that lists all content that has been assigned to you to copyedit](https://extension.oregonstate.edu/admin/content/copyedit). There are also tabs at the top of the page that show you lists of content has been copyedited and is pending approval as well as all content that hasn't been assigned to a copyeditor.
 
 ![Copyediting tabs](images/copyedit-tabs.png)
 
@@ -151,10 +151,12 @@ There are two ways to assign a piece of content to a content editor.
 
 ### Editing content
 
-To edit a piece of content, click on it in the list on the dashboard and click the "Edit" tab. Make your edits, then click save at the bottom of the page. Just above the "Save" button, it should say, "Change to: Copyedited Pending Approval".
+To edit a piece of content, click on it in the list on the dashboard and click the "Edit" tab. Make your edits, enter any notes in the "Revision log message" box on the right-hand side of the screen, then click save at the bottom of the page.
+
+Just above the "Save" button, you will see a dropdown of options for the save state.
 
 ![Copyedit save button](images/copyedit-save.png)
 
-Saving content as "Copyedited Pending Approval" will trigger an email to the contact person for the group the content belongs to prompting them to approve the changes. You can see what content you have copyedited that needs to be approved by going to the "Pending Approval" tab on the dashboard.
-
-You can make additional changes to content that has already been copyedited. This will trigger an additional email to the group's contact person.
+  - **Copyediting in progress**: This saves a draft of your changes. It does not make the changes publicly visible and does not notify the group that the content has been copyedited.
+  - **Copyedited and published**: This makes your changes immediately visible to the public without approval from the group. Use this only for small changes such as spelling or formatting fixes and adding (non-topic) tags.
+  - **Copyedited pending approval**: This will trigger an email to the contact person for the group the content belongs to prompting them to approve the changes.

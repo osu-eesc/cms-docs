@@ -134,6 +134,8 @@ When you view the draft for a copyedited piece of content, you can approve it us
 
 ![Moderation controls](images/copyedit-moderation-controls.png)
 
+You can find more details about the changes made by going to the "Revisions" tab on the content page. This allows you to see notes left by the copyeditor and to compare the copyedited version to the previous version. See the previous section for more information about the revisions tab.
+
 ##  Displaying and Organizing Content on Other Pages
 
 In some cases, you might want content that exists on the site to show up on a specific page. The way to do this depends on where you want the content to show up, who added it, and what kind of content it is. Generally, this will involve:
