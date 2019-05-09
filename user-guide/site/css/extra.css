@@ -29,3 +29,23 @@ a:visited,
 a:active, {
   color: #006a8e !important;
 }
+
+/*
+ * Styles for navigator search form.
+ */
+
+ .navigator-search-container {
+   margin: auto;
+   padding: 3em 5em 5em;
+   background: #D73F09;
+ }
+
+.navigator-search-container  input[type="text"] {
+  font-size: 16px;
+  height: 45px;
+  border: 1px solid #d7d7d7;
+  border-radius: 0;
+  padding: 0;
+  padding-left: 1em;
+  width: 100%;
+ }

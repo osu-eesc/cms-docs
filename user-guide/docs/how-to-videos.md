@@ -2,6 +2,8 @@
 
 ## How to Log in to the Website
 
+<hr>
+
 ### Login and Logout
 
 <figure class="video_container">
@@ -9,16 +11,18 @@
 </figure>
 
 ##
-## Add Content
+## Adding and Editing Content
 
-### Create an Announcement
+<hr>
+
+### Announcements
 
 <figure class="video_container">
   <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_z7ydk74m&flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_9k79fno3" width="554" height="366" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen*; encrypted-media*" frameborder="0" title="Kaltura Player"></iframe>
 </figure>
 
 ###
-### Add a Newsletter
+### Newsletters
 
 <figure class="video_container">
   <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_1gjkl3a6&flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_7l0j1tox" width="554" height="366" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen*; encrypted-media*" frameborder="0" title="Kaltura Player"></iframe>
@@ -26,6 +30,8 @@
 
 ##
 ## How to Update Your Directory Information and Show Up as an Expert
+
+<hr>
 
 ### Edit Your Profile Page
 
@@ -36,6 +42,8 @@
 ##
 ## How to Improve the Display of Images
 
+<hr>
+
 ### Adjusting Photo Position and Entering Photo Information
 
 <figure class="video_container">
@@ -44,6 +52,8 @@
 
 ##
 ## Linking to Another Web Page or Resource
+
+<hr>
 
 ### Creating an Internal Link
 
@@ -61,6 +71,8 @@
 ##
 ## How to Curate the Topic Page (if you are in a topic group)
 
+<hr>
+
 ### Editing a Topic Homepage
 
 <figure class="video_container">
@@ -69,6 +81,8 @@
 
 ##
 ## How to Create Local Focus areas
+
+<hr>
 
 <figure class="video_container">
   <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=0_zf118eja&flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_pu0vws88" width="554" height="366" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen*; encrypted-media*" frameborder="0" title="Kaltura Player"></iframe>
