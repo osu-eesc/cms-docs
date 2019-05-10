@@ -103,7 +103,11 @@ On the edit screen for an article, you will see the following fields:
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
-> **Quick Tip**: Web visitors often scan content on the web to see if it is useful for what they need. Make your article more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
+> **Quick Tip**:
+>
+>   - Web visitors often scan content on the web to see if it is useful for what they need. Make your article more readable by using these [Accessibility](content-requirements.md#accessibility) and [writing for the web](content-requirements.md#writing-for-the-web) tips.
+>   - The EESC Publications team will copyedit articles entered in the extension website. See [EESC Copyediting](managing-content.md#eesc-copyediting) for more information.
+
 
 ### How and Where Articles Display
 
