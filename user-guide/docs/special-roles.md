@@ -153,7 +153,7 @@ There are two ways to assign a piece of content to a content editor.
     3. Check the box for "Copyeditor" and select the name from the drop down list that appears. Then click "Apply".
       ![Copyedit bulk assign](images/copyedit-bulk-assign.png)
 
-Assigning a piece of content to a person will remove it from the "Unassigned" list and add it to the list of assigned items they see when they log in.
+Assigning a piece of content to a person will remove it from the "Unassigned" list and add it to the list of assigned items they see when they log in. You can also see a list of all content that has been assigned to a copyeditor in the "Assigned Content" tab at the top of the page.
 
 ### Editing content
 
