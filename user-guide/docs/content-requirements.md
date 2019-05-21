@@ -43,6 +43,28 @@ Here are some tips for writing effective web content:
   - **Set up a review process** so that content stays up to date and is accurate. (For some content teams, this may include peer review.)
   - **Follow OSU and Extension brand guidelines.** The [OSU Brand Guide](https://communications.oregonstate.edu/brand-guide) and the [Extension Style Guide](https://employee.extension.oregonstate.edu/resources/marketing-tools/osu-extension-style-guide) have information about messaging and tone for written pieces.
 
+Here is a quick summary of the differences between writing for print media and writing for the web:
+
+**Topic** | **Print version** | **Web version**
+-------------|--------------|------------------
+**Access** | “Print-friendly PDF” button on the website | Remember, our audience is literally reading this on a phone.
+**Reading level** | Write to 10th-to 12th-grade reading level | Write to 8th-to 12th-grade reading level
+**Audience segment** | Write to clearly identified section of audience: producers, stewards, advocates, learners | Write to clearly identified section of audience: producers and learners
+**Length** | Flexible length | 50% shorter. For longer articles, include an overview or summary.
+**Tables** | Complex tables OK | Simpler tables with accessible HTML
+**Design standards** | Meets print design standards (High resolution, lots of images, data graphics). Widows, line breaks, and alignment matter. Good visual hierarchy. | Meets web design standards (lower resolution with alt text, screen readable). Teaser text to draw in readers. Tagging/keywords added.
+**Structure** | More flexible narrative format, but use short sentences. | Inverted pyramid style preferable. Lead with the most important points, or make important points stand out with pull quotes or separate lines.
+**Headlines** | Compelling headlines | Headlines front-load keywords. They’re straightforward and compelling, not cutesy. Shorter is better.
+**Sections** | Break up text with photos, graphics and subheads | Break content into short, readable chunks. Liberal use of subheads, bullet points and boldface.
+**Voice and tone** | Voice and tone: depends on complexity of topic. Avoid passive voice. | Voice and tone reflect OSU branding. Welcoming, helpful, conscientious, progressive. Okay to use second person pronouns.
+**References** | Include resources and references at the end using AP or Chicago style for citations | Link to other relevant content (but never say “click here”)
+**Acronyms** | Acronyms OK. (Chicago Style) | Limit acronyms
+**Sentences** | Full sentences required. | Phrases and partial sentences okay.
+**Content** | Storytelling and illustrative examples common. | Specific actionable information preferred (unless a story or news content type).
+
+*Based on UX research from [Nielson Norman Group](https://www.nngroup.com/topic/writing-web/).*
+
+
 ## Diversity and Inclusion
 
 OSU’s Strategic Plan 4.0 places a strong emphasis on promoting diversity and inclusion in education and programs. There are several things to keep in mind to ensure that our web content is inclusive of all the audiences we serve.
@@ -67,9 +89,9 @@ As an institution that receives federal funding, we are **legally required to ma
     - You should never use a “raw” URL. For example, instead of “www.google.com,” use “Google.” See [Using the Site](using-site.md#links) for how to create links in text areas.
     - The same thing applies to email addresses. Instead of “Contact Jane Doe at jane.doe@oregonstate.edu,” just put “Contact Jane Doe.”
     - We also encourage you to link to a person’s profile instead of an email address if possible (type their name in the link field and select from the list that shows up). This has several benefits:
-      - Makes it less likely for spam bots to find and abuse the email address.
-      - Profile links go to an online form which results in less errors than clicking on an email link.
-      - Profiles also give several methods of getting in touch with someone for visitors that prefer one method over the others.
+        - Makes it less likely for spam bots to find and abuse the email address.
+        - Profile links go to an online form which results in less errors than clicking on an email link.
+        - Profiles also give several methods of getting in touch with someone for visitors that prefer one method over the others.
     - Avoid links that contain the phrase “Click here.” This is not descriptive enough and is inaccurate for people who are not using a mouse.
   - **Avoid text in all caps.** This makes text difficult to pronounce for screen readers (they may mistake it for an acronym). It is also more difficult to read for people with dyslexia.
   - **Use tables only for tabular data.** Tables are complex structures that are difficult for assistive technologies to understand. Only use them when necessary—for example, when presenting tabular data. Don’t use tables for formatting text in columns. Two-column sections on pages can accomplish this.
@@ -119,6 +141,7 @@ It is *extremely* important that you **only upload images to the Extension websi
 By default, other people adding content on the site are able to reuse images you upload. **To prevent this**, check the “Don’t allow reuse of this image” box when uploading the image.
 
 Here are some good sources of legal images to use:
+
   - [EESC Photo Archive](https://eesc.extension.oregonstate.edu/eesc-photo-archives)
   - [OSU Brand Photos](https://communications.oregonstate.edu/brand-guide/download-brand-photography)
   - [Flickr](https://www.flickr.com/) (Be sure to check that the license for the photo allows for its use.)
@@ -135,13 +158,15 @@ The alt text is a *replacement* for the image when the image is not available. T
 
 Alt text is usually only necessary when there is text in the image. In this case you should re-enter that text in the alt text field as it appears in the image. You should also include alt text when the image illustrates something that isn’t explained in the caption or other surrounding text.
 
+> **Quick Tip**: For more details on when and how to craft an alternative text description, see: [WebAIM: Alternative Text Guide](https://webaim.org/techniques/alttext/).
+
 ## File Management
 
 When you have a document, such as a PDF, that you want to add to the Extension website, there are several options.
 
 ### Option A: Website-Based Content
 
-**Website-based content** can be read directly on a website. This is opposed to files that someone has to download and open to read. On the Extension website, website-based content includes articles and other text content. This type of content has several advantages over uploading documents. It makes content:
+**Website-based content** can be read directly on a website. This is opposed to files that someone has to download and open to read. On the Extension website, website-based content includes articles, subpages, and other text content. This type of content has several advantages over uploading documents. It makes content:
 
   - more likely to be found and ranked highly in a search
   - easier to use on mobile devices
@@ -256,7 +281,6 @@ You can think of keywords as “subtopics” that are used to further organize c
   1. The content will show higher in search results when a visitor searches for the keyword.
   2. The content will show when a visitor selects the keyword in a page filter
   3. The content will show in “Program Tagged Content” page sections for programs it is tagged with.
-  4. The content will show when a visitor selects the topic in a page filter.
 
 Keywords are the only tag on the site that requires content authors to type in the tag instead of selecting it. Please follow these guidelines while doing this:
 
@@ -283,9 +307,13 @@ The region tag defaults to “Statewide.” You should change this tag (remove �
 
 The season tag specifies the season (Spring, Summer, Fall, Winter) when the content is relevant. This is used for internal organization and for promotion of seasonally-relevant content. If content is equally-relevant during the entire year, do not select any season.
 
-### Marketing Category
+### Marketing Theme
 
-For the most recent legislative session, Extension Marketing developed four categories to describe the work we do to stakeholders. If your content is relevant to any of these categories, specify it with the "marketing category" tag.
+Extension marketing developed four themes to describe the work we do to stakeholders.  If your content fits within one of these themes, specify it with the “marketing theme” tag.
+
+### Program Area
+
+The Program Area tag is used on county focus areas for internal organization. Mark which of the seven Extension program areas that the focus area fits under.
 
 ### Audience
 
@@ -314,8 +342,8 @@ Tagging a piece of content with a program or county generally makes it appear on
       - Shows when [topic pages are filtered](https://extension.oregonstate.edu/topic/forests/health-managment/resources?keyword=timber%20harvest)
       - Shows in [search results for keywords](https://extension.oregonstate.edu/search?search=logging)
   - **Region:** *Statewide*
-      - Language: (none)
-      - Program: Master Woodland Manager
+  - **Language**: (none)
+  - **Program**: Master Woodland Manager
       - If the MWM program had a “Program Tagged Content List” section configured, this article would show up there
 
 

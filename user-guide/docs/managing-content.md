@@ -18,7 +18,7 @@ The people you will be working most closely with are other members of your group
 Certain members of a group may have a specific role.
 
   - **Group leader** (also called “EESC Contact”): the single point of contact and liaison between a content team and EESC
-  - **Member manager**: person or people responsible for adding members to the group
+  - **Member & Settings manager**: person or people responsible for adding members to the group
 
 ### Adding People to a Group
 
@@ -124,13 +124,13 @@ After clicking on “Delete” it will confirm if you are sure you want to delet
 
 ## EESC Copyediting
 
-The EESC pubs team will copyedit articles entered on the Extension website. When they make edits, a new draft of the content is created, so the original remains visible to the public and doesn't change. The person marked as the "EESC contact" for the group will get an email whenever a piece of content is copyedited. This will include a link where they can view the copyedited draft and approve the changes. You can also view a list of copyedited content in a group that needs to be approved by going to the group content page for that group and clicking the "Copyedits" tab at the top of the page.
+The EESC pubs team will copyedit articles entered on the Extension website. This is done after an article is published by a content team. When the pubs team makes edits, a new draft of the content is created, so the original remains visible to the public and doesn't change. The person marked as the "EESC contact" for the group will get an email whenever a piece of content is copyedited. This will include a link where they can view the copyedited draft and approve the changes. You can also view a list of copyedited content that needs to be approved by going to the group content page for that group and clicking the "Copyedits" tab at the top of the page.
 
 ![Copyedit List Screenshot](images/copyedit-dashboard.png)
 
-This page lists all content in the group that has been copyedited and needs approval. You can view the copyedited draft by clicking on the title of the content. It also lists the EESC pubs team member who copyedited the content. If you have questions about the changes that were made, click on their user name to go to their contact form.
+This page lists all content in the group that has been copyedited and needs approval. You can search for content by the uploader or original title. If the title was changed during copyediting, you will see the change when you click on the content. You can view the copyedited draft by clicking on the title of the content. This page also lists the EESC pubs team member who copyedited the content. If you have questions about the changes that were made, click on their user name to go to their contact form.
 
-When you view the draft for a copyedited piece of content, you can approve it using the moderation controls at the top of the content. Set the dropdown to "copyedited and published" and click the "Apply" button.
+When you view the draft for a copyedited piece of content, you can approve it using the moderation controls at the top of the content. Set the dropdown to "copyedited and published" and click the "Apply" button. You can also make edits to the copyedited content before making it public by clicking the "Edit" tab and editing as normal.
 
 ![Moderation controls](images/copyedit-moderation-controls.png)
 

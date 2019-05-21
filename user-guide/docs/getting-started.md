@@ -90,38 +90,38 @@ Most members of topic committees will also be members of a content team. However
 
 ## Roles and Responsibilities
 
-It is helpful in knowing not only your Drupal groups, but the roles of all the people involved in the OSU Extension digital content and engagement strategy. This can show you where to get support. Current responsibilities have focused on the Extension website, although it is just a piece of the long-range plans.
+It is helpful in knowing not only your Drupal groups, but the roles of all the people involved in OSU Extension's digital strategy. This can show you where to get support. Current responsibilities have focused on the Extension website, although it is just a piece of the long-term plans.
 
 ![Group Types Venn Diagram](images/roles-diagram.png)
 
 **Everyone in Extension**
 
-  - Engage with and contribute to at least one content team or program or office group
-  - Ensure your web profile is updated, add a headshot photo, and select expertise
-  - Provide information requested to begin development of the customer relationship management system
+  - Engage with and contribute to at least one content team, program group, or office group.
+  - Ensure your profile on the website is up to date, including a headshot photo and expertise.
+  - Provide requested information to begin development of the customer relationship management system.
 
 **Program Area Leaders and Regional Directors**
 
-  - Establish process and calendar for creation/management of content
-  - Help the Digital Content and Engagement (DCE) team establish metrics necessary to maintain progress and align with current OSU Strategic Plan
-  - Work with content strategist to establish governance plans
-  - Ensure supervised faculty are engaged and actively participating in at least one content team
-  - Begin planning for use of customer relationship management system to meet specific program goals
+  - Establish process and calendar for creation/management of content.
+  - Help the Navigator team establish metrics necessary to maintain progress and align with current OSU Strategic Plan.
+  - Work with the content strategist to establish governance plans.
+  - Ensure supervised faculty are engaged and actively participating in at least one website group.
+  - Begin planning for use of a customer relationship management system to meet specific program goals.
 
 **Team Leader or Group Coordinator**
 
-  - Establish team or group role assignments
-  - Review website changes, content updates, and new features as they are rolled out and communicate to team or group members
-  - Establish a content plan with the support of the content strategist
-  - Coordinate who will do entry in the team or group and establish a process
-  - Ensure faculty and staff on related Extension website pages are up to date
+  - Establish team or group role assignments.
+  - Review website changes, content updates, and new features as they are rolled out and communicate to team or group members.
+  - Establish a content plan with the support of the content strategist.
+  - Coordinate who will do entry in the team or group and establish a process.
+  - Ensure faculty and staff on related Extension website pages are up to date.
 
 **Team or Group Members**
 
-- Contribute to your team&#39;s content plan or group&#39;s assignments
-- Add relevant content to the website; fill in gaps
-- Increase findability of content by monitoring and revising tags
-- Improve readability and review accuracy of existing content
+- Contribute to your team's content plan or group's assignments.
+- Add relevant content to the website; fill in gaps.
+- Increase findability of content by entering, monitoring, and revising tags.
+- Improve readability and review accuracy of existing content.
 
 Learn more about these [Primary Roles and Responsibilities](primary-roles.md)
 
@@ -146,11 +146,11 @@ The content types that you are able to use depend on the group type you are usin
 **Local Focus Area**<br> Description of work done in a county in a particular topic or program | | | | x
 **Newsletter Issue**<br> Print, electronic, web-based newsletters | <center>x</center> | x | x | x
 **Online Resource**<br> Link to educational material located on another website | x | | |
-**Program Resource**<br> Materials only of interest to people involved in a program. May be an uploaded document or a link to an external site | | x | x |
+**Program Resource**<br> Materials needed to join or participate in a program. May be an uploaded document or a link to an external site | | x | x |
 **Project**<br> An activity done by Extension with outputs or impacts of interest to the public. May include tools, background research, progress updates, etc. | x | | |
 **Project Supporting Material**<br> Content providing context or additional information about a project | x | | |
 **Social Media Link**<br> Link to a social media account for county or program. | | x | x | x
-**Subpage**<br> Information about county location or program involvement. May also group or link to educational content relevant to a specific audience | | x | x |
+**Subpage**<br> Information about program involvement. May also group or link to educational content relevant to a specific audience | | x | x |
 **Video**<br> An informational video | x | | |
 
 
@@ -185,3 +185,12 @@ These content types can be added by a number of group types.
 
   - **County office**: Represents an Extension presence in a county.
   - **Local focus area**: Information about work or activities done in a county that relate to a program or topic.
+
+## Review of Terms
+  - **Group**: membership gives access to edit the group’s content.
+  - **Content type**: a template for content with a defined structure that consists of several fields. For example, article, video, program resource, and newsletter.
+
+## Key Takeaways
+  - Your group(s) determine(s) which content you are allowed to edit.
+  - Content is added to the website as one of several available content types depending on what it is. Content types include articles, videos, and educational documents.
+  - The type of group determines which content types its members are able to add.

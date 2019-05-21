@@ -43,7 +43,7 @@ To get to the topic pages, click “Topics” in the black navigation bar at the
 
 Each topic has a “landing page” that is semi-curated by topic committees. This page contains the most important content for the topic and a description of the work Extension is doing in that area. It also links to several other pages that contain more content related to the topic.
 
-The visitor can click on a link on the landing page to go to the “Browse Resources” page for that topic. This page lists in chronological order all content in the system tagged with the topic. Like the search result page, filters on this page narrow the list to content relevant to the visitor.
+The visitor can click on a link on the landing page to go to the “Browse Resources” page for that topic. This page lists all content in the system tagged with the topic in reverse chronological order (newest first). Like the search result page, filters on this page narrow the list to content relevant to the visitor.
 
 ![Browse Dairy Resources Screenshot](images/dairy-resources.png)
 
@@ -78,6 +78,8 @@ A newsletter called [*GROWING*](https://extension.oregonstate.edu/newsletter/gro
 > Since the newsletter was entered only once, updates will automatically show up in all these places.
 
 ## Making Changes to Content
+
+### Logging In
 
 To make changes to content, **content authors**, people who enter content, must log in to the site. There is a “Log in” link at the bottom right of every page. This will take you to a screen where you use your [ONID](http://onid.oregonstate.edu/) credentials to log in. When you are logged in, you will see a “My Groups” link in the top black menu bar on every page.
 
@@ -156,10 +158,10 @@ The browser consists of two tabs:
 
 1. **Upload new**: This is where you can upload a new file. After selecting the file from your computer (or entering a video embed URL), you will need to enter some additional information.
     - **Image**: There are a number of fields you can fill out for an image.
-      - **Alternative text**: If there is text in the image, re-enter it here so that assistive technology and search engines can read it. See Captions and Alternative Text for more information.
-      - **Caption**: Enter any additional information about the image that is useful to visitors here (not in the Alternative text field). Keep in mind that this photo may be reused for other purposes in the future.
-      - **Photo credit and photo credit link**: See [Using Images](content-requirements.md#using-images) for more information.
-      - **Don’t allow reuse**: This prevents others from using the image in other places. Use this if there is limited permissions to use the image. If the photo can be reused, consider making the file name descriptive so it’s easier to search for in the future.
+        - **Alternative text**: If there is text in the image, re-enter it here so that assistive technology and search engines can read it. See Captions and Alternative Text for more information.
+        - **Caption**: Enter any additional information about the image that is useful to visitors here (not in the Alternative text field). Keep in mind that this photo may be reused for other purposes in the future.
+        - **Photo credit and photo credit link**: See [Using Images](content-requirements.md#using-images) for more information.
+        - **Don’t allow reuse**: This prevents others from using the image in other places. Use this if there is limited permissions to use the image. If the photo can be reused, consider making the file name descriptive so it’s easier to search for in the future.
     - **Document**: Provide a document name. This may be seen by the public, so use something that makes sense.
     - **Video**: Provide a video name.This is not seen by the public.
   2. **Reuse existing**: If you or someone else has already uploaded the file you want to use, you can reuse it without having to re-enter the information. Search by the filename of the existing item or the name it was given when originally uploaded. When you find it, click the checkbox next to it. Then click the “Select” button at the bottom of the window. Save the page for the selection to take effect.
@@ -178,7 +180,7 @@ You can search for existing content by title, content type, group, topic, and/or
 
 When adding or editing certain kinds of content, including program and county pages, projects, and web-based newsletters, you will need to manage content on the page via **page sections**. With this method, you add pieces of content to the page in chunks, one section at a time.
 
-There are several different types of sections you can use for different kinds of content on the page. Some sections are for basic page elements such as text and images. Others create dynamic lists that pull content onto the page. These include county or program events lists (which pull events) and program resource lists (which pull program resources). Once you set up one of these sections, it will automatically show new content as it is entered without you needing to update the page. The types of page sections available depend on the type of content you are working on. See [Adding and Editing Content](adding-editing.md) for details about the type of sections available for each type.
+There are several different types of sections you can use for different kinds of content on the page. Some sections are for basic page elements such as text and images. Others create dynamic lists that pull content onto the page. These include county or program events lists (which pull events) and program resource lists (which pull program resources). Once you set up one of these sections, it will automatically show new content as it is entered without you needing to update the page. The types of page sections available depend on the type of content you are working on. See [Adding and Editing Content](adding-editing.md) for details about the type of sections available for each content type.
 
 You add page sections using the buttons at the bottom of the edit screen.
 

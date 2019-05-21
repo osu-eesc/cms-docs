@@ -1,5 +1,16 @@
 # List of changes to the web guide
 
+- 05/21/2019
+    - Added information about additional description fields on Articles
+    - Added information about adding content to each content type section
+    - Added information about additional tags to each content type section
+    - Added web writing vs. print writing summary table
+    - Updated name of Navigator Digital Strategy Team throughout roles and responsibilities pages
+    - Added "hero image" term to glossary
+    - Updated file upload options flow chart
+    - Updated copyediting workflow description for content authors and EESC pubs team
+    - Other small updates to wording and updated screenshots
+
 - 05/13/2019
     - Added info about the "Registration Closed" checkbox on events
 

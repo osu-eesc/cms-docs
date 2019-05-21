@@ -19,6 +19,7 @@ These are terms you might encounter in this guide or when working with the EESC 
   - **Focal point**: Specified point in an image that controls how the image is cropped when it is automatically resized. Set by moving the white “+” icon on the image preview in the image browser, which appears when uploading or editing an image.
   - **Group**: Membership gives access to edit the group’s content.
   - **Group leader**: The point of contact and liaison between a group and EESC. Also called the “EESC contact” or “team leader.”
+  - **Hero Image**: A large, full-screen-width image that appears at the top of a page
   - **Image/document/video browser**: Window used to upload or reuse images, documents, and videos.
   - **In Review**: Content that was published but has been taken down for review.
   - **Landing page**: The “main” page for a participant-based program, county, or topic.

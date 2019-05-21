@@ -21,7 +21,7 @@ Suggested Focus for 2019
 
 - Strategic leader role for content areas and programmatic and regional goals
   - Oversight of and input into the overall Extension digital content and engagement strategy
-  - Annual meeting with the Digital Content and Engagement (DCE) Strategy Team to review program area content metrics and alignment of program content, audiences, goals, and strategy
+  - Annual meeting with the Navigator Digital Strategy Team to review program area content metrics and alignment of program content, audiences, goals, and strategy
   - Communication between program area leaders, regional directors, and EESC as new needs are identified for content teams to create or modify educational content
 - Guide tactical execution of Extension's digital content and engagement strategy
   - Manage and support content team leader(s), program group coordinators, and county office and combined station group coordinator(s)
@@ -33,7 +33,7 @@ Suggested Focus for 2019
 
 -
   - Establish process and calendar for creation/management of content
-  - Help the DCE team establish metrics necessary to maintain progress and align with current OSU Strategic Plan
+  - Help the Navigator team establish metrics necessary to maintain progress and align with current OSU Strategic Plan
   - Work with content strategist to establish governance plans
   - Ensure supervised faculty are engaged and actively participating in at least one content team
   - Begin planning for use of customer relationship management system to meet specific program goals
@@ -41,13 +41,13 @@ Suggested Focus for 2019
 **Team or Group Leaders**
 
 - Administrative role assignment for your content team, county office or program group to lead the creation and management of high-quality content to Oregonians and beyond
-  - With guidance from your program area leader, regional director, related group or team leader(s), and the Digital Content and Engagement (DCE) Strategy Team, lead a high functioning team to identify and create educational, programmatic, or location-based content (depending on your group)
+  - With guidance from your program area leader, regional director, related group or team leader(s), and the Navigator Digital Strategy Team, lead a high functioning team to identify and create educational, programmatic, or location-based content (depending on your group)
   - Manage the content to ensure accessibility, ease of use, and high-quality display
   - Define and communicate content team member roles (\*see appendix "More Defined Content Team Member Roles") or division of group assignments
   - Review content metrics, analytics, and provide recommendations to team or group members as needed
 - Serve as main point of contact for team or group members
-  - Provide a point of contact between faculty and staff who use the website, the program area leader, regional director, and DCE team, to identify and prioritize needs, determine task assignments, and work together to achieve timely solutions
-  - Consolidate feedback from audiences, volunteers, and/or faculty and staff who use the website on needed capabilities and improvements, and pass these to the program area leader, regional director, and DCE team
+  - Provide a point of contact between faculty and staff who use the website, the program area leader, regional director, and Navigator team, to identify and prioritize needs, determine task assignments, and work together to achieve timely solutions
+  - Consolidate feedback from audiences, volunteers, and/or faculty and staff who use the website on needed capabilities and improvements, and pass these to the program area leader, regional director, and Navigator team
   - Initiate and moderate team or group planning discussions, and request, plan, and attend needed trainings
   - Refer team or group members to the support and training guides for technical questions or concerns
   - Add or remove member names in the Drupal content management system group or designate a member manager
@@ -109,7 +109,7 @@ Suggested Focus for 2019
 **Topic page committee representative**
 
 - Collaborate with other content team representatives to decide what to feature on the topic landing page, so it stays balanced, fresh (seasonal), and interesting
-- Communicate with Digital Content and Engagement (DCE) Strategy Team, content team leaders, and knowledge experts to find out what the audiences are reading or searching for on the website to help inform the decisions
+- Communicate with Navigator Digital Strategy Team, content team leaders, and knowledge experts to find out what the audiences are reading or searching for on the website to help inform the decisions
 - Group content under displayed headings as needed, which may require asking content teams or EESC to add specific keywords to their content to help sorting
 - Review the top menus on the topic landing page to ensure all content showing up relates to the topic and contact the uploader as needed to remove tags or duplicates
 - Search the website to find other content that should be tagged with the topic and contact content teams or EESC to add tags
@@ -134,7 +134,7 @@ Suggested Focus for 2019
   - ooEstablish criteria that will guide decisions about the use of technology to support the overall content and engagement strategy of the organization
   - ooReview and guide the digital content and engagement strategy plan to ensure alignment with organizational goals and resource allocations
 - Provide oversight for the implementation of the content management system and customer relationship management system
-  - Support the Digital Content and Engagement (DCE) Strategy Team and have decision authority for approving strategy recommendations and resource allocations
+  - Support the Navigator Digital Strategy Team and have decision authority for approving strategy recommendations and resource allocations
 
 ## Suggested Focus for 2019
 
@@ -152,9 +152,9 @@ Suggested Focus for 2019
 
 Suggested Focus for 2019
 
-- Develop a communication plan, in collaboration with the Digital Content and Engagement (DCE) Strategy Team, for consistent messaging of the vision and establishing of a feedback loop
+- Develop a communication plan, in collaboration with the Navigator Digital Strategy Team, for consistent messaging of the vision and establishing of a feedback loop
 
-**Digital Content and Engagement (DCE) Strategy Team** **[this will be linked to throughout whenever DCE is mentioned]**
+**Navigator Digital Strategy Team**
 
 - Strategic leader role for digital content and engagement
   - Lead collaborative development of a customer-focused content strategy
@@ -191,14 +191,14 @@ Suggested Focus for 2019
 - Prepare for evolution of digital content and engagement strategy
   - Create structured, described, and atomic content that can be used in a digital content and engagement strategy
   - Utilize analytics, public marketing research, and other data to inform decisions
-  - Facilitate the Digital Content and Engagement (DCE) Strategy Team meetings and implement website, content management system, and content strategy activities
+  - Facilitate the Navigator Digital Strategy Team meetings and implement website, content management system, and content strategy activities
 
 Suggested Focus for 2019
 
 -
   - Create content calendar, social media campaign, web form, and email marketing plan within EESC to pilot and assess a digital content and engagement process
   - Provide support for post-publishing content maintenance, web functionality, and design set up
-  - Work to implement specific activities and website priorities outlined in Phase 2 &amp; 3 of the DCE team plan
+  - Work to implement specific activities and website priorities outlined in Phase 2 &amp; 3 of the Navigator team plan
 
 **Extension Computing Technology Unit (ECTU)**
 
@@ -207,7 +207,7 @@ Suggested Focus for 2019
   - Gather organizational and user needs for customer relationship management system
   - Provide instructional videos and training to faculty and staff, including working in the Extension website, content management system, and customer relationship management system
 - Support the understanding and development of new technologies or processes across Extension
-  - Work closely with Digital Content and Engagement (DCE) Strategy Teamand relay feedback/requests from faculty, staff, and external audiences
+  - Work closely with Navigator Digital Strategy Team and relay feedback/requests from faculty, staff, and external audiences
   - Keep informed on updates and guidelines to accurately provide service
   - Develop, implement, and manage customer software and requirements
   - Ensure designed solutions meets needs of all parties involved
@@ -217,7 +217,7 @@ Suggested Focus for 2019
 -
   - Outline and implement a training plan for ongoing scheduled and responsive Extension wide content management system/website training opportunities
   - Complete needs assessment for customer relationship management system
-  - Design data architecture, implement plan, and test import and use as outlined in Phase 2 &amp; 3 of the DCE team plan
+  - Design data architecture, implement plan, and test import and use as outlined in Phase 2 &amp; 3 of the Navigator team plan
 
 **The Salesforce Shared Use Collaborative**
 
@@ -227,7 +227,7 @@ Suggested Focus for 2019
   - Adopt Marketing Cloud to support better outreach and metrics university-wide
   - Optimize licensing, management and interoperability costs, while allowing differentiation of business functions and finely-tuned access controls for sensitive data
 -  Facilitate communication of coordinated efforts
-  - Work closely with the Digital Content and Engagement (DCE) Strategy Team to provide expertise in the development, validation, testing, usage, and optimization of business-critical technical systems and processes
+  - Work closely with the Navigator Digital Strategy Team to provide expertise in the development, validation, testing, usage, and optimization of business-critical technical systems and processes
   - Resolve non-routine problems as they arise, serving as a resource to stakeholders and Salesforce Administrators
   - Manage Salesforce development, administration, and end user support for Extension (specific to the Extension specific programmer position)
 
@@ -243,7 +243,7 @@ Suggested Focus for 2019
   - Maintain the infrastructure and servers that support all OSU websites
   - Develop university-wide systems for use or interaction across campus, such as Localist event calendar or website governance tools
 - Facilitate communication of coordinated efforts
-  - Communicate with the Digital Content and Engagement (DCE) Strategy Team about service and support needs and OSU web system developments
+  - Communicate with the Navigator Digital Strategy Team about service and support needs and OSU web system developments
 
 Suggested Focus for 2019
 
@@ -256,10 +256,10 @@ Suggested Focus for 2019
   - Manage the AgSci homepage, content, and design
   - Responsible for developing a network of websites for AgSci administrative units, departments, branch experiment stations, and many centers and institutes
 - Facilitate communication of coordinated efforts
-  - Support unit-level site coordinators and work closely with WAMS, Information Services, and DCE team to make sure the AgSci family of websites is interconnected with OSU and Extension sites
+  - Support unit-level site coordinators and work closely with WAMS, Information Services, and Navigator team to make sure the AgSci family of websites is interconnected with OSU and Extension sites
   - Coordinate shared systems, such as Digital Measures and related APIs
 
 Suggested Focus for 2019
 
 -
-  - Develop content integration plans, including discussion with the DCE team about location, structure, governance, and sharing of content
+  - Develop content integration plans, including discussion with the Navigator team about location, structure, governance, and sharing of content

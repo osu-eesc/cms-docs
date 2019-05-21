@@ -73,7 +73,7 @@ The tags in the “Topics, Keywords, Programs, and Regions” section of the edi
   - **Topic**: Shows in the “Browse All Resources” page for the specified topic(s).
   - **Program**: If the specified participant-based program has added a “Program Tagged Content List” section to one of its pages, it will show up there.
 
-Counties and Programs can add questions to a page by adding a “featured content” section.
+Counties and Programs can feature questions in page sections (for example, a "Featured Content" section).
 
 ## EESC News and Public Issues Team
 
@@ -142,7 +142,7 @@ When you log in to the site, you will be taken to a [dashboard that lists all co
 
 There are two ways to assign a piece of content to a content editor.
 
-  1. You can assign the content to yourself when you edit it. To do this, open the "Author and Publishing Information" section of the content's edit screen and yourself as the "Copyeditor" under "Review and Copyediting"
+  1. You can assign the content to yourself when you edit it. To do this, open the "Author and Publishing Information" section of the content's edit screen and select yourself as the "Copyeditor" under "Review and Copyediting"
 
     ![Copyedit assignee field](images/copyedit-assign-field.png)
 
@@ -152,6 +152,8 @@ There are two ways to assign a piece of content to a content editor.
       ![Copyedit bulk select](images/copyedit-bulk-select.png)
     3. Check the box for "Copyeditor" and select the name from the drop down list that appears. Then click "Apply".
       ![Copyedit bulk assign](images/copyedit-bulk-assign.png)
+
+Assigning a piece of content to a person will remove it from the "Unassigned" list and add it to the list of assigned items they see when they log in.
 
 ### Editing content
 

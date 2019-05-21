@@ -54,6 +54,9 @@ Members of program or county office groups. If an announcement applies to more t
 </figure>
 
 #
+
+To create an Announcement, go to your My Groups page and select the appropriate *County* or *Program* group. Then, click the "Create Announcement" button at the top of the page.
+
 On the edit screen for an announcement, you will see the following fields:
 
   - **Display Dates**: dates during which the announcement should be visible. The announcement will display during the start and end date specified. For example, if you want an announcement to display on January 1, 2, and 3, you would select the dates January 1–January 3.
@@ -71,7 +74,6 @@ On the edit screen for an announcement, you will see the following fields:
 Topic, program, and county landing pages display one announcement **teaser**. After the teaser is a button to “See All Announcements.” This page shows teasers for all announcements for that topic, program, or county. Each teaser links to the full announcement content.
 
 ![Announcement Teaser Screenshot](images/announcement-teaser.png)
-
 *Example announcement teaser on a landing page*
 
 Announcements in a county or program group automatically show up for that county or program. They will also show up for counties and programs specified in the “additional counties” and “additional programs” fields. You can add an announcement to a topic page using the “announcement topic” field.
@@ -92,13 +94,18 @@ Members of Content Team groups.
 
 ### Instructions for Articles
 
+To create an Article, go to your My Groups page and select the appropriate *Content Team* group. Then, click the "Create Article" button at the top of the page.
+
 On the edit screen for an article, you will see the following fields:
 
-  - **Title**: the title of the article
+  - **Previously titled**: if the Article's title has changed, keep track of the old title here. This is to help people who may be searching for the old title.
   - **Content**: the full article content
   - **Images**: images that go with the article. These will display in a column on the right-hand side of the article’s text.
   - **Tags**: information about the article to help with display, sorting, search, and promotion. See below for more details.
-  - **Teaser settings**: thumbnail and short description that display in the article's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
+  - **Teaser settings**: here, you can upload a thumbnail that will display in the article's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic. There are also a number of description fields that are used for various purposes:
+      - **Summary/Description**: This text is displayed in the article's teaser. If it is empty, the teaser will use the first couple sentences of the article itself.
+      - **Medium Description**: This text is meant for use when the content is shared on Facebook or other platforms where text length is limited.
+      - **Short Description/Deck**: This text is meant for use when the content is shared on Twitter or other platforms where text length is very limited. This text is limited to 280 characters.
   - **Author and Publishing Information**: information about the content for future maintenance.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
@@ -115,10 +122,11 @@ The tags in the “Tags” section of the edit screen determine where the articl
 
   - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show at the bottom of the article in a “Related Resources” section.
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
+  - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.
 
     ![Topics, Keywords, Programs, and Regions Screenshot](images/topic-program.png)
 
-Counties and Programs can display articles on a page by adding a “featured content” section.
+Counties and Programs can feature Articles on their pages by selecting them in a page section (for example, a "featured content" section).
 
 ## Collection
 
@@ -141,9 +149,10 @@ Members of Content Team groups.
 
 Before you create a collection, be sure to find (or add to the site, if needed) all the content that should be part of it.
 
+To create a Collection, go to your My Groups page and select the appropriate *Content Team* group. Then, click the "Create Collection" button at the top of the page.
+
 On the edit screen for a collection, you will see the following fields:
 
-  - **Title**: the title of the collection
   - **Introduction**: text that will appear before the collection items
   - **Items**: the pieces of content in the collection
     - To add a piece of content, click “Add Collection Item.” Then click the “Select” button to open the content browser and select the piece of content.
@@ -167,14 +176,15 @@ Collections display just like articles, educational documents, and other pieces 
 
   - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show at the bottom of the collection in a “Related Resources” section.
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
+  - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.
 
-Counties and Programs can add collections to a page by adding a “featured content” section.
+Counties and Programs can feature Collections on their pages by selecting them in a page section (for example, a "featured content" section).
 
 ## County Office
 
 ### What Is a County Office
 
-Represents information about a county and content on its main page.
+Represents information about a county, including address, contact information, and office hours, and content on its main page.
 
 ### Who Can Add County Offices
 
@@ -188,6 +198,7 @@ The edit screen for a county office has three sections:
     - **Hero image**: the full-width image that appears at the top of county pages.
     - **Introduction**: text at the top of the landing page to introduce the county.
     - **Quick links**: a bar of up to four highlighted links (e.g. Facebook, Twitter, a newsletter, or a calendar).
+    - **About**: Additional text to describe the work done or sevices available in the county.
     - **Featured content section**: you can select a few content items to display on the landing page. We recommend listing newsletters or other content that is specific to the county.
   - **Other Content**: this is where you can specify other content related to the county. Specifically, the introductory text for automatically-generated pages (see below) and custom sidebar links.
   - **County Info**: the contact information, location, office hours, etc. for the county.
@@ -200,17 +211,19 @@ Each county has several automatically generated pages:
 
   - **Landing page**: the "main" page for the county that contains contact information and other info that people are usually looking for on county pages. This page has the following sections:
     - Introduction: text entered when you edit the county.
-    - Announcements: automatically generated list of announcements entered by or tagged with the county.
-    - Location and contact info: information entered when you edit the county.
     - Quick links: content entered when you edit the county.
+    - Location and contact info: information entered when you edit the county.
+    - Announcements: automatically generated list of announcements entered by or tagged with the county.
+    - About: content entered when you edit the county.
     - Upcoming events: automatically generated list of events entered by or tagged with the county.
     - What we do teaser: automatically generated list of focus areas entered by the county.
     - Featured content: content entered when you edit the county.
+    - Social media: automatically generated list of social media links entered by the county.
   - **What We Do**: lists the focus areas for the county (see below) as well as the programs that are tagged with the county.
-  - **Events**: lists events entered by the county or local programs in the county. Events entered by other groups and tagged with the county are displayed in a separate list.
+  - **Events**: lists events entered by the county or local programs in the county. Events entered by other groups and tagged with the county are displayed in a separate list lower on the page.
   - **Faculty and Staff**: lists the users on the site who work in the county.
 
-There is a list of all counties on the [Find Us](https://extension.oregonstate.edu/find-us) page. The link to “Find Us” is in the top black menu bar at the top of every page. The sidebar on participant-based program pages also have links to the counties where that program is active.
+There is a list of all counties on the [Find Us](https://extension.oregonstate.edu/find-us) page. The link to “Find Us” is in the top black menu bar at the top of every page. The sidebar on local participant-based program pages also have links to the counties where that program is active.
 
 ## Educational Document
 
@@ -218,7 +231,7 @@ There is a list of all counties on the [Find Us](https://extension.oregonstate.e
 
 A document (PDF, Word Document, Excel spreadsheet, or PowerPoint presentation) containing educational information.
 
-In almost all cases, educational documents would work better as articles. This makes the content more accessible, searchable, and maintainable. Articles can also be saved and printed. Content should only be an educational document if:
+In almost all cases, educational documents work better as articles. This makes the content more accessible, searchable, and maintainable. Articles can also be saved and printed. Content should only be an educational document if:
 
   - it is slides from a presentation,
   - it has a lot of complex, in-context graphics or formatting, or
@@ -238,16 +251,17 @@ Members of Content Team groups.
 
 ### Instructions for Educational Documents
 
+To create an Educational Document, go to your My Groups page and select the appropriate *Content Team* group. Then, click the "Create Educational Document" button at the top of the page.
+
 On the edit screen for an educational document, you will see the following fields:
 
-  - **Title**: the title of the document
   - **Document Type**: this will display as a label in the document’s teaser. It helps to provide context to visitors. If empty, “Educational Document” will display.
-  - **Document Upload**: upload the document. When you upload from your computer, you will need to name the document again. You can use the title, the file name, or whatever will help you find it again if you need it in the future.
+  - **Document Upload**: upload the document.
 
     ![Document Upload Screenshot](images/document-upload.png)
 
   - **Short Description**: a summary of the document’s contents that will show in the teaser
-  - **Thumbnail**: the image that will show in the teaser. If this is empty and the document is a PDF, it will use an image of the first page of the document. If the document is not a PDF, it will use a default image based on the document’s topic.
+  - **Thumbnail**: the image that will show in the teaser. If this is empty and the document is a PDF, it will use an image of the first page of the document. If the document is not a PDF, it will use a default image based on the topic tag.
   - **Tags**: information about the document to help with display, sorting, search, and promotion. See below for more details.
   - **Author and Publishing Information**: information about the content for future maintenance.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
@@ -259,8 +273,9 @@ The tags in the “Topics, Keywords, Programs, and Regions” section of the edi
 
   - **Topic**: it will show in the “Browse All Resources” page for the specified topic(s)
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
+  - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.
 
-Counties and Programs can add educational documents to a page by adding a “featured content” section.
+Counties and Programs can feature Educational Documents on their pages by selecting them in a page section (for example, a "featured content" section).
 
 ## Event
 
@@ -271,16 +286,16 @@ Counties and Programs can add educational documents to a page by adding a “fea
 
 ### What Is an Event
 
-An event that a visitor to the website could attend. If it isn’t a gathering someone can attend, it shouldn’t be an event. This includes deadlines, office closures, and “services” such as a plant clinic or hotline. Instead, these should be announcements.
+An event that a visitor to the website could attend. This does NOT office closures, these should be announcements instead.
 
 ### Why Create Events
 
-  - Showcase and track the amount of on-the-ground programming that you do
-  - Expand your outreach to local and new audiences about your events
-  - Have a place to direct people for learning more and registering for the event
-  - Can enter once and have it fed to the OSU calendar (and [Forestry Extension page](http://extensionweb.forestry.oregonstate.edu/) if relevant)
-  - Be able to send specific events to interested people through future digital strategy
-  - Find out which events are most viewed and by what audiences through analytics
+  - Showcase and track the amount of on-the-ground programming that you do.
+  - Expand your outreach to local and new audiences about your events.
+  - Have a place to direct people for learning more and registering for the event.
+  - Can enter once and have it fed to the OSU calendar (and [Forestry Extension page](http://extensionweb.forestry.oregonstate.edu/) if relevant).
+  - Be able to send specific events to interested people through future digital strategy.
+  - Find out which events are most viewed and by what audiences through analytics.
 
 ### Who Can Add Events
 
@@ -289,6 +304,8 @@ Any user on the site. If an event applies to more than one county or program, co
 > **Quick Tip**: If an event has been entered that needs to be edited or removed from your page, you should contact the uploader of the event. See [Working with Other Content Authors](managing-content.md#working-with-other-content-authors).
 
 ### Instructions for Events
+
+To create an Event, go to your My Groups page and select the appropriate group (any type). Then, click the "Create Event" button at the top of the page.
 
 On the edit screen for an event, you will see the following fields:
 
@@ -301,15 +318,13 @@ On the edit screen for an event, you will see the following fields:
 
     ![Event Occurs Multiple Times Screenshot](images/event-multiple-times.png)
 
-    We also recommend that you check the “All Day Event” box for these events in order to hide the time fields from the event date and prevent confusion.
-
   - **Event location fields**:
     - The field asks “Where will this event be held?”
-      - If “At a county office,” then select the county office from the drop-down field that appears. The address field will get automatically filled in.
-      - If “At another non-office location,” type the name of the location into the search field on the map. The address fields below will get automatically filled in.
-        - If the address is not yet known or private, type “To Be Determined” or “To be provided to registrants” in the location name. Then enter the city, state, and ZIP code.
-      - If “Online-only,” no address needs to be provided.
-        ![Location Options Screenshot](images/event-location.png)
+        - If “At a county office,” then select the county office from the drop-down field that appears. The address field will get automatically filled in.
+        - If “At another non-office location,” type the name of the location into the search field on the map. The address fields below will get automatically filled in.
+            - If the address is not yet known or private, type “To Be Determined” or “To be provided to registrants” in the location name. Then enter the city, state, and ZIP code.
+        - If “Online-only,” no address needs to be provided.
+          ![Location Options Screenshot](images/event-location.png)
     - **Room/building number**: include if needed
 
     <blockquote><strong>Troubleshooting Tip</strong>: If you change an event from an existing location to a custom address, the old location may still show when you save. To correct this:<br><br>
@@ -324,20 +339,21 @@ On the edit screen for an event, you will see the following fields:
   - **Event Cost**: how much it costs to attend the event
   - **Registration Link**: a link to register for the event online. If you enter the link here, you don’t need to enter it in the description.
   - **Registration Closed**: If you check this box, the registration button will be replaced with text that says "Registration Closed" on the event page and in teasers for the event in event lists.
-  - **Event Type**: the category for the event. This is used for internal reporting as well as for export to Localist.
-  - **Description**: the full event description
+  - **Event Type**: the category for the event. This is used for internal reporting as well as for export to OSU's calendar system, Localist.
+  - **Description**: the full event description. You do not need to include information, such as date, location, or cost, that is already included in other fields.
   - **More information or promotional flyer**: uploaded flyer or registration form for the event
 
     ![Promotional Flyer Screenshot](images/flyer.png)
 
-    - Important Note: For accessibility, it is important that any information in a flyer is also included in another field on the event (e.g., in the full description field). See [Accessibility](content-requirements.md#accessibility).
+    - Important Note: It is important that any information in a flyer is also included in another field on the event (e.g., in the full description field). This is due to the OSU Calendar import process as well as Accessibility standards. See [Accessibility](content-requirements.md#accessibility).
 
-  - **Contact name, email, and phone**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls events
+  - **Contact name, email, and phone**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls Extension events
   - **Tags**
-    - **Additional calendar**: used to export events to other calendars and create narrowed-down event lists on program and county pages
+    - **Topics**: specifies which topic pages the event should show on. Event lists on focus areas set up by counties can also be narrowed to show only events tagged with certain topics.
     - **Additional counties or programs**: other counties and programs where the event should show. You don’t need to include the county or program you are using to enter the event.
-    - **Topics**: specifies which topic pages the event should show on.
-  - **Teaser settings**: thumbnail and short description that display in the event's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
+    - **Category**: if you are entering an event through a Program group, you can tag it with one of the Program Resource Categories configured for that group (see the Program Resources section for more information). This can be used to narrow event lists on program subpages to only show events in a specific category.
+    - **Additional calendar**: used to export events to other calendars and create narrowed-down event lists on program and county pages
+  - **Teaser settings**: thumbnail and short description that display in the event's teaser. If the thumbnail is empty, it will use a default image based on the topic, county, or program.
 
 ### How and Where Events Display
 
@@ -346,9 +362,9 @@ Event teasers will only display on pages until the event ends. They contain the 
   - Topic pages: events tagged with the topic in the “Topics, Programs, and Counties” section of the edit screen
   - Program pages: events entered by the program’s group or tagged with the program in the “Topics, Programs and Counties” section of the edit screen.
   - County pages: events entered by the county’s group or tagged with the county in the “Topics, Programs, and Counties” section of the edit screen.
-  - County subpages: Members of a county group can set up event lists on subpages that only show a subset of events for that county. These events must be:
+  - County focus areas: Members of a county group can set up event lists on focus area pages that only show a subset of events for that county. These events must be:
     - added through the county group or tagged with that county, and
-    - tagged with a specified additional calendar.
+    - tagged with with either one of some specified topics OR a specified additional calendar.
 
 All Extension events will be automatically exported to OSU’s main calendar, **Localist**. Some important notes about this process:
 
@@ -376,40 +392,41 @@ Members of County Office groups.
 </figure>
 
 #
+
+To create a Local Focus Area, go to your My Groups page and select the appropriate *County Office* group. Then, click the "Create Local Focus Area" button at the top of the page.
+
 On the edit screen for a focus area, you will see the following fields:
 
   - **Display on county landing page**: three focus area teasers display on each county landing page. Ones that have this box checked show up first.
   - **How to display**: you have three options:
-    1. **Link to a local program**: this will allow you to select a local program (MG or 4-H). Links to the focus area will take visitors directly to the landing page for that local program.
-    2. **Link to an existing focus area in another county**: if you would like to share a focus area with another county (e.g. for a regional focus area), select it here. Links to the focus area you create will take visitors directly to the existing focus area.
+    1. **Link to a local program**: this will allow you to select a local program (MG or 4-H). When visitors click on the focus area, they will go directly to the existing landing page for that local program.
+    2. **Link to an existing focus area in another county**: if you would like to share a focus area with another county (e.g. for a regional focus area), select it here. When visitors click on the focus area, they will go directly to the existing focus area.
     3. **Display a custom page**: this creates a new page for the focus area. The following fields are available for this page:
         - **Hero image**: large image that displays at the top of the page.
         - **Introduction**: text at the top of the page to introduce the focus area.
         - **Summary/about**: an additional text area (with a full-screen background image) for more information about the focus area.
-        - **Featured users**: specify the faculty/staff in the county who work in this focus area.
-        - **Contact information**: if the focus area has specific contact info that is different than the main county, enter it here.
         - **Page sections**: additional content for the page. See the [Page Sections](using-site.md#page-sections) section of this guide for more information. The following types of sections are available:
-
             - **Call to action**: link to content or an external website with a custom title, description, and image.
             - **County events list**: list of events entered by or tagged by the county. You can narrow the events shown by either the topic(s) or "additional calendar" the events are tagged with.
             - **Custom content list**: One or more pieces of content with a custom section title and description. The first three items selected will show as teasers with thumbnails. The remaining selected items will display in a simpler text-only list.
             - **Highlighted content item**: a piece of content with a custom description and full-width background image.
             - **Image slider**: a slideshow of uploaded images.
-            - **Quick links bar**: a full-width bar that contains up to four highlighted links (e.g. to Facebook, Twitter, a newsletter, or a calendar).
+            - **Quick links bar**: a full-width bar that contains up to four highlighted links (e.g. to Facebook, Twitter, a newsletter, or a calendar). This is meant to provide quick access to the most important things provided on the page.
             - **Video**: a video from YouTube, Vimeo, or OSU Media Space.
+        - **Featured users**: specify the faculty/staff in the county who work in this focus area.
+        - **Contact information**: if the focus area has specific contact info that is different than the main county, enter it here.
 
   - **Tags**
+    - **Topic**: the topic(s) the focus area relates to. Selecting a topic here will cause a link to it to appear at the bottom of the focus area's page. It will also create a link to the Focus area on the topic's "In Your Community" page.
     - **Program area**: the program area the focus area relates to. This is used for internal organization and reporting only.
     - **Marketing category**: which of the Extension marketing categories the focus area relates to. This is used for internal organization and reporting only. It may also help coordinate content between county pages and county pull sheets and other marketing materials.
-    - **Topic**: the topic(s) the focus area relates to. Selecting a topic here will cause a link to it to appear at the bottom of the focus area's page.
-  - **Teaser settings**: thumbnail and short description that display in the focus area's teaser. If the thumbnail is empty, it will use a default image based on the topic.
+  - **Teaser settings**: thumbnail and short description that display in the focus area's teaser. If the thumbnail is empty, it will use a default image based on the topic. You can also select a local program to link to in the Focus area's teaser. This will be separate from the main focus area link, which will continue to work as configured above.
 
 ### How and Where Local Focus Areas Display
 
-All focus areas entered by a county group will show up on an automatically-generated "What We Do" page for the county. To reorder the focus areas, click the pencil icon that appears when you hover over the page title and select "Reorder Focus Areas".
+All focus areas entered by a county group will show up on an automatically-generated "What We Do" page for the county. To reorder the focus areas, click the "Reorder Focus Areas" link above the list.
 
 ![Focus Area Reorder Link Screenshot](images/wwd-reorder.png)
-
 *Example of a how to Reorder Focus Areas*
 
 Three focus areas will display on the county landing page with a button to see the full list. You can control which focus areas show up here using the "Display on County Landing page" checkbox on the focus areas.
@@ -439,7 +456,17 @@ The **first time** you upload a newsletter, you will need to create a container 
 
 ![Create a Newsletter Container Screenshot](images/create-newsletter-container.png)
 
+Here, you can enter information about the newsletter that applies to *all issues* that it contains. The info you can enter is:
+
+  - **About**: information about the newsletter, for example, how often it is published or what it is about.
+  - **Subscribe Link**: the link visitors can use to subscribe to the newsletter.
+  - **Tags**: information about the newsletter to help with display, sorting, search, and promotion.
+  - **Teaser settings**: thumbnail and short description that display in the newsletter's teaser. If the thumbnail is empty, it will use a default image based on the topic, program, or county.
+
+
 **Step 2: Create Issues for the Newsletter**
+
+To create a Newsletter Issue, go to your My Groups page and select the appropriate group (any type). Then, click the "Create Newsletter Issue" button at the top of the page.
 
 On the edit screen for a newsletter issue, you will see the following fields:
 
@@ -456,7 +483,16 @@ On the edit screen for a newsletter issue, you will see the following fields:
   - **Issue Type**: “Web Content,” “File Upload,” or “Link to Issue”
     - File Upload Issues: This type of issue consists of a document uploaded to the website. When you choose this option, you will see a file upload field.
     - Linked Issues: This type of issue consists of a page or document hosted on another website. This includes newsletters sent via MailChimp or in Box. When you choose this option, you will see a field to enter the URL of the issue.
-    - Web Content Issues: This type of issue consists of content entered into the website. When you choose this option, the newsletter issue acts like a subpage. See [Page Sections](using-site.md#page-sections) for information about adding and arranging content on the page.
+    - Web Content Issues: This type of issue consists of content entered into the website. When you choose this option, you will be able to add content to the page using Page Sections. See [Page Sections](using-site.md#page-sections) for information about adding and arranging content on the page. The types of page section available for newsletter issues are:
+        - **Button Link**: a link to another page (in or outside of the Extension site) styled as a large orange button
+        - **Call to action**: link to content or an external website with a custom title, description, and image.
+        - **Featured Content**: links to content in the Extension site
+        - **Image**: an image with optional caption and alternative text to describe the photo
+        - **Image Slider**: a slideshow of uploaded images.
+        - **Text**: a simple text box with formatting such as bold or italic
+        - **Text with Background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
+        - **Two-Column Section**: allows you to display other sections in two columns instead of one (in large enough screens)
+        - **Video**: an embedded video from YouTube, Vimeo, or OSU Media Space
   - **Teaser settings**: thumbnail and short description that display in the issue's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
   - **Author and publishing information**: Previous issues are arranged based on the “Date Published or Revised” entered here.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
@@ -468,16 +504,16 @@ On the edit screen for a newsletter issue, you will see the following fields:
 
 Newsletter containers display automatically on topic and program pages based on their tags.
 
-They can also be added to topic landing pages, program pages, and county pages by adding a “Featured Content” or “Featured Resources” section.
+They can also be featured in page sections on topic landing pages, program pages, and county pages.
 
-Newsletter issues display in a list on a single page for their Newsletter container.  
+Newsletter issues display in a list on a single page for their Newsletter container. Their order depends on the "Date Published or Revised" given to them, with the newest issue at the top.  
 
 #### Displaying Newsletter Sign-Up Forms
 
 If you have a form people can use to sign up for your newsletter, there are several ways to display it on the site.
 
   - On the edit screen for the Newsletter container, there is a field for a “subscribe link.” You can enter a link to the form and it will display above the list of the issues for that newsletter.
-  - If you want to add a link to the form on a program or county page, you can add a “button link” on the desired page. See the [Subpage](#subpage) section below for more information.
+  - If you want to add a link to the form on a program or county page, you can add a “button link” on the desired page or sidebar. See the relevant content type section in this guide for more information.
   - MailChimp and other email management systems often give you an embed code so you can display the sign-up form directly on a web page. [Here are instructions for how to get an embed code from MailChimp.](https://mailchimp.com/help/add-a-signup-form-to-your-website/) Once you have the embed code, add a “Text” section to the page. Click the “Source” button in the text editor to switch to HTML mode and paste the embed code there. You will see the form on the page when you click “Save.”
 
 ## Online Resource
@@ -492,9 +528,10 @@ Members of Content Team groups
 
 ### Instructions for Online Resources
 
+To create an Online Resource, go to your My Groups page and select the appropriate *Content Team group*. Then, click the "Create Online Resource" button at the top of the page.
+
 On the edit screen of an online resource, you will see the following fields:
 
-  - **Title**: the title of the resource
   - **Website URL**: the link to the resource
   - **Short Description**: a description of the resource
   - **Thumbnail**: an image to go with the resource. If empty, it will use a default image based on the tagged topic.
@@ -509,8 +546,9 @@ The tags in the “Topics, Keywords, Programs, and Regions” section of the edi
 
   - **Topic**: it will show in the “Browse All Resources” page for the specified topic(s)
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
+  - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.
 
-Counties and Programs can add online resources to a page by adding a “featured content” section.
+Counties and Programs can feature Online Resources on their pages by selecting them in a page section (for example, a "featured content" section).
 
 ## Program
 
@@ -518,7 +556,7 @@ Counties and Programs can add online resources to a page by adding a “featured
 
 A **program** on the Extension website is an *externally facing* activity that members of the public can participate in. Examples include 4-H programs and the various Master training programs.
 
-This definition is narrower than what people in Extension normally mean by “program.” It’s not an industry-focused program, informational center program, or Extension program area. These can be highlighted in projects, topic pages, or county “focus areas,” which is a new content type coming in early 2019.  
+This definition is narrower than what people in Extension normally mean by “program.” It’s not an industry-focused program, informational center program, or Extension program area. These can be highlighted in projects, topic pages, or county focus areas.  
 
 **Program** | **Project** | **Topic Page**
 ------------|-------------|---------------
@@ -535,18 +573,18 @@ These have been set up for you. No one can add or delete them.
 The edit screen for a program has three sections:
 
   - **Landing Page**: This is where you control the content on the program’s landing page. It acts like a subpage. See the [Subpage](#subpage) section of this chapter for more information.
-  - **Sidebar**: You can add additional links to the sidebar on program pages. These will show up on every page associated with the program.
-  - **Program Info**: This is where you can edit the description, thumbnail image (photo or square graphic companion logo that has been approved by OSU), tags, and other information for the program.
+  - **Other Content**: You can add additional links to the sidebar on program pages. These will show up on every page associated with the program. You can also edit the introductory text for certain automatically generated program pages.
+  - **Program Info**: This is where you can edit the description, thumbnail image (photo or square graphic companion logo that has been approved by OSU), tags, location, and contact information for the program.
 
 > **Quick Tip**: Members of program groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
 
-If your program has an existing website, you can enter the link in the “Program Info” section of the edit page. Visitors will go directly to this site when they click on the program. If you would like to have a short description about the program, show faculty or staff, and add events or newsletters to show here and other places on the Extension website, before directing people to the external site, do not add the link to the “Program Info” section. Instead hyperlink to it on the program landing page using a “Button Link” section.
+If your program has an existing website, you can enter the link in the "Program's website URL" box in the “Program Info” section of the edit page. Visitors will go directly to this site when they click on the program. If you would like to show a short description about the program, faculty and staff, events, newsletters, etc. before directing people to the external site, do not add the link to the “Program Info” section. Instead hyperlink to it on the program landing page using a “Button Link” section.
 
 ### How and Where Programs Display
 
 There is a list of all programs on the [programs page](https://extension.oregonstate.edu/programs). This is in the top black menu bar at the top of every page under “Get Involved.”
 
-You can tag a program with topics and counties in the “Program Info” section of the edit screen. This will create a link to the program on the landing pages of the specified counties and on the Get Involved menu on the specified topic pages.
+You can tag a program with topics and counties in the “Program Info” section of the edit screen. This will create a link to the program on the "What We Do" pages of the specified counties and on the Get Involved menu on the specified topic pages.
 
 ## Program Resource
 
@@ -562,6 +600,8 @@ Members of Program groups
 
 ### Instructions for Program Resources
 
+To create a Program Resource, go to your My Groups page and select the *Program* group. Then, click the "Create Program Resource" button at the top of the page.
+
 On the edit screen for a program resource, you will see the following fields:
 
   - **Resource Type**:
@@ -572,7 +612,7 @@ On the edit screen for a program resource, you will see the following fields:
   - **Type**: This field is for organizational purposes and will not affect how the program resource displays to visitors to the site. If none fit, select “Other.”
   - **Category**: To organize program resources, you can configure categories for them (see below).
   - **This resource is for active program volunteers**: This is for internal informational purposes only. In the future, it could be used to pull information into a volunteer management solution Extension may adopt.
-  - **Thumbnail**: an image for the resource that displays in the teaser. If empty and the resource type is “document,” it will use an image of the first page of the document.
+  - **Thumbnail**: an image for the resource that displays in the teaser. If empty and the resource is a PDF document, it will use an image of the first page of the document.
 
 > **Quick Tip**: If you will need to replace a program resource document with a new version in the future, consider taking advantage of the file versioning functionality available in Box. See: [File Management](content-requirements.md#file-management) for more information.
 
@@ -639,13 +679,13 @@ The edit screen for a project has the following fields:
       ![Tabbed Section Screenshot](images/tabbed-section.png)
 
   - **Tags**: includes topic, program area, program, and counties
-  - **Teaser settings**: thumbnail and short description that display in the project's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
+  - **Teaser settings**: thumbnail and short description that display in the project's teaser. If the thumbnail is empty, it will use a default image based on the topic.
 
 ### Where and How Projects Display
 
 There is a list of all projects on the [projects page](https://extension.oregonstate.edu/projects). This is in the top black menu bar at the top of every page under “Get Involved.”
 
-If you tag a Project with a topic, it will show up on the “Our Work” page for that topic. Topic committees may also feature projects on the topic landing page. Programs and counties can add projects to their pages by adding a “featured content” section and selecting the Project.
+If you tag a Project with a topic, it will show up on the “Our Work” page for that topic. Topic committees may also feature projects on the topic landing page. Programs and counties can feature projects to their pages by using Page Sections (for example, a "Featured Content" page section).
 
 ## Project Supporting Material
 
@@ -659,6 +699,8 @@ Members of Content Team groups that contain the project.
 
 ### Instructions for Project Supporting Materials
 
+To create a Project Supporting Material, go to your My Groups page and select the *Content Team* group that **contains the Project the material is related to**. Then, click the "Create Project Supporting Material" button at the top of the page.
+
 The edit screen for a project supporting material has the following fields:
 
   - **Associated Project**: the project that the material supports. This is necessary because a content team may contain more than one Project.
@@ -666,7 +708,6 @@ The edit screen for a project supporting material has the following fields:
     ![Choose Associated Project Screenshot](images/associated-project.png)
 
   - **Type**: the type of material. This is used for informational or organizational purposes only, and isn’t seen by the public.
-  - **Website URL**: If your project already has it’s content on an external website, you can enter the link here. Visitors will be taken directly to that site when they click on the Project.
   - **Content**: the main text that shows on the Material’s page
   - **Page Sections**: additional content that shows on the Material’s page (see [Page Sections](using-site.md#page-sections) for more information). The following types of sections are available to add to the page:
     - **Image**: an uploaded image
@@ -700,6 +741,8 @@ Members of program groups.
 
 ### Instructions for Subpages
 
+To create a subpage, go to your My Groups page and select the *Program* group. Then, click the "Create Subpage" button at the top of the page.
+
 The edit screen for a subpage contains fields for the page title, hero image, and some basic text content. The hero image displays as a banner at the top of the page, so it should be about 2000px wide by 400px high. If this is empty, it will use the hero image of the county or program in its group.
 
 There is also a section for "teaser settings" where you can define a short description and thumbnail to display in search results and teasers that list the subpage.
@@ -715,7 +758,7 @@ Content for subpages is primarily added through page sections (see [Page Section
   - **Text with background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
   - **Two-Column Section**: allows you to display other sections in two columns instead of one (in large enough screens)
   - **Video**: an embedded video from YouTube, Vimeo, or OSU Media Space
-  - **Program Events List**: shows a list of events that have either been added to the program or tagged with the program by another group.
+  - **Program Events List**: shows a list of events that have either been added to the program or tagged with the program by another group. You can narrow events shown in a particular list by the "Program Resource Category" they are tagged with.
   - **Program Resources List**: a list of program resources associated with the program.
     - When you add this section, you can specify one or more “Category to display.” Only resources tagged with all specified categories will show in the section.
     - If there are no program resources with the specified category, the program resource list will not show up and the “title” and “description” will stay invisible to the public. If you want the description text to be visible on the Subpage regardless, it’s best to use a “Text” section instead.
@@ -879,14 +922,17 @@ An informational video.
 
 ### Who Can Add Videos
 
-Members of content team groups. Note that members of county and program groups can add videos directly to their pages. See the [Subpage](#subpage) section for more information.
+Members of content team groups.
+
+Note that members of county and program groups can add videos directly to their pages as page sections instead of entering them as a separate piece of content. This content type is intended for educational videos about a topic on the website.
 
 ### Instructions for Videos
+
+To create a Video, go to your My Groups page and select a *Content Team* group. Then, click the "Create Video" button at the top of the page.
 
 On the edit screen for a video, you will see the following fields:
 
   - **Video**: You can embed a video from [YouTube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), or [OSU MediaSpace](https://media.oregonstate.edu/).
-  - **Description**: a short description of the video. This is shown in the teaser as well as the full video page.
   - **Supplemental text**: additional text to show on the full video page.
   - **Tags**: information about the video to help with display, sorting, search, and promotion. See below for more details.
   - **Teaser settings**: thumbnail and short description that display in the video's teaser. If the thumbnail is empty, it will use a default image based on the topic.
@@ -902,14 +948,14 @@ The tags in the “Topics, Keywords, Programs, and Regions” section of the edi
 
   - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show below the video in a “Related Resources” section.
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
-
-Counties and Programs can add videos to a page by adding a “featured content” section.
+  - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.
 
 ## Review of Terms
 
   - **Teaser**: a condensed version of a piece of content that links to a separate page containing the full content. These usually contain the title, a thumbnail, and a short description of the content.
   - **Educational content**: research-based materials that are meant to *inform visitors about a topic*
   - **Thumbnail**: image representing content that will display in the content’s teaser. If none is specified for a piece of content, a default will be used if possible
+  - **Hero Image**: A large, full-screen-width image that appears at the top of a page
   - **Landing page**: the “main” page for a participant-based program, county, or topic
   - **Localist**: OSU’s university wide calendar system. Automatically pulls events entered in the Extension website nightly.
   - **Program**: an *externally facing* activity that members of the public can participate in

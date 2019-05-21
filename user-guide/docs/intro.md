@@ -65,7 +65,7 @@ The new Extension website was created in order to update our web platform accord
   - **Content focused**. It's about the content, not about the sites. The goal is to integrate or transition relevant content into the CMS rather than develop, host, or manage individual sites.
   - **Practical**. The new website allows faculty and staff to focus on content rather than website design, development, and management. The right people are doing the right things.
 
-In June 2018, the new Extension website was launched as a minimum viable product. This means that not all features and design work was included that will be in the final product. Since launch, we have been collecting data and feedback and implementing improvements and new functionality. The first round of these improvements is underway and will be complete in early 2019.
+In June 2018, the new Extension website was launched as a minimum viable product. This means that not all features and design work was included that will be in the final product. Since launch, we have been collecting data and feedback and implementing improvements and new functionality. The first round of these improvements is underway and will be completed in 2019.
 
 ## Review of Terms
 
