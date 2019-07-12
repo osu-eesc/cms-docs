@@ -169,3 +169,4 @@ Just above the "Save" button, you will see a dropdown of options for the save st
   - **Copyediting in progress**: This saves a draft of your changes. It does not make the changes publicly visible and does not notify the group that the content has been copyedited.
   - **Copyedited and published**: This makes your changes immediately visible to the public without approval from the group. Use this only for small changes such as spelling or formatting fixes and adding (non-topic) tags.
   - **Copyedited pending approval**: This will trigger an email to the contact person for the group the content belongs to prompting them to approve the changes.
+  - **Held for Review**: This will make the content unpublished and not visible to the public. Use it for content that is currently not in a state that is appropriate for the website and needs to be reviewed or replaced by a content team/program coordinator.
