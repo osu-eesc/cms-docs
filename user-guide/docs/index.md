@@ -7,7 +7,7 @@ This site contains documentation and information about adding and editing conten
 * [Using the Extension Website](using-site.md)
 * [Getting Started with your Content](getting-started.md)
 * [How-to Videos](how-to-videos.md)
-* [Adding and Editing Content](adding-editing.md)
+* [Adding and Editing Content](content-types/index.md)
 * [Managing Content](managing-content.md)
 * [Content Requirements and Best Practices](content-requirements.md)
 * [Getting Help](getting-help.md)

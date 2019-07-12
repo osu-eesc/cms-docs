@@ -110,7 +110,7 @@ While accessibility makes sure that all people can *access* content, there are o
   - **Free access**: If you are publishing content in academic journals, consider publications that do not require a subscription to read. That way everyone can have access when you link to it from the website.
   - **Content translation**: Consider making your content available in other languages when appropriate, and tag content with the language it is written in. In the next phase of development, EESC will investigate the possibility of implementing an automatic translation service for the website.
   - **Images**: Make sure the images you take and use reflect the diversity of your audience. Also be mindful that your images aren’t inadvertently sending negative messages or reinforcing stereotypes.
-  - **Pronouns**: Be respectful of your subjects’ and visitors’ pronouns. You can specify your own pronouns on your user profile. [See Adding and Editing Content: User Profile](adding-editing.md#user-profile).
+  - **Pronouns**: Be respectful of your subjects’ and visitors’ pronouns. You can specify your own pronouns on your user profile. [See Adding and Editing Content: User Profile](content-types/user-profile.md).
 
 For resources, trainings, and answers to questions related to diversity and inclusion, visit the [Outreach & Engagement Diversity, Equity and Inclusion website](https://outreach.oregonstate.edu/diversity).
 

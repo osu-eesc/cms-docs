@@ -8,10 +8,17 @@ Certain administrators are responsible for managing users on the site. If you ar
 
 ![Admin Bar Screenshot](images/admin-bar.png)
 
-### Creating and Editing Users
-To add a user, click on the “People” item in the white administration bar. This takes you to a list of all users on the site that you can filter. To create a user, click the “Add User” button at the top of this page. To edit an existing user, click the “Edit” button next to the name of that user.
+### Creating a New User
+To add a new user to the Extension website:
 
-On the edit screen for a user, you will see the following fields:
+  1. Click on the "People" item in the white administration bar. This takes you to a list of all users on the site that you can filter.
+  2. Click the "Add CAS user(s)" button at the top of the page.
+  3. In the "CAS username(s)" box, enter the ONID username of the user you would like to add. Check the box next to "Content Author" and the other roles they need as applicable, then click the "Create new accounts" button.
+  4. You will be redirected back to the list of users, find the new user in the list and click the "Edit" button next to their name to add their name, email address, and employment details (see below).
+
+### Editing a User
+
+To edit an existing user, click the “Edit” button next to the name of that user. On the edit screen for a user, you will see the following fields:
 
   - **User**: Basic user account information
     - **Email**: Use the person’s OSU email address.
@@ -22,10 +29,6 @@ On the edit screen for a user, you will see the following fields:
     - **CAS Username**: Enter the person’s ONID username.
   - **Contact information**: Information that shows on the user’s profile page
   - **Profile**: Fields the user themself can edit. Includes fields for their photo, bio, related online links, and expertise (topics).
-    - How to update your directory information and show up as an expert:
-    <figure class="video_container">
-      <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_n6e8u834&flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_9g2z999q" width="554" height="366" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen*; encrypted-media*" frameborder="0" title="Kaltura Player"></iframe>
-    </figure>
   - **Employee**: Information about the person’s role in Extension
     - **Status**: See “Removing Users” below.
     - **Title**: Enter the person’s job title(s).

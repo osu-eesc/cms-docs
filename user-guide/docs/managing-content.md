@@ -163,7 +163,7 @@ In some cases, you might want content that exists on the site to show up on a sp
 
 \*Please remember: Do not add educational content as a program resource. Program resources are for materials such as handbooks or forms that are only of interest to participants in a program.
 
-Once content has been added to county or program pages, the sidebar where the pages are listed can be reordered, nested, or both (i.e., housed beneath a broader subpage). See [Adding and Editing Content: Subpage](adding-editing.md#subpage) for more information.
+Once content has been added to county or program pages, the sidebar where the pages are listed can be reordered, nested, or both (i.e., housed beneath a broader subpage). See [Adding and Editing Content: Subpage](content-types/subpage.md) for more information.
 
 #### Restricting Tagging of Your Program
 

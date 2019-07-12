@@ -1,5 +1,14 @@
 # List of changes to the web guide
 
+- 07/12/2019
+    - Added info about Digital Measures reports on user profiles.
+    - Added instructions for featuring announcements on landing pages.
+    - Updated page sections available to projects, subpages, and newsletter issues.
+    - Updated instructions for creating new users.
+    - Updated instructions for non-office locations for events.
+    - Split content type instructions on to separate pages.
+    - Added program and website tour videos.
+
 - 05/21/2019
     - Added information about additional description fields on Articles
     - Added information about adding content to each content type section

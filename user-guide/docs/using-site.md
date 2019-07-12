@@ -7,6 +7,10 @@ The Extension website has two different uses:
 
 ## Browsing the Website
 
+<figure class="video_container">
+  <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=0_de4uxs4l&flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_trpjvrnw" width="554" height="366" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen*; encrypted-media*" frameborder="0" title="Kaltura Player"></iframe>
+</figure>
+
 Every person uses the Internet with their own methods and style. Each of us reads, clicks, and searches differently. To support these differences and the preferences of our diverse Extension audience, the website provides multiple ways to find content:
 
   - searching for content;
@@ -59,7 +63,7 @@ Visitors can find content related to an Extension program they are involved in t
   - All programs are listed on a page in the top black menu bar under “Get Involved.”
   - All program content can be found through the site’s search.
 
-The program groups that maintain these pages have a lot of flexibility around how they can present content. For more information, see: [Adding and Editing Content: Subpages](adding-editing.md#subpage) and [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
+The program groups that maintain these pages have a lot of flexibility around how they can present content. For more information, see: [Adding and Editing Content: Subpages](content-types/subpage.md) and [Organizing and Displaying Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages).
 
 ### Location-Based Navigation
 
@@ -80,6 +84,11 @@ A newsletter called [*GROWING*](https://extension.oregonstate.edu/newsletter/gro
 ## Making Changes to Content
 
 ### Logging In
+
+<figure class="video_container">
+  <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_fsu997h9&flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_trpjvrnw" width="554" height="366" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen*; encrypted-media*" frameborder="0" title="Kaltura Player"></iframe>
+</figure>
+
 
 To make changes to content, **content authors**, people who enter content, must log in to the site. There is a “Log in” link at the bottom right of every page. This will take you to a screen where you use your [ONID](http://onid.oregonstate.edu/) credentials to log in. When you are logged in, you will see a “My Groups” link in the top black menu bar on every page.
 
@@ -115,7 +124,7 @@ You will see the edit screen when adding or editing a piece of content. You can 
   - Navigate to the desired page and click the “Edit” tab just under the title.
   - To create a new piece of content, click one of the “Add” buttons at the top of the Group Content page.
 
-How the edit page will look will vary by the type of content. Each are described in [Adding and Editing Content](adding-editing.md).
+How the edit page will look will vary by the type of content. Each are described in [Adding and Editing Content](content-types/index.md).
 
 ![Edit Page Screenshot](images/edit-screen-screenshot.png)
 
@@ -135,6 +144,10 @@ Use the buttons for only their intended purpose. For example, don’t use headin
 
 ##### Links
 
+<figure class="video_container">
+  <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_ee4taedh&flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=0_hityxxq8" width="554" height="366" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen*; encrypted-media*" frameborder="0" title="Kaltura Player"></iframe>
+</figure>
+
 To **add a link**, type and highlight the text you want to use as the link label and click the button in the text editor that looks like a chain link. This will open a small window. There are several ways to enter a link:
 
   - To link to content that already exists on the site, start typing the name of the content. Matching titles will appear. Select the content you want to link to.
@@ -144,7 +157,7 @@ To **add a link**, type and highlight the text you want to use as the link label
 
 You can **edit a link** by placing your cursor inside the link and clicking on the link icon in the text editor. The same window will pop up where you can edit the link.
 
-When you create links in the text editor, it is very important that you periodically **check that the links still work**. Broken links on a website hurt an organization’s credibility and might result in a penalty from search engines like Google, making content harder to find. We recommend using dynamically generated page sections, such as featured content or program tagged content lists, for linking to other content on the site when possible. These will automatically update when the content’s link changes and so will never break. See [Adding and Editing Content: Subpages](adding-editing.md#subpage) for more information.
+When you create links in the text editor, it is very important that you periodically **check that the links still work**. Broken links on a website hurt an organization’s credibility and might result in a penalty from search engines like Google, making content harder to find. We recommend using dynamically generated page sections, such as featured content or program tagged content lists, for linking to other content on the site when possible. These will automatically update when the content’s link changes and so will never break. See [Page Sections](using-site.md#page-sections) for more information.
 
 #### Image, Document, and Video Browsers
 
@@ -180,7 +193,7 @@ You can search for existing content by title, content type, group, topic, and/or
 
 When adding or editing certain kinds of content, including program and county pages, projects, and web-based newsletters, you will need to manage content on the page via **page sections**. With this method, you add pieces of content to the page in chunks, one section at a time.
 
-There are several different types of sections you can use for different kinds of content on the page. Some sections are for basic page elements such as text and images. Others create dynamic lists that pull content onto the page. These include county or program events lists (which pull events) and program resource lists (which pull program resources). Once you set up one of these sections, it will automatically show new content as it is entered without you needing to update the page. The types of page sections available depend on the type of content you are working on. See [Adding and Editing Content](adding-editing.md) for details about the type of sections available for each content type.
+There are several different types of sections you can use for different kinds of content on the page. Some sections are for basic page elements such as text and images. Others create dynamic lists that pull content onto the page. These include county or program events lists (which pull events) and program resource lists (which pull program resources). Once you set up one of these sections, it will automatically show new content as it is entered without you needing to update the page. The types of page sections available depend on the type of content you are working on. See [Adding and Editing Content](content-types/index.md) for details about the type of sections available for each content type.
 
 You add page sections using the buttons at the bottom of the edit screen.
 

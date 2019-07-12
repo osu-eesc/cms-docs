@@ -27,7 +27,7 @@ There are several options for content that doesn't go on the Extension website. 
 
 ## Your Groups
 
-Your groups assigned in the Drupal content management system (CMS) determine what content you are allowed to edit. When someone in your a group creates a piece of content, you and anyone in your that group can edit it.
+Your groups assigned in the Drupal content management system (CMS) determine what content you are allowed to edit. When someone in your a group creates a piece of content, you and anyone in that group can edit it.
 
 When you are a member of a group, the *type* of group determines what *type* of content you can add. There are four types of groups on the site.
 
@@ -177,7 +177,7 @@ These content types can be added by a number of group types.
 
 ### Program Team Content Types
 
-  - **Program**: Represents an externally facing Extension program that members of the public can participate in. (See the [Adding and Editing Content - Program](adding-editing.md#program) section for more information about what a “program” is.)
+  - **Program**: Represents an externally facing Extension program that members of the public can participate in. (See the [Adding and Editing Content - Program](content-types/program.md) section for more information about what a “program” is.)
   - **Program Resource**: A file or link to a resource needed for visitors to join or participate in a program.
   - **Subpage**: A page to organize program resources and supply supplementary text, images, and videos.
 
