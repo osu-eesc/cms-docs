@@ -21,16 +21,16 @@ To add a new user to the Extension website:
 To edit an existing user, click the “Edit” button next to the name of that user. On the edit screen for a user, you will see the following fields:
 
   - **User**: Basic user account information
-    - **Email**: Use the person’s OSU email address.
-    - **Username**: Enter the person’s ONID username.
-    - **Password and Confirm Password**: It doesn’t matter what you put here. Users need to use their ONID credentials to log in.
+    - **Email (required)**: Use the person’s OSU email address.
+    - **Username (required)**: Enter the person’s ONID username.
+    - **Password and Confirm Password (required)**: It doesn’t matter what you put here. Users need to use their ONID credentials to log in.
     - **Status**: See “Removing Users” below.
     - **Roles**: All Extension personnel should have the “**Content Author**” role. This allows them to use the back-end functionality needed to manage content and/or their profile.
     - **CAS Username**: Enter the person’s ONID username.
-  - **Contact information**: Information that shows on the user’s profile page
+  - **Contact information (name required)**: Information that shows on the user’s profile page
   - **Profile**: Fields the user themself can edit. Includes fields for their photo, bio, related online links, and expertise (topics).
   - **Employee**: Information about the person’s role in Extension
-    - **Status**: See “Removing Users” below.
+    - **Status (required)**: See “Removing Users” below.
     - **Title**: Enter the person’s job title(s).
     - **Programs**: Specify the program(s) a person works for. When you select a program here, the person will show in the directory for that program.
     - **Supervisor**: Check this box to export the person’s information to the Employee Intranet site. There, they can be selected as a supervisor in the Out of State Travel Request form.

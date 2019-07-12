@@ -14,10 +14,10 @@ To create an Online Resource, go to your My Groups page and select the appropria
 
 On the edit screen of an online resource, you will see the following fields:
 
-  - **Website URL**: the link to the resource
-  - **Short Description**: a description of the resource
+  - **Website URL (required)**: the link to the resource
+  - **Short Description (required)**: a description of the resource
   - **Thumbnail**: an image to go with the resource. If empty, it will use a default image based on the tagged topic.
-  - **Tags**: information about the resource to help with display, sorting, search, and promotion. See below for more details.
+  - **Tags (topic required)**: information about the resource to help with display, sorting, search, and promotion. See below for more details.
   - **Author and Publishing Information**: information about the content for future maintenance
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.

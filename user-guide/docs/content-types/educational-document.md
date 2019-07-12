@@ -29,13 +29,13 @@ To create an Educational Document, go to your My Groups page and select the appr
 On the edit screen for an educational document, you will see the following fields:
 
   - **Document Type**: this will display as a label in the document’s teaser. It helps to provide context to visitors. If empty, “Educational Document” will display.
-  - **Document Upload**: upload the document.
+  - **Document Upload (required)**: upload the document.
 
     ![Document Upload Screenshot](../images/document-upload.png)
 
-  - **Short Description**: a summary of the document’s contents that will show in the teaser
+  - **Short Description (required)**: a summary of the document’s contents that will show in the teaser
   - **Thumbnail**: the image that will show in the teaser. If this is empty and the document is a PDF, it will use an image of the first page of the document. If the document is not a PDF, it will use a default image based on the topic tag.
-  - **Tags**: information about the document to help with display, sorting, search, and promotion. See below for more details.
+  - **Tags (topic required)**: information about the document to help with display, sorting, search, and promotion. See below for more details.
   - **Author and Publishing Information**: information about the content for future maintenance.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.

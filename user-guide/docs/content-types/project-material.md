@@ -14,11 +14,11 @@ To create a Project Supporting Material, go to your My Groups page and select th
 
 The edit screen for a project supporting material has the following fields:
 
-  - **Associated Project**: the project that the material supports. This is necessary because a content team may contain more than one Project.
+  - **Associated Project (required)**: the project that the material supports. This is necessary because a content team may contain more than one Project.
 
     ![Choose Associated Project Screenshot](../images/associated-project.png)
 
-  - **Type**: the type of material. This is used for informational or organizational purposes only, and isn’t seen by the public.
+  - **Type (required)**: the type of material. This is used for informational or organizational purposes only, and isn’t seen by the public.
   - **Content**: the main text that shows on the Material’s page
   - **Page Sections**: additional content that shows on the Material’s page (see [Page Sections](../using-site.md#page-sections) for more information). The following types of sections are available to add to the page:
     - **Button Link**: a link styled as an orange button

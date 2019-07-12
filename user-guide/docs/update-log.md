@@ -8,6 +8,7 @@
     - Updated instructions for non-office locations for events.
     - Split content type instructions on to separate pages.
     - Added program and website tour videos.
+    - Added indication in content type instructions for what fields are required.
 
 - 05/21/2019
     - Added information about additional description fields on Articles

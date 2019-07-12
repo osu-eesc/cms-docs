@@ -31,12 +31,12 @@ On the edit screen for an event, you will see the following fields:
 
   ![All Day Event Screenshot](../images/all-day-event.png)
 
-  - **Event Date**: the date(s) when the event occurs
+  - **Event Date (required)**: the date(s) when the event occurs
   - **Event occurs multiple times in the specified period**: check this box if you are entering an ongoing event such as a plant clinic or hotline that has regular hours over the date range you specified. This will reveal a field where you can enter those hours more specifically.
 
     ![Event Occurs Multiple Times Screenshot](../images/event-multiple-times.png)
 
-  - **Event location fields**:
+  - **Event location fields (required)**:
     - The field asks “Where will this event be held?”
         - If “At a county office,” then select the county office from the drop-down field that appears. The address field will get automatically filled in.
         - If “At another non-office location,” enter the name and address of the location.
@@ -57,15 +57,15 @@ On the edit screen for an event, you will see the following fields:
   - **Event Cost**: how much it costs to attend the event
   - **Registration Link**: a link to register for the event online. If you enter the link here, you don’t need to enter it in the description.
   - **Registration Closed**: If you check this box, the registration button will be replaced with text that says "Registration Closed" on the event page and in teasers for the event in event lists.
-  - **Event Type**: the category for the event. This is used for internal reporting as well as for export to OSU's calendar system, Localist.
-  - **Description**: the full event description. You do not need to include information, such as date, location, or cost, that is already included in other fields.
+  - **Event Type (required)**: the category for the event. This is used for internal reporting as well as for export to OSU's calendar system, Localist.
+  - **Description (required)**: the full event description. You do not need to include information, such as date, location, or cost, that is already included in other fields.
   - **More information or promotional flyer**: uploaded flyer or registration form for the event
 
     ![Promotional Flyer Screenshot](../images/flyer.png)
 
     - Important Note: It is important that any information in a flyer is also included in another field on the event (e.g., in the full description field). This is due to the OSU Calendar import process as well as Accessibility standards. See [Accessibility](../content-requirements.md#accessibility).
 
-  - **Contact name, email, and phone**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls Extension events
+  - **Contact name, email, and phone (required)**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls Extension events
   - **Tags**
     - **Topics**: specifies which topic pages the event should show on. Event lists on focus areas set up by counties can also be narrowed to show only events tagged with certain topics.
     - **Additional counties or programs**: other counties and programs where the event should show. You don’t need to include the county or program you are using to enter the event.

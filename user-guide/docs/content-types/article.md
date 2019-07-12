@@ -17,9 +17,9 @@ To create an Article, go to your My Groups page and select the appropriate *Cont
 On the edit screen for an article, you will see the following fields:
 
   - **Previously titled**: if the Article's title has changed, keep track of the old title here. This is to help people who may be searching for the old title.
-  - **Content**: the full article content
+  - **Content (required)**: the full article content
   - **Images**: images that go with the article. These will display in a column on the right-hand side of the article’s text.
-  - **Tags**: information about the article to help with display, sorting, search, and promotion. See below for more details.
+  - **Tags (topic required)**: information about the article to help with display, sorting, search, and promotion. See below for more details.
   - **Teaser settings**: here, you can upload a thumbnail that will display in the article's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic. There are also a number of description fields that are used for various purposes:
       - **Summary/Description**: This text is displayed in the article's teaser. If it is empty, the teaser will use the first couple sentences of the article itself.
       - **Medium Description**: This text is meant for use when the content is shared on Facebook or other platforms where text length is limited.

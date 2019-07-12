@@ -22,7 +22,7 @@ The **first time** you upload a newsletter, you will need to create a container 
 
 Here, you can enter information about the newsletter that applies to *all issues* that it contains. The info you can enter is:
 
-  - **About**: information about the newsletter, for example, how often it is published or what it is about.
+  - **About (required)**: information about the newsletter, for example, how often it is published or what it is about.
   - **Subscribe Link**: the link visitors can use to subscribe to the newsletter.
   - **Tags**: information about the newsletter to help with display, sorting, search, and promotion.
   - **Teaser settings**: thumbnail and short description that display in the newsletter's teaser. If the thumbnail is empty, it will use a default image based on the topic, program, or county.
@@ -34,8 +34,8 @@ To create a Newsletter Issue, go to your My Groups page and select the appropria
 
 On the edit screen for a newsletter issue, you will see the following fields:
 
-  - **Title**: a title distinguishing it from other Issues (e.g. “GROWING: May - June 2019”)
-  - **Associated Newsletter**: the newsletter to which this issue belongs
+  - **Issue Name (required)**: a title distinguishing it from other Issues (e.g. “GROWING: May - June 2019”)
+  - **Associated Newsletter (required)**: the newsletter to which this issue belongs
 
   <blockquote><strong>Troubleshooting Tip</strong>: If the newsletter you want isn’t in the list, one of two things is happening:<br><br>
     <ol>
@@ -44,7 +44,7 @@ On the edit screen for a newsletter issue, you will see the following fields:
     </ol>
   </blockquote>
 
-  - **Issue Type**: “Web Content,” “File Upload,” or “Link to Issue”
+  - **Issue Type (required)**: “Web Content,” “File Upload,” or “Link to Issue”
     - File Upload Issues: This type of issue consists of a document uploaded to the website. When you choose this option, you will see a file upload field.
     - Linked Issues: This type of issue consists of a page or document hosted on another website. This includes newsletters sent via MailChimp or in Box. When you choose this option, you will see a field to enter the URL of the issue.
     - Web Content Issues: This type of issue consists of content entered into the website. When you choose this option, you will be able to add content to the page using Page Sections. See [Page Sections](../using-site.md#page-sections) for information about adding and arranging content on the page. The types of page section available for newsletter issues are:
@@ -58,7 +58,7 @@ On the edit screen for a newsletter issue, you will see the following fields:
         - **Text with Background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
         - **Two-Column Section**: allows you to display other sections in two columns instead of one (in large enough screens)
         - **Video**: an embedded video from YouTube, Vimeo, or OSU Media Space
-  - **Teaser settings**: thumbnail and short description that display in the issue's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
+  - **Teaser settings (short description required)**: thumbnail and short description that display in the issue's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
   - **Author and publishing information**: Previous issues are arranged based on the “Date Published or Revised” entered here.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.

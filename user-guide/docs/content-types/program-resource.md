@@ -20,12 +20,12 @@ To create a Program Resource, go to your My Groups page and select the *Program*
 
 On the edit screen for a program resource, you will see the following fields:
 
-  - **Resource Type**:
+  - **Resource Type (required)**:
     - Selecting “External Website” will provide a field for you to enter a URL.
     - Selecting “Document” will provide a field for uploading a document. You can also specify alternate versions of the file. This is for documents that are available in multiple formats (e.g. PDF, Word) or languages. The different versions are differentiated by the names you give them when you upload them.
 
-  - **Description**: a description of the resource that displays in the teaser
-  - **Type**: This field is for organizational purposes and will not affect how the program resource displays to visitors to the site. If none fit, select “Other.”
+  - **Description (required)**: a description of the resource that displays in the teaser
+  - **Type (required)**: This field is for organizational purposes and will not affect how the program resource displays to visitors to the site. If none fit, select “Other.”
   - **Category**: To organize program resources, you can configure categories for them (see below).
   - **This resource is for active program volunteers**: This is for internal informational purposes only. In the future, it could be used to pull information into a volunteer management solution Extension may adopt.
   - **Thumbnail**: an image for the resource that displays in the teaser. If empty and the resource is a PDF document, it will use an image of the first page of the document.

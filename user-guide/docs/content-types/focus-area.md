@@ -19,7 +19,7 @@ To create a Local Focus Area, go to your My Groups page and select the appropria
 On the edit screen for a focus area, you will see the following fields:
 
   - **Display on county landing page**: three focus area teasers display on each county landing page. Ones that have this box checked show up first.
-  - **How to display**: you have three options:
+  - **How to display (required)**: you have three options:
     1. **Link to a local program**: this will allow you to select a local program (MG or 4-H). When visitors click on the focus area, they will go directly to the existing landing page for that local program.
     2. **Link to an existing focus area in another county**: if you would like to share a focus area with another county (e.g. for a regional focus area), select it here. When visitors click on the focus area, they will go directly to the existing focus area.
     3. **Display a custom page**: this creates a new page for the focus area. The following fields are available for this page:
@@ -39,9 +39,9 @@ On the edit screen for a focus area, you will see the following fields:
 
   - **Tags**
     - **Topic**: the topic(s) the focus area relates to. Selecting a topic here will cause a link to it to appear at the bottom of the focus area's page. It will also create a link to the Focus area on the topic's "In Your Community" page.
-    - **Program area**: the program area the focus area relates to. This is used for internal organization and reporting only.
+    - **Program area (required)**: the program area the focus area relates to. This is used for internal organization and reporting only.
     - **Marketing category**: which of the Extension marketing categories the focus area relates to. This is used for internal organization and reporting only. It may also help coordinate content between county pages and county pull sheets and other marketing materials.
-  - **Teaser settings**: thumbnail and short description that display in the focus area's teaser. If the thumbnail is empty, it will use a default image based on the topic. You can also select a local program to link to in the Focus area's teaser. This will be separate from the main focus area link, which will continue to work as configured above.
+  - **Teaser settings (short description required)**: thumbnail and short description that display in the focus area's teaser. If the thumbnail is empty, it will use a default image based on the topic. You can also select a local program to link to in the Focus area's teaser. This will be separate from the main focus area link, which will continue to work as configured above.
 
 ## How and Where Local Focus Areas Display
 
