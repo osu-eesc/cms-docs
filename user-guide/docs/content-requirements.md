@@ -206,19 +206,20 @@ Here is how you can upload files to Box and use them on the Extension website:
 
   1. Hover over the file (or folder*) you want to link to in the list of files and click the “Share” button on the far right.
 
-    ![Share File Link Screenshot](images/share-file-link.png)
+    ![Share File Link Screenshot](images/box-share-file.png)
 
     \*If you follow these steps on a folder instead of a file, the link will take visitors to a listing where they can download any file in that folder.
 
   2. In the window that pops up, click on the blue arrow next to “People in your company” and select “People with the link” instead. The result should look like this:
 
-    ![People With The Link Screenshot](images/people-with-link.png)
+    ![People With The Link Screenshot](images/box-link-settings.png)
 
-  3. If you want to protect the file with a password, click the gear icon in the top right of the popup in #2 above. Check the box next to “Require password” (below), enter the password you want people to use, and click “Save.”
+  3. If you want to protect the file with a password, click the "Link Settings" link in the the popup in #2 above. Check the box next to “Require password” (below), enter the password you want people to use. To provide a direct link to download the file (doesn't take user to Box), check the box next to “Allow Download”.
 
-    ![Require Password Screenshot](images/require-password.png)
+    ![Require Password Screenshot](images/box-shared-link-settings.png)
 
-  4. Copy the URL in the “Shared link” box.
+  4. Click "Copy" to save the URL to your clipboard, then click "Save".
+
 
 #### Step 3: Add a Link to the Extension Site
 
