@@ -220,6 +220,10 @@ Here is how you can upload files to Box and use them on the Extension website:
 
   4. Click "Copy" to save the URL to your clipboard, then click "Save".
 
+  > **Quick Tip**:
+  >
+  >   - Visit the OSU Box website [OSU Box website](https://box.oregonstate.edu) for complete documentation.  
+
 
 #### Step 3: Add a Link to the Extension Site
 
