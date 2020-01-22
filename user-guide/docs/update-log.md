@@ -10,7 +10,10 @@
     - Added info about the "related content" field on events.
     - Added info about the "impact stats bar" and "three column section" page sections for program pages.
     - Updated list of available page sections for topic pages.
-    - Added section for content feedback and analytics. <p>&nbsp;</p>
+    - Added section for content feedback and analytics.
+    - Added instructions for Social Media Links.
+    - Added instructions for Podcasts.
+    - Added information about the Audio Browser. <p>&nbsp;</p>
 
 
 - 10/16/2019

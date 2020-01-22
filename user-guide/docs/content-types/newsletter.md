@@ -58,7 +58,7 @@ On the edit screen for a newsletter issue, you will see the following fields:
         - **Text with Background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
         - **Two-Column Section**: allows you to display other sections in two columns instead of one (in large enough screens)
         - **Video**: an embedded video from YouTube, Vimeo, or OSU Media Space
-  - **Teaser settings (short description required)**: thumbnail and short description that display in the issue's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
+  - **Teaser settings (short description required)**: thumbnail and short description that display in the issue's teaser. If the thumbnail is empty, it will use the thumbnail from the corresponding newsletter container. If this is unavailable, it will use a default image based on the topic.
   - **Author and publishing information**: Previous issues are arranged based on the “Date Published or Revised” entered here.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.

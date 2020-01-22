@@ -37,6 +37,7 @@ In general, you will need to follow these steps when entering content on the Ext
   - [Local Focus Areas](../content-types/focus-area.md)
   - [Newsletter Issues](../content-types/newsletter.md)
   - [Online Resources](../content-types/online-resource.md)
+  - [Podcast Episodes](../content-types/podcast.md)
   - [Programs](../content-types/program.md)
   - [Program Resources](../content-types/program-resource.md)
   - [Projects](../content-types/project.md)
