@@ -41,6 +41,7 @@ In general, you will need to follow these steps when entering content on the Ext
   - [Program Resources](../content-types/program-resource.md)
   - [Projects](../content-types/project.md)
   - [Project Supporting Materials](../content-types/project-material.md)
+  - [Social Media Links](../content-types/social-media-link.md)
   - [Subpages](../content-types/subpage.md)
   - [Topic Pages](../content-types/topic.md)
   - [User Profiles](../content-types/user-profile.md)
