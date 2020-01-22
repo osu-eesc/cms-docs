@@ -43,9 +43,9 @@ There are two methods for a visitor to get more specific or relevant search resu
 
 The primary place for visitors to find educational content is on topic pages. This is because analytics and user testing show that people looking for educational content tend to use topic-based navigation first.
 
-To get to the topic pages, click “Topics” in the black navigation bar at the top of every page. There are also links to topics on the home page.
+To get to the topic pages, click “Topics” in the black navigation bar at the top of every page.
 
-Each topic has a “landing page” that is semi-curated by topic committees. This page contains the most important content for the topic and a description of the work Extension is doing in that area. It also links to several other pages that contain more content related to the topic.
+Each topic has a “landing page” that is curated by a topic committee. This page contains the most important content for the topic and a description of the work Extension is doing in that area. It also links to several other pages that contain more content related to the topic.
 
 The visitor can click on a link on the landing page to go to the “Browse Resources” page for that topic. This page lists all content in the system tagged with the topic in reverse chronological order (newest first). Like the search result page, filters on this page narrow the list to content relevant to the visitor.
 
@@ -57,7 +57,6 @@ The visitor can click on a link on the landing page to go to the “Browse Resou
 
 Visitors can find content related to an Extension program they are involved in through that program’s pages. There are a few ways to get to these pages.
 
-  - The home page lists programs that bring a lot of people to the site.
   - Topic pages list programs that are related to that topic.
   - County pages list programs that are active in that county.
   - All programs are listed on a page in the top black menu bar under “Get Involved.”
@@ -67,7 +66,7 @@ The program groups that maintain these pages have a lot of flexibility around ho
 
 ### Location-Based Navigation
 
-Many visitors familiar with the old website expect to find content on their county’s page. Counties, like programs, maintain pages to organize and direct visitors toward content. People can find their county on the “Locations” page under “Find Us” in the top black menu bar.
+Counties, like programs, maintain pages to organize and direct visitors toward content. People can find their county on the “Locations” page under “Find Us” in the top black menu bar.
 
 > #### Case Study: Finding a Newsletter
 A newsletter called [*GROWING*](https://extension.oregonstate.edu/newsletter/growing) is published in Linn and Benton Counties. A person might find this newsletter on the Extension site in several ways.
@@ -159,9 +158,9 @@ You can **edit a link** by placing your cursor inside the link and clicking on t
 
 When you create links in the text editor, it is very important that you periodically **check that the links still work**. Broken links on a website hurt an organization’s credibility and might result in a penalty from search engines like Google, making content harder to find. We recommend using dynamically generated page sections, such as featured content or program tagged content lists, for linking to other content on the site when possible. These will automatically update when the content’s link changes and so will never break. See [Page Sections](using-site.md#page-sections) for more information.
 
-#### Image, Document, and Video Browsers
+#### Image, Document, Audio, and Video Browsers
 
-For fields that allow you to upload an image or document or embed a video, you will see a button that says “Select Image”, “Select Document”, or “Select Video” (i.e, when uploading an image, it will say “Select image”). Clicking this button will open a new window called the **image/document/video browser** (depending on what you are uploading).
+For fields that allow you to upload an image or document or embed audio or a video, you will see a button that says “Select Image”, “Select Document”, “Select Audio”, or "Select Video" (i.e, when uploading an image, it will say “Select image”). Clicking this button will open a new window called the **image/document/audio/video browser** (depending on what you are uploading).
 
 ![Image Browser Screenshot](images/image-browser.png)
 
@@ -169,14 +168,17 @@ For fields that allow you to upload an image or document or embed a video, you w
 
 The browser consists of two tabs:
 
-1. **Upload new**: This is where you can upload a new file. After selecting the file from your computer (or entering a video embed URL), you will need to enter some additional information.
+1. **Upload new**: This is where you can upload a new file. After selecting the file from your computer (or entering an audio or video embed URL), you will need to enter some additional information.
     - **Image**: There are a number of fields you can fill out for an image.
         - **Alternative text**: If there is text in the image, re-enter it here so that assistive technology and search engines can read it. See Captions and Alternative Text for more information.
         - **Caption**: Enter any additional information about the image that is useful to visitors here (not in the Alternative text field). Keep in mind that this photo may be reused for other purposes in the future.
         - **Photo credit and photo credit link**: See [Using Images](content-requirements.md#using-images) for more information.
         - **Don’t allow reuse**: This prevents others from using the image in other places. Use this if there is limited permissions to use the image. If the photo can be reused, consider making the file name descriptive so it’s easier to search for in the future.
     - **Document**: Provide a document name. This may be seen by the public, so use something that makes sense.
-    - **Video**: Provide a video name.This is not seen by the public.
+    - **Audio**:
+        - **Name**: A name for the audio embed. This is not seen by the public.
+        - **Transcript**: A transcript for the audio. This is legally required for accessibility and also helps search engines find relevant content more effectively.
+    - **Video**: Provide a video name. This is not seen by the public.
   2. **Reuse existing**: If you or someone else has already uploaded the file you want to use, you can reuse it without having to re-enter the information. Search by the filename of the existing item or the name it was given when originally uploaded. When you find it, click the checkbox next to it. Then click the “Select” button at the bottom of the window. Save the page for the selection to take effect.
 
 #### Content Browser
@@ -205,7 +207,7 @@ You can reorder them by dragging them up and down the page using the arrow contr
 
 ![Page Section Arrows Screenshot](images/page-section-arrows.png)
 
-##### For Advanced Users: Page Section Settings for Custom Design
+##### Page Section Settings for Custom Design
 
 In the edit screen just above where you add and arrange page sections, there is a tab for “Settings”:
 
@@ -215,7 +217,8 @@ When you switch to this tab, you will see the extra settings available for each 
 
   - **Section ID**: This allows you to link to a specific section on a page. The ID should be a short, unique name with no spaces or punctuation besides dashes (-) or underscores (\_). When you give a section an ID, you can link directly to that section by adding “#SECTION_ID” to the end of the subpage’s URL.
   - **Background color**: You can select a background color for the section that stretches all the way across the screen. The options are white or gray. “Call to Action” sections can also be black or orange.
-  - **List style**: For sections that display content in a list (e.g. featured content and program resources lists), you can select the style to display each piece of content. You can choose between “List,” “Grid,” or “Text List” (see below).
+  - **Alignment**: For **button links**, you can have the button aligned to the left, right, or center of the page.
+  - **List style**: For sections that display content in a list (e.g. featured content and program resources lists), you can select the style to display each piece of content. You can choose between “List,” “Grid,” "Feature Grid," or “Text List” (see below).
 
 ![List Style Screenshot](images/list-style.png)
 
@@ -224,6 +227,10 @@ When you switch to this tab, you will see the extra settings available for each 
 ![Grid Style Screenshot](images/grid-style.png)
 
 *“Grid” style.*
+
+![Feature Grid Style Screenshot](images/feature-grid-list-style.png)
+
+*“Feature Grid” style.*
 
 ![Text List Style Screenshot](images/text-list-style.png)
 
@@ -234,7 +241,7 @@ When you switch to this tab, you will see the extra settings available for each 
   - **Content author**: any person who enters content into the site
   - **Filters**: controls on pages that allow visitors to narrow down the content they see to what is relevant to them
   - **Edit screen**: the screen used to add and edit content
-  - **Image/document/video browser**: window used to upload or reuse images, documents, and videos
+  - **Image/document/audio/video browser**: window used to upload or reuse images, documents, and videos
   - **Content browser**: window used to select content that already exists on the site
   - **Page sections**: the controls used for adding content to subpages, landing pages, and projects. Some are for adding basic page elements such as text and images. Others create dynamic lists that pull content onto the page.
 

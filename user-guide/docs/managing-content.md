@@ -4,7 +4,7 @@ Content needs management and maintenance after it has been added to the site in 
 
 ## Working with Other Content Authors
 
-Extension’s new digital strategy requires content authors to coordinate with one another more proactively than before. This includes communication outside of the county, department, or office where you do your everyday work.
+Extension’s digital strategy requires content authors to coordinate with one another proactively. This includes communication outside of the county, department, or office where you do your everyday work.
 
 ### Group Roles
 

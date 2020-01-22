@@ -2,14 +2,14 @@
 
 ## What Is an Event
 
-An event that a visitor to the website could attend. This does NOT office closures, these should be announcements instead.
+An event that a visitor to the website could attend. This does NOT include office closures, these should be announcements instead.
 
 ## Why Create Events
 
   - Showcase and track the amount of on-the-ground programming that you do.
   - Expand your outreach to local and new audiences about your events.
   - Have a place to direct people for learning more and registering for the event.
-  - Can enter once and have it fed to the OSU calendar (and [Forestry Extension page](http://extensionweb.forestry.oregonstate.edu/) if relevant).
+  - Can enter once and have it fed to the OSU calendar (and others, such as the [Forestry Extension page](http://extensionweb.forestry.oregonstate.edu/), if relevant).
   - Be able to send specific events to interested people through future digital strategy.
   - Find out which events are most viewed and by what audiences through analytics.
 
@@ -65,6 +65,7 @@ On the edit screen for an event, you will see the following fields:
 
     - Important Note: It is important that any information in a flyer is also included in another field on the event (e.g., in the full description field). This is due to the OSU Calendar import process as well as Accessibility standards. See [Accessibility](../content-requirements.md#accessibility).
 
+  - **Related content**: link to other content on the site related to the event. May include background educational content, other events in a series, or a program resource containing the registration form.
   - **Contact name, email, and phone (required)**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls Extension events
   - **Tags**
     - **Topics**: specifies which topic pages the event should show on. Event lists on focus areas set up by counties can also be narrowed to show only events tagged with certain topics.
@@ -77,18 +78,12 @@ On the edit screen for an event, you will see the following fields:
 
 Event teasers will only display on pages until the event ends. They contain the event title, dates, and the city in which it takes place (or “Online” if it is a webinar). They show on the following pages on the site:
 
+  - Home page: the home page displays a list of the four closest events from every county, program, and content team on the site. Events that occur multiple times over a long period or that are not open to the general public (such as 4-H fair weigh-ins) are excluded.
   - Topic pages: events tagged with the topic in the “Topics, Programs, and Counties” section of the edit screen
   - Program pages: events entered by the program’s group or tagged with the program in the “Topics, Programs and Counties” section of the edit screen.
   - County pages: events entered by the county’s group or tagged with the county in the “Topics, Programs, and Counties” section of the edit screen.
   - County focus areas: Members of a county group can set up event lists on focus area pages that only show a subset of events for that county. These events must be:
     - added through the county group or tagged with that county, and
     - tagged with with either one of some specified topics OR a specified additional calendar.
-
-All Extension events will be automatically exported to OSU’s main calendar, **Localist**. Some important notes about this process:
-
-  - Localist pulls events from the Extension website each night.
-  - It pulls both new events and updates to existing events.
-  - Uploaded flyers or other documents on the event will only display on the Extension website, not Localist.
-  - If you delete an event before it is over (e.g., if you noticed it was a duplicate), it will show as “cancelled” in Localist.
 
 The FNR Extension website pulls events from the Extension website when “Forestry Extension” is selected under “additional calendars.”

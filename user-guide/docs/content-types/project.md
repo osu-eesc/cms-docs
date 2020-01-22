@@ -31,6 +31,7 @@ The edit screen for a project has the following fields:
     - **Text with Background**: formatted text with a background image that spans the entire screen
     - **Two-Column Section**: allows you to display other sections in two columns (on large enough screens)
     - **Video**: a video hosted on YouTube, Vimeo, or OSU Media Space
+
   - **Tags**: includes topic, program area, program, and counties
   - **Teaser settings (short description required)**: thumbnail and short description that display in the project's teaser. If the thumbnail is empty, it will use a default image based on the topic.
 

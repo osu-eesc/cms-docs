@@ -47,7 +47,7 @@ Topic, program, and county landing pages display one announcement **teaser**. Af
 ![Announcement Teaser Screenshot](../images/announcement-teaser.png)
 *Example announcement teaser on a landing page*
 
-By default, the newest announcement applicable to the county or program shows on the landing page. To override this, check the "display on county/program landing page" box for the announcement you would like to display there instead.
+By default, the newest announcement applicable to the county or program shows on the landing page. To override this, check the "display on county/program landing page" box for the announcement(s) you would like to display there instead.
 
 Announcements in a county or program group automatically show up for that county or program. They will also show up for counties and programs specified in the “additional counties” and “additional programs” fields. You can add an announcement to a topic page using the “announcement topic” field.
 

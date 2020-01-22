@@ -1,5 +1,17 @@
 # List of changes to the web guide
 
+- 1/22/2020
+    - Updated topic and program display information to reflect new home page design.
+    - Updated event display information to reflect new home page design.
+    - Added info on the "alignment" page section setting for button links.
+    - Added info about the "feature grid" page section list style setting.
+    - Added info about the "Show pesticide disclaimer" checkboxes on articles.
+    - Added instructions for using page section settings on collection sections.
+    - Added info about the "related content" field on events.
+    - Added info about the "impact stats bar" and "three column section" page sections for program pages.
+    - Updated list of available page sections for topic pages. <p>&nbsp;</p>
+
+
 - 10/16/2019
     - Updated instructions for Box files. <p>&nbsp;</p>
 

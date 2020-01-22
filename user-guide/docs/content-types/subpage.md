@@ -29,6 +29,8 @@ Content for subpages is primarily added through page sections (see [Page Section
   - **Featured Content**: links to content in the Extension site
   - **Image**: an image with optional caption and alternative text to describe the photo
   - **Image slider**: a slideshow of uploaded images
+  - **Impact stats bar**: a stylized orange bar containing three items intended to highlight statistics about the program's impact.
+    ![Impact stats bar](../images/impact-stats-bar.png)
   - **Program Contact Information**: displays the location, phone number, and email entered in the "Program Info" section of the edit screen for the program
   - **Program Events List**: shows a list of events that have either been added to the program or tagged with the program by another group. You can narrow events shown in a particular list by the "Program Resource Category" they are tagged with.
   - **Program Faculty/Staff List**: shows a list of users who are tagged as being part of the program
@@ -40,6 +42,7 @@ Content for subpages is primarily added through page sections (see [Page Section
       ![Reorder Resources Screenshot](../images/reorder-resources.png)
 
     - You will not see the resources pulled in to the section until you click “Save” and view the page.
+
   - **Program Social Media List**: shows a list of all social media links entered by the program
   - **Program Statewide Resources**: a list of program resources associated with the local program’s statewide “parent.” This is currently applicable only to 4-H and Master Gardener.
   - **Program Tagged Content List**: an automatically generated list of content in the site that has been tagged with the program.
@@ -48,7 +51,8 @@ Content for subpages is primarily added through page sections (see [Page Section
   - **Tabbed Section**: allows you to display other sections in tabs, where only one tab is displayed at a time and visitors can switch between them
   - **Text**: a simple text box with formatting such as bold or italic
   - **Text with background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
-  - **Two-Column Section**: allows you to display other sections in two columns instead of one (in large enough screens)
+  - **Two-Column Section**: allows you to display other sections in two columns instead of one (on large enough screens)
+  - **Three-Column Section**: allows you to display other sections in three columns instead of one (on large enough screens)
   - **Video**: an embedded video from YouTube, Vimeo, or OSU Media Space
 
 > **Quick Tip**: For help featuring educational content entered by Content Teams on their pages, see: [Organizing and Displaying Content on Other Pages](../managing-content.md#displaying-and-organizing-content-on-other-pages).

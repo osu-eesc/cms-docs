@@ -33,6 +33,8 @@ On the edit screen for a collection, you will see the following fields:
 
     - To organize content into sections with titles, click “Add Collection Section.” This will provide you with fields where you can specify the title of the section and the pieces of content that appear in that section.
 
+    - "Collection Sections" act like page sections, so you can use the "Settings" tab above to specify the list style or anchor id for individual sections. See [Page Sections](../using-site.md#page-sections) for more information.
+
   - **For More Information**: text that will appear after the collection items
   - **Tags (topic required)**: information about the collection to help with display, sorting, search, and promotion. See below for more details.
   - **Teaser settings (short description required)**: thumbnail and short description that display in the collection's teaser. If the thumbnail is empty, it will use a default image based on the topic.

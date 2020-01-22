@@ -64,11 +64,15 @@ On the edit screen for a topic landing page, you will see the following fields:
     ![About Section Screenshot](../images/about-section.png)
 
   - **Landing page sections**: You can add two different types of sections to the page:
+    - **Call to Action**: a link to another page (in or outside of the Extension site) that includes a description and image
     - **Custom topic section**: a section title (e.g., “Featured Resources”), several pieces of manually selected content, and a manually entered link to see more content. A good option here is to use a link to the topic’s “Browse Resources” page with one or more filters already applied. Examples may be specific subtopics such as “Nutrients” or audiences such as “Coastal Region.” More than one Custom topic section can be added to highlight frequently looked for categories.
     - **Latest topic content**: the newest three pieces of content tagged with the topic. It can be narrowed by content type to, for example, show only the newest three videos or Extension Catalog publications. More than one of these sections can be added.
 
       ![Featured Resources Screenshot](../images/featured-resources.png)
       ![Browse All Resources Button](../images/browse-all-resources.png)
+      
+    - **Text with background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
+    - **Two-Column Section**: allows you to display other sections in two columns instead of one (on large enough screens)
 
   - **Featured experts**: Enter the ONID usernames (not full names) of the people to show in the “Meet Our Experts” section. If none are selected, the first four people in alphabetical order with their “Expertise” set to the topic will show up.
 

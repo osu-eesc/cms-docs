@@ -20,19 +20,7 @@ The edit screen for a project supporting material has the following fields:
 
   - **Type (required)**: the type of material. This is used for informational or organizational purposes only, and isn’t seen by the public.
   - **Content**: the main text that shows on the Material’s page
-  - **Page Sections**: additional content that shows on the Material’s page (see [Page Sections](../using-site.md#page-sections) for more information). The following types of sections are available to add to the page:
-    - **Button Link**: a link styled as an orange button
-    - **Call to Action**: text, image, and link to encourage visitors to the page to take an action
-    - **Featured Content**: links to other content on the site
-    - **Image**: an uploaded image
-    - **Image slider**: a slideshow of uploaded images.
-    - **Project Materials List**: uploaded documents or links to other sites displayed in a list
-    - **Quick links bar**: an orange bar across the page that can contain links to social media or important pages
-    - **Tabbed Section**: allows you to display other sections in tabs, where only one tab is displayed at a time and visitors can switch between them
-    - **Text**: formatted text
-    - **Text with Background**: formatted text with a background image that spans the entire screen
-    - **Two-Column Section**: allows you to display other sections in two columns (on large enough screens)
-    - **Video**: a video hosted on YouTube, Vimeo, or OSU Media Space
+  - **Page Sections**: additional content that shows on the Material’s page (see [Page Sections](../using-site.md#page-sections) for more information). The same types of page sections are available here as on main project pages.
   - **Teaser settings**: thumbnail and short description that display in the material's teaser.
 
 ## Where and How Project Supporting Materials Display

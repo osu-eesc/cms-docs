@@ -52,11 +52,11 @@ Extension will use Salesforce to be compatible with other groups across the univ
   - meet high standards of security and privacy; and
   - ensure that our clients are comfortable with their experience.
 
-## The New Extension Website
+## The Extension Website
 
-The **new Extension website** that the public and our participants see is just one way people will get content from Extension. Content entered into the website populates Extension’s CMS. This will eventually also feed information out through social media, emails, and other technology.
+The **Extension website** that the public and our participants see is just one way people will get content from Extension. Content entered into the website populates Extension’s CMS. This will eventually also feed information out through social media, emails, and other technology.
 
-The new Extension website was created in order to update our web platform according to the University’s policies. To follow the new digital strategy, the site was built with several guiding principles in mind.
+The Extension website was created in order to update our web platform according to the University’s policies. To follow the new digital strategy, the site was built with several guiding principles in mind.
 
   - **Customer focused**. The new website follows known customer preferences and bases menus and navigation on what customers want to do, learn, or search for, not on an internal topic or label.
   - **Mobile friendly**. The new website employs layouts and content that can be delivered in mobile-friendly ways.
@@ -65,17 +65,17 @@ The new Extension website was created in order to update our web platform accord
   - **Content focused**. It's about the content, not about the sites. The goal is to integrate or transition relevant content into the CMS rather than develop, host, or manage individual sites.
   - **Practical**. The new website allows faculty and staff to focus on content rather than website design, development, and management. The right people are doing the right things.
 
-In June 2018, the new Extension website was launched as a minimum viable product. This means that not all features and design work was included that will be in the final product. Since launch, we have been collecting data and feedback and implementing improvements and new functionality. The first round of these improvements is underway and will be completed in 2019.
+The Extension website is a living project that we work hard to continuously improve. Since launch in June 2018, we have been collecting data and feedback and implementing improvements and new functionality.
 
 ## Review of Terms
 
-  - **Content Management System** (CMS): a centralized source of content that feeds data to a variety of platforms, including the new Extension website
+  - **Content Management System** (CMS): a centralized source of content that feeds data to a variety of platforms, including the Extension website
   - **Fields**: individual pieces of data that make up content. For example, a person’s faculty/staff profile would contain separate *fields* for their name, phone number, email address, etc.
   - **Customer Relationship Management** (CRM) **System**: a system that records the interaction between an individual and an organization, and maintains a database of contacts. It connects with the CMS and other tools to get relevant information to audiences.
-  - **New Extension website**: the first of what will be many facets of Extension’s digital strategy. The content going into the Extension website will, in the future, also appear in other places (e.g. social media, email). This will be possible due to the way the content is entered and the existence of a content management system.
+  - **Extension website**: the first of what will be many facets of Extension’s digital strategy. The content going into the Extension website will, in the future, also appear in other places (e.g. social media, email). This will be possible due to the way the content is entered and the existence of a content management system.
 
 ## Key Takeaways
 
   - Extension’s digital strategy will make our content available to clients that access information online in a variety of ways.
-  - Content entered into the new Extension Website goes into a “content management system” that will feed into many channels. In order for this to be effective, content needs to be structured, atomic, and described.
+  - Content entered into the Extension Website goes into a “content management system” that will feed into many channels. In order for this to be effective, content needs to be structured, atomic, and described.
   - The next phase in the digital strategy initiative will be to implement a “Customer Relationship Management” system.

@@ -18,7 +18,7 @@ The edit screen for a county office has three sections:
     - **Quick links**: a bar of up to four highlighted links (e.g. Facebook, Twitter, a newsletter, or a calendar).
     - **About**: Additional text to describe the work done or sevices available in the county.
     - **Featured content section**: you can select a few content items to display on the landing page. We recommend listing newsletters or other content that is specific to the county.
-  - **Other Content**: this is where you can specify other content related to the county. Specifically, the introductory text for automatically-generated pages (see below) and custom sidebar links.
+  - **Other Content**: this is where you can specify other content related to the county. Specifically, the introductory text for automatically-generated pages (see below).
   - **County Info**: the contact information, location, office hours, etc. for the county.
 
 > **Quick Tip**: Members of county groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](../managing-content.md#displaying-and-organizing-content-on-other-pages).

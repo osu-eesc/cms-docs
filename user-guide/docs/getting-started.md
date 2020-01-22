@@ -27,7 +27,7 @@ There are several options for content that doesn't go on the Extension website. 
 
 ## Your Groups
 
-Your groups assigned in the Drupal content management system (CMS) determine what content you are allowed to edit. When someone in your a group creates a piece of content, you and anyone in that group can edit it.
+Your groups assigned in the website determine what content you are allowed to edit. When someone in your a group creates a piece of content, you and anyone in that group can edit it.
 
 When you are a member of a group, the *type* of group determines what *type* of content you can add. There are four types of groups on the site.
 
@@ -64,7 +64,7 @@ Program teams will enter most of their content as “program resources”. Each 
 
 County office groups are responsible for *entering content about their office’s physical location and services provided, highlighting the activities going on at the office, and directing visitors to relevant educational and program content*. This also includes the combined stations.
 
-County office groups can create events and newsletters. They can also set up local focus areas on the Extension website. These serve as a link between the county and a topic or program that is of particular interest to visitors from that county. For example, a county on the coast could describe their work with coastal issues and link to educational content about marine wildlife. Combined stations will also be linked to the research pages on the College of Agricultural Sciences website for agricultural experiment and combined stations.
+County office groups can create events and newsletters. They can also set up local focus areas on the Extension website. These serve as a link between the county and a topic or program that is of particular interest to visitors from that county. For example, a county on the coast could describe their work with coastal issues and link to educational content about marine wildlife. Combined stations may also link to the corresponding Agricultural Experiment Station research pages on the College of Agricultural Sciences website.
 
 ### Topic Committees
 
@@ -90,9 +90,9 @@ Most members of topic committees will also be members of a content team. However
 
 ## Roles and Responsibilities
 
-It is helpful in knowing not only your Drupal groups, but the roles of all the people involved in OSU Extension's digital strategy. This can show you where to get support. Current responsibilities have focused on the Extension website, although it is just a piece of the long-term plans.
+It is helpful to know not only your website groups, but the roles of all people involved in OSU Extension's digital strategy. This can show you where to get support. Current responsibilities have focused on the Extension website, although it is just one piece of the long-term plans.
 
-![Group Types Venn Diagram](images/roles-diagram.png)
+![Roles and responsibilities chart](images/roles-diagram.png)
 
 **Everyone in Extension**
 
@@ -146,6 +146,7 @@ The content types that you are able to use depend on the group type you are usin
 **Local Focus Area**<br> Description of work done in a county in a particular topic or program | | | | x
 **Newsletter Issue**<br> Print, electronic, web-based newsletters | <center>x</center> | x | x | x
 **Online Resource**<br> Link to educational material located on another website | x | | |
+**Podcast Episode**<br> Audio that is part of a series or podcast | <center>x</center> | | |
 **Program Resource**<br> Materials needed to join or participate in a program. May be an uploaded document or a link to an external site | | x | x |
 **Project**<br> An activity done by Extension with outputs or impacts of interest to the public. May include tools, background research, progress updates, etc. | x | | |
 **Project Supporting Material**<br> Content providing context or additional information about a project | x | | |
@@ -171,6 +172,7 @@ These content types can be added by a number of group types.
   - **Article**: text-based educational content
   - **Collection**: a group of other pieces of content of any content type
   - **Educational Document**: a file (such as a PDF or Excel spreadsheet) containing educational content that cannot be entered as an article, including calculators, diagrams, or other content that depends on images or formatting
+  - **Podcast Episode**: audio that is part of a podcast or other series
   - **Project**: information about a partnership, project, or activity done by Extension
   - **Online Resource**: a link to an external website containing educational content
   - **Video**: an educational video
