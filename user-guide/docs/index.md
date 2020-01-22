@@ -10,6 +10,7 @@ This site contains documentation and information about adding and editing conten
 * [Adding and Editing Content](content-types/index.md)
 * [Managing Content](managing-content.md)
 * [Content Requirements and Best Practices](content-requirements.md)
+* [Content Feedback and Analytics](feedback-analytics.md)
 * [Getting Help](getting-help.md)
 * [Instructions for Special User Roles](special-roles.md)
 * [Glossary](glossary.md)
