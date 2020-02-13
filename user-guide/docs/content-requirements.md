@@ -39,7 +39,7 @@ Here are some tips for writing effective web content:
     - Begin a piece with something interesting and lead with important points.
     - Make titles descriptive and compelling.
     - Limit acronyms and jargon.
-  - **Use clear language** by writing simple, straightforward descriptions whenever possible, especially when translation is not an option. This also makes content more usable for youth, people with low-literacy, English language learners, and people with certain learning or intellectual disabilities. [Hemingway App](http://www.hemingwayapp.com/) is a good tool to check the readability of your content.
+  - **Use clear language** by writing simple, straightforward descriptions whenever possible, especially when translation is not an option. This also makes content more usable for youth, people with low-literacy, English language learners, and people with certain learning or intellectual disabilities. [Hemingway App](http://www.hemingwayapp.com/) is a good tool to check the readability of your content. The [Plain Language guide](https://plainlanguage.gov/guidelines/words/use-simple-words-phrases/) also provides other tips.
   - **Set up a review process** so that content stays up to date and is accurate. (For some content teams, this may include peer review.)
   - **Follow OSU and Extension brand guidelines.** The [OSU Brand Guide](https://communications.oregonstate.edu/brand-guide) and the [Extension Style Guide](https://employee.extension.oregonstate.edu/resources/marketing-tools/osu-extension-style-guide) have information about messaging and tone for written pieces.
 
@@ -108,7 +108,7 @@ While accessibility makes sure that all people can *access* content, there are o
 
   - **Content creation**: When creating content, recognize different perspectives and include topics that are relevant to diverse communities.
   - **Free access**: If you are publishing content in academic journals, consider publications that do not require a subscription to read. That way everyone can have access when you link to it from the website.
-  - **Content translation**: Consider making your content available in other languages when appropriate, and tag content with the language it is written in. In the next phase of development, EESC will investigate the possibility of implementing an automatic translation service for the website.
+  - **Content translation**: Provide materials if needed to non-English speaking populations, and tag content with the language it is written in. In the next phase of development, EESC will investigate the possibility of implementing an automatic translation service for the website.
   - **Images**: Make sure the images you take and use reflect the diversity of your audience. Also be mindful that your images aren’t inadvertently sending negative messages or reinforcing stereotypes.
   - **Pronouns**: Be respectful of your subjects’ and visitors’ pronouns. You can specify your own pronouns on your user profile. [See Adding and Editing Content: User Profile](content-types/user-profile.md).
 
