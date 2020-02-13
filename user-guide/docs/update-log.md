@@ -1,5 +1,10 @@
 # List of changes to the web guide
 
+- 2/13/2020
+    - Added instructions for contacting groups using the group contact dashboard.
+    - Added additional links to content best practices page: plain language resource, OSU open access<p>&nbsp;</p>
+
+
 - 1/22/2020
     - Updated topic and program display information to reflect new home page design.
     - Updated event display information to reflect new home page design.
