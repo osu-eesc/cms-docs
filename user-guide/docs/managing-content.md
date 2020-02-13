@@ -36,7 +36,13 @@ Enter the username of the person to add and check the box next to any roles the 
 
 ### Contacting a Group
 
-You may need to contact another group if you need to request membership or ask for content to be added or edited. There are lists of groups and their members on the [Content Teams page of the project blog](http://blogs.oregonstate.edu/extensionweb/content-teams/).
+You may need to contact another group if you need to request membership or ask for content to be added or edited. There are lists of groups and their members on the [Group contact dashboard](https://extension.oregonstate.edu/group/membership).
+
+On this page, you can search for the group you are interested in by name, program area, or group type (content team, county, program, or topic committee).
+
+  - To email an individual group member, use the "email" link in the row with their information.
+  - To email all members of a single group, use the "Email all members" link under the name of the group, above the list of members.
+  - To email the points of contact for all groups displayed, use the "Email group contacts from all displayed groups" button at the top of the page.
 
 ### Finding the Owner of a Piece of Content
 
