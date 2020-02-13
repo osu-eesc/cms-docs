@@ -140,11 +140,11 @@ It is *extremely* important that you **only upload images to the Extension websi
 
 By default, other people adding content on the site are able to reuse images you upload. **To prevent this**, check the “Don’t allow reuse of this image” box when uploading the image.
 
-Here are some good sources of legal images to use:
+Here are some good sources of free legal images to use:
 
   - [EESC Photo Archive](https://eesc.extension.oregonstate.edu/eesc-photo-archives)
   - [OSU Brand Photos](https://communications.oregonstate.edu/brand-guide/download-brand-photography)
-  - [Flickr](https://www.flickr.com/) (Be sure to check that the license for the photo allows for its use.)
+  - [Creative Commons Search](https://search.creativecommons.org/) (Includes Flickr and other sources of images; check licensing status and attribution information.)
 
 If you are using a photo that your office or program took, you must have a completed model release for photos that have people in them. [Download the forms in Box](https://oregonstate.app.box.com/s/q1w78xaln34sn6q0438ncs4s6qtjcw7k).
 
