@@ -1,5 +1,9 @@
 # List of changes to the web guide
 
+- 3/5/2020
+    - Added instructions for Educational Galleries.
+
+
 - 2/13/2020
     - Added instructions for contacting groups using the group contact dashboard.
     - Added additional links to content best practices page: plain language resource, OSU open access<p>&nbsp;</p>

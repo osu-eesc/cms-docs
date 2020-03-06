@@ -33,6 +33,7 @@ In general, you will need to follow these steps when entering content on the Ext
   - [Collections](../content-types/collection.md)
   - [County Offices](../content-types/county-office.md)
   - [Educational Documents](../content-types/educational-document.md)
+  - [Educational Gallery](../content-types/educational-gallery.md)
   - [Events](../content-types/event.md)
   - [Local Focus Areas](../content-types/focus-area.md)
   - [Newsletter Issues](../content-types/newsletter.md)

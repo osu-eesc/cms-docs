@@ -142,6 +142,7 @@ The content types that you are able to use depend on the group type you are usin
 **Article**<br> Text and image-based educational content | x | | |
 **Collection**<br> Manually selected groups of educational content | x | | |
 **Educational Document**<br> General-interest educational material uploaded as a document | x | | |
+**Educational Gallery**<br> Content based around collections of images (e.g. plant profiles) | x | | |
 **Event**<br> Workshops, classes, event information for external audience | x | x | x | x
 **Local Focus Area**<br> Description of work done in a county in a particular topic or program | | | | x
 **Newsletter Issue**<br> Print, electronic, web-based newsletters | <center>x</center> | x | x | x
@@ -172,6 +173,7 @@ These content types can be added by a number of group types.
   - **Article**: text-based educational content
   - **Collection**: a group of other pieces of content of any content type
   - **Educational Document**: a file (such as a PDF or Excel spreadsheet) containing educational content that cannot be entered as an article, including calculators, diagrams, or other content that depends on images or formatting
+  - **Educational Gallery**: content based around collections of images (e.g. plant profiles)
   - **Podcast Episode**: audio that is part of a podcast or other series
   - **Project**: information about a partnership, project, or activity done by Extension
   - **Online Resource**: a link to an external website containing educational content
