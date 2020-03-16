@@ -1,7 +1,10 @@
 # List of changes to the web guide
 
+- 3/16/2020
+    - Added info about "collapsible section" page sections for programs and projects.<p>&nbsp;</p>
+
 - 3/5/2020
-    - Added instructions for Educational Galleries.
+    - Added instructions for Educational Galleries.<p>&nbsp;</p>
 
 
 - 2/13/2020

@@ -26,6 +26,10 @@ Content for subpages is primarily added through page sections (see [Page Section
 
   - **Button Link**: a link to another page (in or outside of the Extension site) styled as a large orange button
   - **Call to Action**: a link to another page (in or outside of the Extension site) that includes a description and image
+  - **Collapsible Section**: text that can be collapsed and expanded
+
+    ![Collapsible Section Screenshot](../images/collapsible-section.png)
+  
   - **Featured Content**: links to content in the Extension site
   - **Image**: an image with optional caption and alternative text to describe the photo
   - **Image slider**: a slideshow of uploaded images

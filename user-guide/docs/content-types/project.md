@@ -18,6 +18,10 @@ The edit screen for a project has the following fields:
   - **Content**: the content that shows on the Project’s page (see [Page Sections](../using-site.md#page-sections) for more information). The following types of sections are available to add to the page:
     - **Button Link**: a link styled as an orange button
     - **Call to Action**: text, image, and link to encourage visitors to the page to take an action
+    - **Collapsible Section**: text that can be collapsed and expanded
+
+      ![Collapsible Section Screenshot](../images/collapsible-section.png)
+
     - **Featured Content**: links to other content on the site
     - **Image**: an uploaded image
     - **Image slider**: a slideshow of uploaded images.
