@@ -54,6 +54,7 @@ On the edit screen for an event, you will see the following fields:
       </ol>
     </blockquote>
 
+  - **Zoom details**: If you scheduled this event in Zoom, enter the link, phone number(s), and meeting ID provided here (these do not need to be entered in the event description as well).
   - **Event Cost**: how much it costs to attend the event
   - **Registration Link**: a link to register for the event online. If you enter the link here, you don’t need to enter it in the description.
   - **Registration Closed**: If you check this box, the registration button will be replaced with text that says "Registration Closed" on the event page and in teasers for the event in event lists.

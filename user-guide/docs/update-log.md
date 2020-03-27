@@ -1,5 +1,8 @@
 # List of changes to the web guide
 
+- 3/27/2020
+    - Added info about Zoom detail fields on events.<p>&nbsp;</p>
+
 - 3/16/2020
     - Added info about "collapsible section" page sections for programs and projects.<p>&nbsp;</p>
 
