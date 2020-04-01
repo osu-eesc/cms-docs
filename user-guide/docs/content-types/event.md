@@ -27,6 +27,10 @@ To create an Event, go to your My Groups page and select the appropriate group (
 
 On the edit screen for an event, you will see the following fields:
 
+  - **Event status**: If the event has been cancelled, postponed, or rescheduled, select the appropriate option here. This field is used for reporting as well as updating the appearance of the event page as appropriate:
+      - **Cancelled**: If this is selected, the title of the event will be prepended with the word "Cancelled". The location and registration information will be hidden from the event page and replaced with a notice saying "This event has been cancelled". Events marked as cancelled will not display on the Extension home page.
+      - **Postponed**: If this is selected, the title of the event will be prepended with the word "Postponed". The date and time information will be hidden from the event page and replaced with a message saying "This event has been postponed. Check back for details." Events marked as postponed will not display on the Extension home page; however, they will stay on county/program/topic event lists indefinitely, regardless of the date they were originally scheduled for. So when plans for the event are finalized, be sure to update this field as appropriate.
+      - **Rescheduled**: If this is selected, the title of the event will be prepended with the word "Rescheduled". No other changes will occur and all information will be visible on the event page.
   - **All Day Event**: indicates that an event takes place all day. If checked, you will not need to fill in the time fields for the event date.
 
   ![All Day Event Screenshot](../images/all-day-event.png)

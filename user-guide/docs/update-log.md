@@ -1,5 +1,8 @@
 # List of changes to the web guide
 
+- 4/1/2020
+    - Instructions for "event status" field.<p>&nbsp;</p>
+
 - 3/27/2020
     - Added info about Zoom detail fields on events.<p>&nbsp;</p>
 
