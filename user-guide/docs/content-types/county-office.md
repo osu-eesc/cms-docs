@@ -37,7 +37,7 @@ Each county has several automatically generated pages:
     - What we do teaser: automatically generated list of focus areas entered by the county.
     - Featured content: content entered when you edit the county.
     - Social media: automatically generated list of social media links entered by the county.
-  - **What We Do**: lists the focus areas for the county (see below) as well as the programs that are tagged with the county.
+  - **What We Do**: lists the focus areas for the county (see [Focus Areas](focus-area.md)) as well as the programs that are tagged with the county.
   - **Events**: lists events entered by the county or local programs in the county. Events entered by other groups and tagged with the county are displayed in a separate list lower on the page.
   - **Faculty and Staff**: lists the users on the site who work in the county.
 
