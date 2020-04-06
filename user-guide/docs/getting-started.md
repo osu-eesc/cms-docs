@@ -48,6 +48,8 @@ Content teams are responsible for *entering educational content, including regio
 
 Content entered by Content Teams primarily displays on topic pages on the Extension website (e.g. the Dairy topic page). A single content team may enter content for multiple topics. Likewise, a single topic page may show content entered by multiple groups.
 
+> Extension catalog publications are already added to the Extension website by EESC so you don’t have to do this.
+
 ### Program Groups
 
 Program groups are responsible for *entering materials that visitors need to join or participate in their program (e.g. Master Woodland Managers)*.
@@ -64,7 +66,7 @@ Program teams will enter most of their content as “program resources”. Each 
 
 County office groups are responsible for *entering content about their office’s physical location and services provided, highlighting the activities going on at the office, and directing visitors to relevant educational and program content*. This also includes the combined stations.
 
-County office groups can create events and newsletters. They can also set up local focus areas on the Extension website. These serve as a link between the county and a topic or program that is of particular interest to visitors from that county. For example, a county on the coast could describe their work with coastal issues and link to educational content about marine wildlife. Combined stations may also link to the corresponding Agricultural Experiment Station research pages on the College of Agricultural Sciences website.
+County office groups can create events, announcements and newsletters. They can also set up local focus areas on the Extension website. These serve as a link between the county and a topic or program that is of particular interest to visitors from that county. For example, a county on the coast could describe their work with coastal issues and link to educational content about marine wildlife. Combined stations may also link to the corresponding Agricultural Experiment Station research pages on the College of Agricultural Sciences website.
 
 ### Topic Committees
 

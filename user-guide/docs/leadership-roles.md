@@ -2,7 +2,7 @@
 
 [Return to Roles and Responsibilities](../getting-started/#roles-and-responsibilities)
 
-## **Outreach &amp; Engagement Executive Team**
+## **Extension &amp; Engagement Executive Team**
 
 - Strategic alignment role of digital content and engagement strategy
 
@@ -10,7 +10,7 @@
     - Review and guide the digital content and engagement strategy plan to ensure alignment with organizational goals and resource allocations
 
 - Provide oversight for the implementation of the content management system and customer relationship management system
-    - Support the Digital Content and Engagement (DCE) Strategy Team and have decision authority for approving strategy recommendations and resource allocations
+    - Support the Digital Content and Engagement (Navigator) Strategy Team and have decision authority for approving strategy recommendations and resource allocations
 
 
 **OSU Extension Service Collaborative Members**
@@ -26,7 +26,7 @@
     - Repeat or revise communication based on feedback and other timely needs
 
 
-**Digital Content and Engagement (DCE) Strategy Team**
+**Digital Content and Engagement (Navigator) Strategy Team**
 
 - Strategic leader role for digital content and engagement
 

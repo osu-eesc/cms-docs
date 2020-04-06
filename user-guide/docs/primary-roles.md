@@ -18,7 +18,7 @@ The following information can be helpful in knowing the roles of the people invo
 - Strategic leader role for content areas and programmatic and regional goals
 
     - Oversight of and input into the overall Extension digital content and engagement strategy
-    - Annual meeting with the Digital Content and Engagement (DCE) Strategy Team to review program area content metrics and alignment of program content, audiences, goals, and strategy
+    - Annual meeting with the Digital Content and Engagement (Navigator) Strategy Team to review program area content metrics and alignment of program content, audiences, goals, and strategy
     - Communication between program area leaders, regional directors, and EESC as new needs are identified for content teams to create or modify educational content
 
 - Guide tactical execution of Extension&#39;s digital content and engagement strategy
@@ -31,7 +31,7 @@ The following information can be helpful in knowing the roles of the people invo
 ## Team Leader or Group Coordinator
 
 - Administrative role assignment for your content team, county office or program group to lead the creation and management of high-quality content for Oregonians and beyond
-    - With guidance from your program area leader, regional director, related group or team leader(s), and the Digital Content and Engagement (DCE) Strategy Team, lead a high functioning team to identify and create educational, programmatic, or location-based content (depending on your group)
+    - With guidance from your program area leader, regional director, related group or team leader(s), and the Digital Content and Engagement (Navigator) Strategy Team, lead a high functioning team to identify and create educational, programmatic, or location-based content (depending on your group)
     - Manage the content to ensure accessibility, ease of use, and high-quality display
     - Define and communicate roles of content team members (\*see appendix &quot;More Defined Content Team Member Roles&quot;) or division of group assignments
     - Review content metrics, analytics, and provide recommendations to team or group members as needed
@@ -39,8 +39,8 @@ The following information can be helpful in knowing the roles of the people invo
     - Learn the capabilities of available custom features to use to improve engagement
 
 - Serve as main point of contact for team or group members
-    - Provide a point of contact between faculty and staff who use the website, the program area leader, regional director, and DCE team, to identify and prioritize needs, determine task assignments, and work together to achieve timely solutions
-    - Consolidate feedback from audiences, volunteers, and/or faculty and staff who use the website on needed capabilities and improvements, and pass these to the program area leader, regional director, and DCE team
+    - Provide a point of contact between faculty and staff who use the website, the program area leader, regional director, and Navigator team, to identify and prioritize needs, determine task assignments, and work together to achieve timely solutions
+    - Consolidate feedback from audiences, volunteers, and/or faculty and staff who use the website on needed capabilities and improvements, and pass these to the program area leader, regional director, and Navigator team
     - Refer team or group members to the support and training guides for technical questions or concerns
     - Add or remove member names in the Drupal content management system group or designate a member manager as point of contact
     - Discuss standard practices with local programs group members (if applicable) and with team members related to content tagging and descriptions
@@ -84,7 +84,7 @@ The following information can be helpful in knowing the roles of the people invo
 **Topic page committee representative (decides what content to feature on a topic page)**
 
 - Collaborate with other content team representatives to decide what to feature on the topic landing page, so it stays balanced, fresh (seasonal), and interesting
-- Communicate with Digital Content and Engagement (DCE) Strategy Team, content team leaders, and knowledge experts to find out what the audiences are reading or searching for on the website to help inform the decisions
+- Communicate with Digital Content and Engagement (Navigator) Strategy Team, content team leaders, and knowledge experts to find out what the audiences are reading or searching for on the website to help inform the decisions
 - Group content under displayed headings as needed, which may require asking content teams or EESC to add specific keywords to their content to help sorting
 - Review the top menus on the topic landing page to ensure all content showing up relates to the topic; contact the uploader as needed to remove tags or duplicates
 - Search the website to find other content that should be tagged with the topic and contact content teams or EESC to add tags

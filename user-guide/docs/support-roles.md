@@ -16,7 +16,7 @@
 
     - Create structured, described, and atomic content that can be used in a digital content and engagement strategy
     - Utilize analytics, public marketing research, and other data to inform decisions
-    - Facilitate the Digital Content and Engagement (DCE) Strategy Team meetings and implement website, content management system, and content strategy activities
+    - Facilitate the Digital Content and Engagement (Navigator) Strategy Team meetings and implement website, content management system, and content strategy activities
 
 
 **Extension Computing Technology Unit (ECTU)**
@@ -29,7 +29,7 @@
 
 - Support the understanding and development of new technologies or processes across Extension
 
-    - Work closely with Digital Content and Engagement (DCE) Strategy Team and relay feedback/requests from faculty, staff, and external audiences
+    - Work closely with Digital Content and Engagement (Navigator) Strategy Team and relay feedback/requests from faculty, staff, and external audiences
     - Keep informed on updates and guidelines to accurately provide service
     - Develop, implement, and manage customer software and requirements
     - Ensure designed solutions meets needs of all parties involved
@@ -44,7 +44,7 @@
 
 -  Facilitate communication of coordinated efforts
 
-    - Work closely with the Digital Content and Engagement (DCE) Strategy Team to provide expertise in the development, validation, testing, usage, and optimization of business-critical technical systems and processes
+    - Work closely with the Digital Content and Engagement (Navigator) Strategy Team to provide expertise in the development, validation, testing, usage, and optimization of business-critical technical systems and processes
     - Resolve non-routine problems as they arise, serving as a resource to stakeholders and Salesforce Administrators
     - Manage Salesforce development, administration, and end user support for Extension (specific to the Extension specific programmer position)
 
@@ -56,7 +56,7 @@
     - Develop university-wide systems for use or interaction across campus, such as Localist event calendar or website governance tools
 
 - Facilitate communication of coordinated efforts
-    - Communicate with the Digital Content and Engagement (DCE) Strategy Team about service and support needs and OSU web system developments
+    - Communicate with the Digital Content and Engagement (Navigator) Strategy Team about service and support needs and OSU web system developments
 
 
 **The College of Ag Sciences (web team)**
@@ -68,5 +68,5 @@
 
 - Facilitate communication of coordinated efforts
 
-    - Support unit-level site coordinators and work closely with WAMS, Information Services, and Digital Content and Engagement (DCE) team to make sure the AgSci family of websites is interconnected with OSU and Extension sites
+    - Support unit-level site coordinators and work closely with WAMS, Information Services, and Digital Content and Engagement (Navigator) team to make sure the AgSci family of websites is interconnected with OSU and Extension sites
     - Coordinate shared systems, such as Digital Measures and related APIs
