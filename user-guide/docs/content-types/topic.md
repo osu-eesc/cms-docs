@@ -70,7 +70,7 @@ On the edit screen for a topic landing page, you will see the following fields:
 
       ![Featured Resources Screenshot](../images/featured-resources.png)
       ![Browse All Resources Button](../images/browse-all-resources.png)
-      
+
     - **Text with background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
     - **Two-Column Section**: allows you to display other sections in two columns instead of one (on large enough screens)
 
@@ -83,3 +83,14 @@ On the edit screen for a topic landing page, you will see the following fields:
 The black menu bar at the top of every page contains a list of all topics. There are also links to all top-level topics on the home page.
 
 We encourage counties to link to topics that are especially relevant to visitors from their county. This can be done via a “Button Link” or “Call to Action” section.
+
+## Topic Categories
+
+Members of a topic committee are able to set up "topic categories" for that topic. Categories act like a pre-defined set of keywords that can be selected from for content tagged with the topic. For example, the Beef Cattle topic page may have categories for "Reproduction", "Calves", "Nutrition", "Breeding and Genetics", and "Management". Having a standard set of categories can make it easier to organize content on a topic landing page, and there is a specific filter on the "Browse Resources" page for a topic for the category.
+
+To set up categories for a topic:
+
+  1. Log in to the site and go to your "My Groups" page. Click on the topic committee for the relevant topic.
+  2. This will take you to the list of categories that currently exist for the topic.
+  3. To create a new category, click the "Add Category" button at the top of the page.
+  4. To edit an existing category, click the "Edit" button next to the category.
