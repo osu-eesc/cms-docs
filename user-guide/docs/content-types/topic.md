@@ -82,7 +82,7 @@ On the edit screen for a topic landing page, you will see the following fields:
 
 The black menu bar at the top of every page contains a list of all topics. There are also links to all top-level topics on the home page.
 
-We encourage counties to link to topics that are especially relevant to visitors from their county. This can be done via a “Button Link” or “Call to Action” section.
+Counties can link to topics that are especially relevant to visitors from their county. This can be done via a required Topics field on [local focus areas](focus-area.md) (which appear under What We Do).
 
 ## Topic Categories
 
