@@ -179,7 +179,7 @@ Just above the "Save" button, you will see a dropdown of options for the save st
 
 ### Video Tagging
 
-#### Step 1: Tag imported videos in [the CMS](https://extension.oregonstate.edu/)
+  #### Step 1: Tag imported videos in [the CMS](https://extension.oregonstate.edu/)
 
   The login link is located on the right side of the black section at the bottom of every page. Once logged in, go to the [Video Dashboard](https://extension.oregonstate.edu/admin/video).
 
@@ -189,7 +189,7 @@ Just above the "Save" button, you will see a dropdown of options for the save st
 
   Fill out whatever topics, keywords, programs, and/or regions are appropriate and click “Save” at the bottom of the page. See the [Tagging Guidelines](content-requirements.md#tagging-guidelines) section of this guide for more information on tagging.
 
-#### Bulk Tagging
+ #### Bulk Tagging
 
   If you want to tag many videos at once:
 
