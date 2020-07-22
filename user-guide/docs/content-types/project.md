@@ -6,9 +6,11 @@ A **project** on the Extension website is an Extension activity with impact or o
 
 Projects differ from programs in that they do not involve ongoing participation with members of the public, such as volunteering or increasing levels of involvement. However, projects may seek public input through surveys, offer courses, or provide targeted information.
 
+A Project can consist of a single page, or have a sidebar of links to [Project Material](project-material.md) pages.
+
 ## Who Can Add Projects
 
-EESC will set up projects for content team groups upon request.
+EESC will set up projects for content team groups upon request. Once a project has been set up, members of the content team containing the Project can create [Project Materials](project-material.md) on their own.
 
 ## Instructions for Projects
 
