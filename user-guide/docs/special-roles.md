@@ -175,3 +175,38 @@ Just above the "Save" button, you will see a dropdown of options for the save st
   - **Copyedited and published**: This makes your changes immediately visible to the public without approval from the group. Use this only for small changes such as spelling or formatting fixes and adding (non-topic) tags.
   - **Copyedited pending approval**: This will trigger an email to the contact person for the group the content belongs to prompting them to approve the changes.
   - **Held for Review**: This will make the content unpublished and not visible to the public. Use it for content that is currently not in a state that is appropriate for the website and needs to be reviewed or replaced by a content team/program coordinator.
+
+
+
+## EESC Multimedia Team
+
+  EESC personnel on the Multimedia Team are are responsible for tagging videos imported from the Oregon State University Extension Service YouTube channel.
+
+### Video Tagging
+
+Tag imported videos in [the CMS](https://extension.oregonstate.edu/)
+
+The login link is located on the right side of the black section at the bottom of every page. Once logged in, go to the [Video Dashboard](https://extension.oregonstate.edu/admin/video).
+
+To tag a video, click the “Edit” link in the same row as it appears in the dashboard, then open the “Step 2: Tags” section of the form that comes up:
+
+  ![Tag Video Screenshot](images/tag-videos.png)
+
+Fill out whatever topics, keywords, programs, and/or regions are appropriate and click “Save” at the bottom of the page. See the [Tagging Guidelines](content-requirements.md#tagging-guidelines) section of this guide for more information on tagging.
+
+#### Bulk Tagging
+
+If you want to tag many videos at once:
+
+  1. Log in to the CMS and go to the [Video Dashboard](https://extension.oregonstate.edu/admin/video).
+  2. If necessary, search for a particular video by words contained in the title or short description text. You can also filter to see only video's that do or don’t already have certain tags filled out. To view just videos from the Extension Communications group, select "Extension Communications" then click the Apply button.
+  3. Click the check boxes next to the videos that you want to tag.
+  4. Select “Modify Tags” from the dropdown above the list of stories and click the “Apply to Selected Items” button.
+
+    ![Modify Tags Screenshot](images/modify-tags.png)
+
+  5. On the page that comes up, select the tag field that you would like to modify. Then, in the field that comes up, enter the tag that you would like to apply to the videos.
+  6. In the “Options” section
+    - Check the box if you want the tag you entered to be added alongside any existing tags the videos have. For example, if you enter the keyword “apples” and one of the stories you selected already has the keyword “pears,” this will cause that video to have *both* keywords “apples” and “pears.”
+    - Leave the box unchecked if you want the tag you entered to overwrite any existing tags the videos have. For example, if you enter the keyword “apples” and one of the videos you selected already has the keyword “pears,” this will cause that video to *only* have the keyword “apples.”
+  7. Click “Apply” at the bottom of the page.
