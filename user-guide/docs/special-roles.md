@@ -43,6 +43,8 @@ Set the user’s status in the “Employee” section to “**Former**” or “
     - Puts (retired) or (former) next to their titles when they are listed as authors on content, and
     - Removes the contact information from their profile.
 
+To prevent access to the site, remove the "Content Author" role from the user and remove them from any groups they are part of. Do not set the user to "Blocked", this is the equivalent of "unpublishing" a profile and will cause the page to show "Access Denied" to visitors.
+
 Don’t “delete” users because doing so removes any associations between them and the content they’ve authored and/or uploaded.
 
 ### Adding Users to Groups
