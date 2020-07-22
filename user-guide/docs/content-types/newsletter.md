@@ -71,7 +71,7 @@ Newsletter containers display automatically on topic and program pages based on 
 
 They can also be featured in page sections on topic landing pages, program pages, and county pages.
 
-Newsletter issues display in a list on a single page for their Newsletter container. Their order depends on the "Date Published or Revised" given to them, with the newest issue at the top.  
+The newest issue of the newsletter will display with a thumbnail on the page for the newsletter container. The next five newest issues will display in a text-only list below it. Older issues can be accessed by clicking the "Newsletter archive" button below this list. The order of these lists depends on the "Date Published or Revised" set for each issue, in the "Step 3: Author and Publishing Information" section of the edit screen.
 
 ### Displaying Newsletter Sign-Up Forms
 

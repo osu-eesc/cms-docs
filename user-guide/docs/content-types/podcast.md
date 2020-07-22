@@ -51,4 +51,4 @@ Podcast containers display automatically on topic and program pages based on the
 
 They can also be featured in page sections on topic landing pages, program pages, and county pages.
 
-Podcast episodes display in a list on a single page for their podcast container. Their order depends on the "Date Published or Revised" given to them, with the newest episode at the top.  
+The newest episode of the podcast will display with a thumbnail on the page for the podcast container. The next five newest episodes will display in a text-only list below it. Older episodes can be accessed by clicking the "Podcast archive" button below this list. The order of these lists depends on the "Date Published or Revised" set for each episode, in the "Step 4: Author and Publishing Information" section of the edit screen.
