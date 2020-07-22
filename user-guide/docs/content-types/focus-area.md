@@ -18,7 +18,6 @@ To create a Local Focus Area, go to your My Groups page and select the appropria
 
 On the edit screen for a focus area, you will see the following fields:
 
-  - **Display on county landing page**: three focus area teasers display on each county landing page. Ones that have this box checked show up first.
   - **How to display (required)**: you have three options:
     1. **Link to a local program**: this will allow you to select a local program (MG or 4-H). When visitors click on the focus area, they will go directly to the existing landing page for that local program.
     2. **Link to an existing focus area in another county**: if you would like to share a focus area with another county (e.g. for a regional focus area), select it here. When visitors click on the focus area, they will go directly to the existing focus area.
@@ -50,5 +49,4 @@ All focus areas entered by a county group will show up on an automatically-gener
 ![Focus Area Reorder Link Screenshot](../images/wwd-reorder.png)
 *Example of a how to Reorder Focus Areas*
 
-Five focus areas will display on the county landing page with a button to see the full list. You can control which focus areas show up here using the "Display on County Landing page" checkbox on the focus areas.
-![Local Focus Area What We Do](../images/wwd-display-checkbox.png)
+Five focus areas will display on the county landing page with a button to see the full list. These will be in the same order as the list on the full "What We Do" page.

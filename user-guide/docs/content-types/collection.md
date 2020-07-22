@@ -46,7 +46,7 @@ On the edit screen for a collection, you will see the following fields:
 
 Collections display just like articles, educational documents, and other pieces of educational content. They display on topic and program pages based on the tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen.
 
-  - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show at the bottom of the collection in a “Related Resources” section.
+  - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). A link to the topic page for the topic will display at the end of the collection. Other content tagged with the topic will show at the bottom of the collection in a “Related Resources” section.
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
   - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.
 

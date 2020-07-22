@@ -2,7 +2,7 @@
 
 [Return to Roles and Responsibilities](../getting-started/#roles-and-responsibilities)
 
-**Extension and Experiment Station Communications (EESC)**
+**Extension Communications**
 
 - Content and marketing facilitator role to create current and quality products
 

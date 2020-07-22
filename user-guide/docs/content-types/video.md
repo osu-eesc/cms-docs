@@ -30,6 +30,6 @@ On the edit screen for a video, you will see the following fields:
 
 The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the video displays.
 
-  - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). Other content tagged with the topic will show below the video in a “Related Resources” section.
+  - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). A link to the topic page for the topic will display below the video. Other content tagged with the topic will show below the video in a “Related Resources” section.
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](../content-types/subpage.md) section for more information.
   - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.

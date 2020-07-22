@@ -105,7 +105,7 @@ When you log in (or click on the “My Groups” menu link), you will see your �
 
 *My Groups Page example.*
 
-If you need to be part of a group that isn’t listed on your “My Groups” page, get in touch with the leader of that group. See [“Working with Other Content Authors”](managing-content.md#working-with-other-content-authors) for more information.
+If you need to be part of a group that isn’t listed on your “My Groups” page, get in touch with the leader of that group. See [“Working with Other Content Authors”](people.md) for more information.
 
 ### Group Content Page
 
@@ -158,29 +158,6 @@ You can **edit a link** by placing your cursor inside the link and clicking on t
 
 When you create links in the text editor, it is very important that you periodically **check that the links still work**. Broken links on a website hurt an organization’s credibility and might result in a penalty from search engines like Google, making content harder to find. We recommend using dynamically generated page sections, such as featured content or program tagged content lists, for linking to other content on the site when possible. These will automatically update when the content’s link changes and so will never break. See [Page Sections](using-site.md#page-sections) for more information.
 
-#### Image, Document, Audio, and Video Browsers
-
-For fields that allow you to upload an image or document or embed audio or a video, you will see a button that says “Select Image”, “Select Document”, “Select Audio”, or "Select Video" (i.e, when uploading an image, it will say “Select image”). Clicking this button will open a new window called the **image/document/audio/video browser** (depending on what you are uploading).
-
-![Image Browser Screenshot](images/image-browser.png)
-
-*Image browser.*
-
-The browser consists of two tabs:
-
-1. **Upload new**: This is where you can upload a new file. After selecting the file from your computer (or entering an audio or video embed URL), you will need to enter some additional information.
-    - **Image**: There are a number of fields you can fill out for an image.
-        - **Alternative text**: If there is text in the image, re-enter it here so that assistive technology and search engines can read it. See Captions and Alternative Text for more information.
-        - **Caption**: Enter any additional information about the image that is useful to visitors here (not in the Alternative text field). Keep in mind that this photo may be reused for other purposes in the future.
-        - **Photo credit and photo credit link**: See [Using Images](content-requirements.md#using-images) for more information.
-        - **Don’t allow reuse**: This prevents others from using the image in other places. Use this if there is limited permissions to use the image. If the photo can be reused, consider making the file name descriptive so it’s easier to search for in the future.
-    - **Document**: Provide a document name. This may be seen by the public, so use something that makes sense.
-    - **Audio**:
-        - **Name**: A name for the audio embed. This is not seen by the public.
-        - **Transcript**: A transcript for the audio. This is legally required for accessibility and also helps search engines find relevant content more effectively.
-    - **Video**: Provide a video name. This is not seen by the public.
-  2. **Reuse existing**: If you or someone else has already uploaded the file you want to use, you can reuse it without having to re-enter the information. Search by the filename of the existing item or the name it was given when originally uploaded. When you find it, click the checkbox next to it. Then click the “Select” button at the bottom of the window. Save the page for the selection to take effect.
-
 #### Content Browser
 
 For fields that allow you to reference an existing piece of content, you will see a button that says “Select Content.” Clicking this button will open a new window called the **content browser**.
@@ -189,7 +166,7 @@ For fields that allow you to reference an existing piece of content, you will se
 
 *Content browser.*
 
-You can search for existing content by title, content type, group, topic, and/or author. When you find the content you want to use, click the checkbox next to it. Then click the “Finish” button at the bottom of the window. Save the page for the selection to take effect.
+You can search for existing content by topic, region, seasonality, keyword, content type, group, and/or title. When you find the content you want to use, click the checkbox next to it. Then click the “Finish” button at the bottom of the window. Save the page for the selection to take effect.
 
 #### Page Sections
 
@@ -203,7 +180,7 @@ You add page sections using the buttons at the bottom of the edit screen.
 
 *Buttons to add page sections to a program page.*
 
-You can reorder them by dragging them up and down the page using the arrow controls.
+You can reorder them by dragging them up and down the page using the arrow controls. This is often easier if you first click the "Collapse All" button above the page sections.
 
 ![Page Section Arrows Screenshot](images/page-section-arrows.png)
 

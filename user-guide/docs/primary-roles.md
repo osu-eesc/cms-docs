@@ -19,7 +19,7 @@ The following information can be helpful in knowing the roles of the people invo
 
     - Oversight of and input into the overall Extension digital content and engagement strategy
     - Annual meeting with the Digital Content and Engagement (Navigator) Strategy Team to review program area content metrics and alignment of program content, audiences, goals, and strategy
-    - Communication between program area leaders, regional directors, and EESC as new needs are identified for content teams to create or modify educational content
+    - Communication between program area leaders, regional directors, and Extension Communications as new needs are identified for content teams to create or modify educational content
 
 - Guide tactical execution of Extension&#39;s digital content and engagement strategy
     - Manage and support content team leader(s), program group coordinators, and county office and combined station group coordinator(s)
@@ -85,9 +85,9 @@ The following information can be helpful in knowing the roles of the people invo
 
 - Collaborate with other content team representatives to decide what to feature on the topic landing page, so it stays balanced, fresh (seasonal), and interesting
 - Communicate with Digital Content and Engagement (Navigator) Strategy Team, content team leaders, and knowledge experts to find out what the audiences are reading or searching for on the website to help inform the decisions
-- Group content under displayed headings as needed, which may require asking content teams or EESC to add specific keywords to their content to help sorting
+- Group content under displayed headings as needed, which may require asking content teams or Extension Communications to add specific keywords to their content to help sorting
 - Review the top menus on the topic landing page to ensure all content showing up relates to the topic; contact the uploader as needed to remove tags or duplicates
-- Search the website to find other content that should be tagged with the topic and contact content teams or EESC to add tags
+- Search the website to find other content that should be tagged with the topic and contact content teams or Extension Communications to add tags
 - Share with their respective content teams about content that needs to be updated or created, which can be added to a content calendar for planning purposes
 - Collaboratively write and add descriptions about the OSU Extension&#39;s work on the topic and add images or related topics to fill out the design of the page
 

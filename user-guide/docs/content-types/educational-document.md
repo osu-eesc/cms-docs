@@ -12,7 +12,7 @@ In almost all cases, educational documents work better as articles. This makes t
 
 Educational documents are not appropriate for program forms, event information, driving directions, and other content that is not educational. Instead, these should usually be program resources, events, newsletters, or announcements.
 
-> **Quick Tip**: There are several options available for you to upload files. The best place depends on the audience the document is intended for, whether it will have new versions in the future, and whether it should be private to a certain group. See [File Management](../content-requirements.md#file-management) for more information.
+> **Quick Tip**: There are several options available for you to upload files. The best place depends on the audience the document is intended for, whether it will have new versions in the future, and whether it should be private to a certain group. See [File Management](../images-documents.md#file-management) for more information.
 
 **Catalog publications should not be added as educational documents.** These are added and maintained by EESC.
 

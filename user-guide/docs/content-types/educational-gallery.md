@@ -32,7 +32,7 @@ On the edit screen for an educational gallery, you will see the following fields
 
 The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the educational gallery displays.
 
-  - **Topic**: it will show in the “Browse All Resources” page for the specified topic(s)
+  - **Topic**: it will show in the “Browse All Resources” page for the specified topic(s). A link to the topic page for the topic will display at the end of the gallery. Other content tagged with the topic will show at the bottom of the gallery in a “Related Resources” section.
   - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
   - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.
 

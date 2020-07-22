@@ -1,5 +1,14 @@
 # List of changes to the web guide
 
+- 7/22/2020
+    - Update image/document/video/audio/content browser instructions to reflect updated filters.
+    - Replace instances of "EESC" with "Extension Communications" to reflect unit name change.
+    - Added instructions for modifying content tags.
+    - Moved image and document information on to own page.
+    - Added information about topic categories to tagging guidelines.
+    - Added info of what to do for audio transcript when transcript is not initially available.
+    - Added information about pronoun and language fields on user profiles.
+
 - 4/1/2020
     - Instructions for "event status" field.<p>&nbsp;</p>
 

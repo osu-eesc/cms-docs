@@ -17,7 +17,7 @@ An event that a visitor to the website could attend. This does NOT include offic
 
 Any user on the site. If an event applies to more than one county or program, coordinate and make sure to add it only once.
 
-> **Quick Tip**: If an event has been entered that needs to be edited or removed from your page, you should contact the uploader of the event. See [Working with Other Content Authors](../managing-content.md#working-with-other-content-authors).
+> **Quick Tip**: If an event has been entered that needs to be edited or removed from your page, you can [modify the tags](../managing-content.md#modifying-content-tags) of an event even if you are not a member of the group that entered it.
 
 ## Instructions for Events
 

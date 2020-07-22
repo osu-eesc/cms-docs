@@ -25,10 +25,13 @@ Then, click on the “Edit” tab at the top of your profile. The fields you are
 On the edit screen for your profile, you will see the following fields:
 
   - **Photo**: a photo of yourself.
-  - **External profile link**: If you have a profile on another college website, you can link to it here. Visitors who click on you will go there directly.
-  - **Biography**: information about yourself and your work, including links or lists of publications.
+  - **Tagline**: a sentence or two that displays alongside links to your profile. Use this to describe why website visitors would want to contact you, remembering that it may display in many different contexts on the website (in faculty/staff directories, on articles you author, etc.).
+  - **Pronouns**: Specify your pronouns. Read more about [why pronouns matter](https://lgbt.ucsf.edu/pronounsmatter).
+  - **Languages Spoken**: Selecting a language here will display a sentence in the language on your profile letting visitors know that you speak it (e.g. "Hablo español" for Spanish). If a language you speak is not included in the list of options, please [submit a support request](https://osueesc.atlassian.net/servicedesk/customer/portal/2) so it can be added.
   - **Expertise**: the topic(s) in which you work. Selecting a topic here will list you as an “Expert” on that topic page. Feel free to list expertises that are not in the topic list in your Biography field.
-  - **Website URL**: You can link to other websites with information about you, such as a LinkedIn account.
+  - **Biography**: information about yourself and your work, including links or lists of publications.
+  - **Links**: You can link to other websites with information about you, such as a LinkedIn account.
+  - **External profile link**: If you have a profile on another college website, you can link to it here. Visitors who click on you will go there directly.
 
 For changes to other information, please submit a [support request](https://osueesc.atlassian.net/servicedesk/customer/portal/2).
 

@@ -22,7 +22,7 @@ Suggested Focus for 2019
 - Strategic leader role for content areas and programmatic and regional goals
   - Oversight of and input into the overall Extension digital content and engagement strategy
   - Annual meeting with the Navigator Digital Strategy Team to review program area content metrics and alignment of program content, audiences, goals, and strategy
-  - Communication between program area leaders, regional directors, and EESC as new needs are identified for content teams to create or modify educational content
+  - Communication between program area leaders, regional directors, and Extension Communications as new needs are identified for content teams to create or modify educational content
 - Guide tactical execution of Extension's digital content and engagement strategy
   - Manage and support content team leader(s), program group coordinators, and county office and combined station group coordinator(s)
   - Represent program and regional area needs on a governance board
@@ -110,9 +110,9 @@ Suggested Focus for 2019
 
 - Collaborate with other content team representatives to decide what to feature on the topic landing page, so it stays balanced, fresh (seasonal), and interesting
 - Communicate with Navigator Digital Strategy Team, content team leaders, and knowledge experts to find out what the audiences are reading or searching for on the website to help inform the decisions
-- Group content under displayed headings as needed, which may require asking content teams or EESC to add specific keywords to their content to help sorting
+- Group content under displayed headings as needed, which may require asking content teams or Extension Communications to add specific keywords to their content to help sorting
 - Review the top menus on the topic landing page to ensure all content showing up relates to the topic and contact the uploader as needed to remove tags or duplicates
-- Search the website to find other content that should be tagged with the topic and contact content teams or EESC to add tags
+- Search the website to find other content that should be tagged with the topic and contact content teams or Extension Communications to add tags
 - Share with their respective content teams about content that needs to be updated or created, which can be added to a content calendar for planning purposes
 - Collaboratively write and add descriptions about the OSU Extension's work on the topic and add images or related topics to fill out the design of the page
 
@@ -180,7 +180,7 @@ Suggested Focus for 2019
 
 **Communications, Support, and Technology Units** **[this will be in a nested subpage]**
 
-**Extension and Experiment Station Communications (EESC)**
+**Extension Communications**
 
 - Content and marketing facilitator role to create current and quality products
   - Collaborate with OSU Extension faculty to develop multi-media tools, graphics, videos, and photos
@@ -196,7 +196,7 @@ Suggested Focus for 2019
 Suggested Focus for 2019
 
 -
-  - Create content calendar, social media campaign, web form, and email marketing plan within EESC to pilot and assess a digital content and engagement process
+  - Create content calendar, social media campaign, web form, and email marketing plan within Extension Communications to pilot and assess a digital content and engagement process
   - Provide support for post-publishing content maintenance, web functionality, and design set up
   - Work to implement specific activities and website priorities outlined in Phase 2 &amp; 3 of the Navigator team plan
 

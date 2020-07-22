@@ -37,7 +37,7 @@ On the edit screen for a Podcast Episode, you will see the following fields:
     </ol>
   </blockquote>
 
-  - **Audio (required)**: When you click "Select audio" a window will pop up where you can either upload an audio file or embed a link to an audio file hosted by an external service. In either case, you will need to give the audio file a name and include its transcript.
+  - **Audio (required)**: When you click "Select audio" a window will pop up where you can either upload an audio file or embed a link to an audio file hosted by an external service. In either case, you will need to give the audio file a name and include its transcript. If you cannot provide a transcript initially, include the contact information for the person to contact to request the transcript if needed.
   - **Episode intro**: text to display above the audio player for the episode
   - **Teaser settings (short description required)**: thumbnail and short description that display in the episode's teaser. If the thumbnail is empty, it will use the thumbnail from the corresponding podcast container. If this is unavailable, it will use a default image based on the topic.
   - **Tags (topic required)**: information about the episode to help with display, sorting, search, and promotion. See below for more details.

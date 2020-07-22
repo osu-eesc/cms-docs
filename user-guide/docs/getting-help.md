@@ -8,9 +8,9 @@ This table describes common questions and problems people have.
 
 **Issue** | **Solution** | **Link**
 ----------|--------------|---------
-I need to be added to a group | Contact the group leader to request membership | The [content teams page](http://blogs.oregonstate.edu/extensionweb/content-teams/) on the project blog contains the list of groups and their members and leaders.
+I need to be added to a group | Contact the group leader to request membership | The [Group contact dashboard](https://extension.oregonstate.edu/group/membership) has the list of groups and their members and leaders.
 Someone is missing from the faculty/staff list on a topic, program, or county page | Submit a web support request | [Support ticket form](https://osueesc.atlassian.net/servicedesk/customer/portal/2)
-Something is showing up on a topic, program, or county page that shouldn’t be there | Contact the person who uploaded the content and request that they remove the incorrect tag | You can find the uploader on the [Site Content Overview](https://extension.oregonstate.edu/content/overview) page.
+Something is showing up on a topic, program, or county page that shouldn’t be there | Either [modify the tags](managing-content.md#modifying-content-tags) of the content or contact the person who uploaded the content and request that they remove the incorrect tag | You can find the uploader on the [Site Content Overview](https://extension.oregonstate.edu/content/overview) page.
 The content I added isn’t showing up when I search for “X” | Add keywords to the content containing the phrase. It can also be added to the main text content area. You may need to wait a couple hours for this change to take effect. |
 My educational content doesn’t fit well into any of the existing topics | You can request a new topic for consideration by submitting a support request | [Support ticket form](https://osueesc.atlassian.net/servicedesk/customer/portal/2)
 I need my content to show up on this page | See [Displaying and Organizing Content on Other Pages](managing-content.md#displaying-and-organizing-content-on-other-pages) |

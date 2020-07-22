@@ -22,7 +22,7 @@ There are several options for content that doesn't go on the Extension website. 
 **Box** | Documents for smaller groups; documents that need to be password protected | | Members of the public don’t need an ONID to access files in Box. You can specify any password you like for them to use or none at all.
 **Webforms (Qualtrics, Google Forms)** | Forms and surveys that collect non-sensitive data | Collecting sensitive data; large event management or online class enrollment | Consider partnering with PACE for larger registration needs.
 **OSU WordPress Blog** | Content that isn’t for a broad number of external visitors | Anything that should be included in the digital strategy going forward; content for a general external audience |
-**Scholars Archive** | Historical documents and research | | EESC is responsible for archiving Extension catalog publications.
+**Scholars Archive** | Historical documents and research | | Extension Communications is responsible for archiving Extension catalog publications.
 **Library Archive** | Websites that are historical (no longer maintained) | |
 
 ## Your Groups
@@ -48,7 +48,7 @@ Content teams are responsible for *entering educational content, including regio
 
 Content entered by Content Teams primarily displays on topic pages on the Extension website (e.g. the Dairy topic page). A single content team may enter content for multiple topics. Likewise, a single topic page may show content entered by multiple groups.
 
-> Extension catalog publications are already added to the Extension website by EESC so you don’t have to do this.
+> Extension catalog publications are already added to the Extension website by Extension Communications so you don’t have to do this.
 
 ### Program Groups
 

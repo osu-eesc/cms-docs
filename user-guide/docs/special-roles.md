@@ -38,10 +38,7 @@ To edit an existing user, click the “Edit” button next to the name of that u
 
 ### Removing Users
 
-You can disable an account by doing the following:
-
-  1. Set the user’s status in the “User” section to “**Blocked**.” This prevents them from logging into the site.
-  2. Set the user’s status in the “Employee” section to “**Former**” or “**Retired**” as appropriate. Doing this:
+Set the user’s status in the “Employee” section to “**Former**” or “**Retired**” as appropriate. Doing this:
     - Removes them from all directories,
     - Puts (retired) or (former) next to their titles when they are listed as authors on content, and
     - Removes the contact information from their profile.
@@ -50,11 +47,11 @@ Don’t “delete” users because doing so removes any associations between the
 
 ### Adding Users to Groups
 
-Member managers can add users to their own groups, but certain administrators can add users to any group. To do this, click on the “Groups” item in the administration bar. Then find the group you need in the list and click the “Members” button next to it. This will take you to a list of all members in the group. There is a button for adding new members at the top of this page. See [Working with other content authors](managing-content.md#working-with-other-content-authors) earlier in this guide for more information.
+Member managers can add users to their own groups, but certain administrators can add users to any group. To do this, click on the “Groups” item in the administration bar. Then find the group you need in the list and click the “Members” button next to it. This will take you to a list of all members in the group. There is a button for adding new members at the top of this page. See [Working with other content authors](people.md) earlier in this guide for more information.
 
 ## Featured Ask an Expert Questions
 
-Certain EESC staff are responsible for periodically entering “Featured Questions” that get sent in through Ask an Expert. To get permission to do this, you need to be a member of a group with the special role “AAE Admin.” Then you will have the ability to add Featured Questions through that group.
+Certain Extension Communications staff are responsible for periodically entering “Featured Questions” that get sent in through Ask an Expert. To get permission to do this, you need to be a member of a group with the special role “AAE Admin.” Then you will have the ability to add Featured Questions through that group.
 
 ### Instructions for Featured Questions
 
@@ -62,25 +59,33 @@ On the edit screen for a Featured Question, you will see the following fields:
 
   - **Question**
   - **Answer**
-  - **Related Resources**: Link to other content on the site related to the question
+  - **Show Pesticide Disclaimer**: if the answer contains information about pesticides, check the appropriate box to display the standard pesticide disclaimer.
   - **Answer Photo**: Image that will show on the full question page
-  - **Thumbnail**: Image that will show in the teaser
-  - **Tags**: information about the question to help with display, sorting, search, and promotion. See below for more details.
-  - **Teaser settings**: thumbnail and short description that display in the question's teaser. If the thumbnail is empty, it will use the first image in the "images" field. If the "images" field is empty, it will use a default image based on the topic.
-  - **Author and Publishing Information**: Information about the content for future maintenance
+  - **Related Resources**: Link to other content on the site related to the question
+  - **Tags (topic required)**: information about the question to help with display, sorting, search, and promotion. See below for more details.
+  - **Teaser settings**: here, you can upload a thumbnail that will display in the question's teaser. If the thumbnail is empty, it will use the first image in the "answer photo" field. If that field is empty, it will use a default image based on the topic. There are also a number of description fields that are used for various purposes:
+      - **Summary/Description**: This text is displayed in the question's teaser. If it is empty, the teaser will use the first couple sentences of the question itself.
+      - **Medium Description**: This text is meant for use when the content is shared on Facebook or other platforms where text length is limited.
+      - **Short Description/Deck**: This text is meant for use when the content is shared on Twitter or other platforms where text length is very limited. This text is limited to 280 characters.
+  - **Author and Publishing Information**: information about the content for future maintenance.
+    - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
+    - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
 ### How and Where Featured Questions Display
 
-The tags in the “Topics, Keywords, Programs, and Regions” section of the edit screen determine where the question displays.
+All featured Ask and Expert questions are listed on the [Featured Questions page](https://extension.oregonstate.edu/ask-expert/featured).
 
-  - **Topic**: Shows in the “Browse All Resources” page for the specified topic(s).
-  - **Program**: If the specified participant-based program has added a “Program Tagged Content List” section to one of its pages, it will show up there.
+The tags in the “Tags” section of the edit screen determine where else the question displays.
 
-Counties and Programs can feature questions in page sections (for example, a "Featured Content" section).
+  - **Topic**: It will show in the “Browse All Resources” page for the specified topic(s). A link to the topic page will display at the bottom of the question. Other content tagged with the topic will show at the bottom of the question in a “Related Resources” section.
+  - **Program**: If the specified program has added a “Program Tagged Content List” section to one of its pages, it will show up there. See the [Subpage](#subpage) section for more information.
+  - The other tags available to fill in are used for internal marketing purposes and/or populating the filters visitors use in search results or on topic pages.
 
-## EESC News and Public Issues Team
+Counties and Programs can feature questions on their pages by selecting them in a page section (for example, a "featured content" section).
 
-EESC personnel on the News and Public Issues Team are responsible for managing news and gardening stories on the Extension website.
+## Extension Communications News and Public Issues Team
+
+Extension Communications personnel on the News and Public Issues Team are responsible for managing news and gardening stories on the Extension website.
 
 ### New Stories
 
@@ -133,9 +138,9 @@ If you want to tag many stories at once:
     - Leave the box unchecked if you want the tag you entered to overwrite any existing tags the stories have. For example, if you enter the keyword “apples” and one of the stories you selected already has the keyword “pears,” this will cause that story to *only* have the keyword “apples.”
   7. Click “Apply” at the bottom of the page.
 
-## EESC Pubs Team
+## Extension Communications Pubs Team
 
-To copyedit content in the Extension website, you need to have the "Content Editor" role. All members of the EESC pubs team should have this role.
+To copyedit content in the Extension website, you need to have the "Content Editor" role. All members of the Extension Communications pubs team should have this role.
 
 When you log in to the site, you will be taken to a [dashboard that lists all content that has been assigned to you to copyedit](https://extension.oregonstate.edu/admin/content/copyedit). There are also tabs at the top of the page that show you lists of content has been copyedited and is pending approval as well as all content that hasn't been assigned to a copyeditor.
 
