@@ -14,8 +14,8 @@ To create an Online Resource, go to your My Groups page and select the appropria
 
 On the edit screen of an online resource, you will see the following fields:
 
-  - **Website URL (required)**: the link to the resource
-  - **Short Description (required)**: a description of the resource
+  - **Link URL (required)**: the link to the resource
+  - **Short description (required)**: a description of the resource
   - **Thumbnail**: an image to go with the resource. If empty, it will use a default image based on the tagged topic.
   - **Tags (topic required)**: information about the resource to help with display, sorting, search, and promotion. See below for more details.
   - **Author and Publishing Information**: information about the content for future maintenance

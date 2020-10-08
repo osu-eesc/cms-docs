@@ -25,8 +25,9 @@ These have been set up for you. No one can add or delete them.
 The edit screen for a program has three sections:
 
   - **Landing Page**: This is where you control the content on the program’s landing page. It acts like a subpage. See the [Subpage](../content-types/subpage.md) section of this chapter for more information.
-  - **Other Content**: You can add additional links to the sidebar on program pages. These will show up on every page associated with the program. You can also edit the introductory text for certain automatically generated program pages.
-  - **Program Info**: This is where you can edit the description, thumbnail image (photo or square graphic companion logo that has been approved by OSU), tags, location, and contact information for the program.
+  - **Contact info and other Content**: This is where you can edit the location and contact information for the program. You can also edit the introductory text for certain automatically generated program pages.
+  - **Tags**: This is where you can edit the tags for the program.
+  - **Teaser settings**: This is where you can edit the description, thumbnail image (photo or square graphic companion logo that has been approved by OSU) for the program.
 
 > **Quick Tip**: Members of program groups can feature educational content entered by Content Teams on their pages. See: [Organizing and Displaying Content on Other Pages](../managing-content.md#displaying-and-organizing-content-on-other-pages).
 

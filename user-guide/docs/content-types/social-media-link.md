@@ -14,11 +14,11 @@ To create a Social Media Link, go to your My Groups page and select the appropri
 
 On the edit screen of a Social Media Link, you will see the following fields:
 
-  - **Account Name (required)**: the name of the account being linked to
-  - **Account Type (required)**: the platform of the account
+  - **Account name (required)**: the name of the account being linked to
+  - **Account type (required)**: the platform of the account
   - **Account URL (required)**: the link to the account
   - **Description**: a short description of the account. Currently, this is used for internal purposes only.
-  - **Show on Focus Areas**: If the Social Media link is added through a County group, you can specify one or more focus areas for it to display on.
+  - **Show on focus areas**: If the Social Media link is added through a County group, you can specify one or more focus areas for it to display on.
 
 ## How and Where Social Media Links Display
 

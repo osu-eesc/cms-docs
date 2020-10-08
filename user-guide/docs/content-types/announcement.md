@@ -30,15 +30,15 @@ To create an Announcement, go to your My Groups page and select the appropriate 
 On the edit screen for an announcement, you will see the following fields:
 
   - **Display on county/program landing page**: Check this box to force the announcement to show on the landing page for the county or program it is entered through. By default, if none have this box checked, the newest announcement will display on the landing page.
-  - **Display Dates (required)**: dates during which the announcement should be visible. The announcement will display during the start and end date specified. For example, if you want an announcement to display on January 1, 2, and 3, you would select the dates January 1–January 3.
-  - **Emergency Alert**: Checking this box will make the announcement appear in a large red box at the top of every page for the county or program it was added through.
+  - **Display dates (required)**: dates during which the announcement should be visible. The announcement will display during the start and end date specified. For example, if you want an announcement to display on January 1, 2, and 3, you would select the dates January 1–January 3.
+  - **Emergency alert**: Checking this box will make the announcement appear in a large red box at the top of every page for the county or program it was added through.
   - **Content (required)**: the full content of the announcement.
-  - **Related Content**: If the announcement is related to another piece of content on the site, for example, an event that is occuring soon or a new publication that was released, select the content here to create a link to it on the announcement page.
+  - **Related content**: If the announcement is related to another piece of content on the site, for example, an event that is occuring soon or a new publication that was released, select the content here to create a link to it on the announcement page.
   - **Tags**
-    - **Additional Counties and Additional Programs**: other counties and programs where the announcement should show. You do not need to include the county and program you are using to add the announcement.
-    - **Announcement Topic**: specifies on which topic page(s) the announcement should show.
-  - **Teaser Settings**
-    - **Short Description**: a short summary of the announcement. This will show in “teasers” followed by a “Read more…” link to the full announcement content.
+    - **Additional counties and Additional programs**: other counties and programs where the announcement should show.
+    - **Announcement topic**: specifies on which topic page(s) the announcement should show.
+  - **Teaser settings**
+    - **Short description**: a short summary of the announcement. This will show in “teasers” followed by a “Read more…” link to the full announcement content.
 
 ## How and Where Announcements Display
 

@@ -5,7 +5,7 @@
 A “topic page” actually consists of several pages, which are listed in a menu across the top of the landing page:
 
   - **Landing Page (“home” for the topic)**: the first page visitors see when they click on a topic. Here is a list of what this page itself consists of (items marked with a “\*” are customizable by topic committees):
-    - **Hero image\***: large image across the top of the page
+    - **Banner image\***: large image across the top of the page
     - **Short description\***: one or two sentences about the topic and the work Extension does relating to it
     - **Resource lists\***: can be configured as needed
     - **About section\***: more in-depth information about the topic and Extension’s work, optionally with a large background image
@@ -47,7 +47,7 @@ The educational content that shows on topic pages is entered by content teams. A
 
 On the edit screen for a topic landing page, you will see the following fields:
 
-  - **Hero image**: the large image across the top of the page. Please use an image that is at least 2000px wide and 325px tall. When uploading an image, please be sure to set the “**focal point**” so it will display properly on all screen sizes.
+  - **Banner image**: the large image across the top of the page. Please use an image that is at least 2000px wide and 325px tall. When uploading an image, please be sure to set the “**focal point**” so it will display properly on all screen sizes.
 
     ![Hero Image Screenshot](../images/hero-image.png)
 
@@ -55,16 +55,8 @@ On the edit screen for a topic landing page, you will see the following fields:
 
     ![Description Screenshot](../images/description.png)
 
-  - **Related Topics**: creates links on the topic landing page to other topics.
-
-    ![Related Topics Screenshot](../images/related-topics.png)
-
-  - **About Section**: Click the “Add Text with Background” button to enter a longer description of the topic and an image to use as a background. Please use an image at least 2000px wide and tall enough to be a backdrop to the text you write. Remember to set the focal point when uploading it.
-
-    ![About Section Screenshot](../images/about-section.png)
-
   - **Landing page sections**: You can add two different types of sections to the page:
-    - **Call to Action**: a link to another page (in or outside of the Extension site) that includes a description and image
+    - **Call to action**: a link to another page (in or outside of the Extension site) that includes a description and image
     - **Custom topic section**: a section title (e.g., “Featured Resources”), several pieces of manually selected content, and a manually entered link to see more content. A good option here is to use a link to the topic’s “Browse Resources” page with one or more filters already applied. Examples may be specific subtopics such as “Nutrients” or audiences such as “Coastal Region.” More than one Custom topic section can be added to highlight frequently looked for categories.
     - **Latest topic content**: the newest three pieces of content tagged with the topic. It can be narrowed by content type to, for example, show only the newest three videos or Extension Catalog publications. More than one of these sections can be added.
 
@@ -72,7 +64,15 @@ On the edit screen for a topic landing page, you will see the following fields:
       ![Browse All Resources Button](../images/browse-all-resources.png)
 
     - **Text with background**: a text section with a background image that stretches all the way across the page. This image should be at least 2000px wide.
-    - **Two-Column Section**: allows you to display other sections in two columns instead of one (on large enough screens)
+    - **Two-column section**: allows you to display other sections in two columns instead of one (on large enough screens)
+
+  - **About section**: Click the “Add Text with Background” button to enter a longer description of the topic and an image to use as a background. Please use an image at least 2000px wide and tall enough to be a backdrop to the text you write. Remember to set the focal point when uploading it.
+
+    ![About Section Screenshot](../images/about-section.png)
+
+  - **Related topics**: creates links on the topic landing page to other topics.
+
+    ![Related Topics Screenshot](../images/related-topics.png)
 
   - **Featured experts**: Enter the ONID usernames (not full names) of the people to show in the “Meet Our Experts” section. If none are selected, the first four people in alphabetical order with their “Expertise” set to the topic will show up.
 

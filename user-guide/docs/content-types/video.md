@@ -17,10 +17,10 @@ To create a Video, go to your My Groups page and select a *Content Team* group. 
 On the edit screen for a video, you will see the following fields:
 
   - **Video (required)**: You can embed a video from [YouTube](https://www.youtube.com/), [Vimeo](https://vimeo.com/), or [OSU MediaSpace](https://media.oregonstate.edu/).
-  - **Supplemental text**: additional text to show on the full video page.
+  - **Description/Supplemental text (required)**: additional text to show on the full video page.
   - **Tags (topic required)**: information about the video to help with display, sorting, search, and promotion. See below for more details.
   - **Teaser settings (short description required)**: thumbnail and short description that display in the video's teaser. If the thumbnail is empty, it will use a default image based on the topic.
-  - **Author and Publishing Information**: information about the content for future maintenance.
+  - **Author and publishing information**: information about the content for future maintenance.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 

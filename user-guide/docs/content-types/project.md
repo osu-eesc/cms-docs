@@ -16,7 +16,7 @@ EESC will set up projects for content team groups upon request. Once a project h
 
 The edit screen for a project has the following fields:
 
-  - **Website URL**: If your project already has it’s content on an external website, you can enter the link here. Visitors will be taken directly to that site when they click on the Project.
+  - **Banner image**: large image that displays at the top of the page.
   - **Content**: the content that shows on the Project’s page (see [Page Sections](../using-site.md#page-sections) for more information). The following types of sections are available to add to the page:
     - **Button Link**: a link styled as an orange button
     - **Call to Action**: text, image, and link to encourage visitors to the page to take an action
@@ -39,7 +39,7 @@ The edit screen for a project has the following fields:
     - **Video**: a video hosted on YouTube, Vimeo, or OSU Media Space
 
   - **Tags**: includes topic, program area, program, and counties
-  - **Teaser settings (short description required)**: thumbnail and short description that display in the project's teaser. If the thumbnail is empty, it will use a default image based on the topic.
+  - **Teaser settings (short description required)**: thumbnail and short description that display in the project's teaser. If the thumbnail is empty, it will use a default image based on the topic. If "project external website URL" is specified, links to the project will direct visitors to the given link instead of the project's page on the Extension website.
 
 ## Where and How Projects Display
 

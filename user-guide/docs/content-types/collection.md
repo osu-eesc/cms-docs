@@ -23,22 +23,20 @@ To create a Collection, go to your My Groups page and select the appropriate *Co
 
 On the edit screen for a collection, you will see the following fields:
 
-  - **Introduction**: text that will appear before the collection items
+  - **Introduction/Description (required)**: text that will appear before the collection items
   - **Items (required)**: the pieces of content in the collection
     - To add a piece of content, click “Add Collection Item.” Then click the “Select” button to open the content browser and select the piece of content.
 
       ![Add Collection Item Screenshot](../images/collection-item.png)
 
-    > **Troubleshooting Tip**: The content browser allows you to select multiple pieces of content for a single collection item. However, we recommend selecting only one at a time. This makes it easier to organize content: collection items can be reordered, but pieces of content in a single collection item will always be in the order they were selected.
-
     - To organize content into sections with titles, click “Add Collection Section.” This will provide you with fields where you can specify the title of the section and the pieces of content that appear in that section.
 
     - "Collection Sections" act like page sections, so you can use the "Settings" tab above to specify the list style or anchor id for individual sections. See [Page Sections](../using-site.md#page-sections) for more information.
 
-  - **For More Information**: text that will appear after the collection items
+  - **For more information**: text that will appear after the collection items
   - **Tags (topic required)**: information about the collection to help with display, sorting, search, and promotion. See below for more details.
-  - **Teaser settings (short description required)**: thumbnail and short description that display in the collection's teaser. If the thumbnail is empty, it will use a default image based on the topic.
-  - **Author and Publishing Information**: information about the content for future maintenance
+  - **Teaser settings**: thumbnail and short description that display in the collection's teaser. If the thumbnail is empty, it will use a default image based on the topic.
+  - **Author and publishing information**: information about the content for future maintenance
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 

@@ -14,15 +14,9 @@ Content that is visible to public visitors is **published** and content that is 
 
 Note that when you are viewing a piece of content that is unpublished (not visible to the public) it will have a pink background.
 
-At the bottom of any edit screen, you will see one of two setups, depending on which type of content you are editing:
+At the bottom of any edit screen, you can use the dropdown to select “draft,” “in review.” or “archived.”
 
 ![Published State Dropdown Screenshot](images/published-state-dropdown.png)
-
-If you see this setup at the bottom of the page, you can use the dropdown to select “draft,” “in review.” or “archived.” This should be the setup you see most often.
-
-![Publishing State Checkbox Screenshot](images/publishing-status-checkbox.png)
-
-In some cases (like when you’re adding social media links), you might see this setup instead. In this case, uncheck the “published” checkbox if you want to unpublish the content.
 
 ### New Drafts of Published Content
 

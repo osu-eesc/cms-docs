@@ -18,10 +18,6 @@ Before you enter content, you should evaluate whether that content is appropriat
     - **Right people doing right things**: written, reviewed, entered, and maintained by the appropriate people and groups
   - **Not duplicate** content that already exists online
     - Before entering content into the Extension website, please use the [Site Content Overview](https://extension.oregonstate.edu/content/overview) page to make sure it doesn’t already exist.
-    - When entering content, you can see a list of existing content with similar titles in the right-hand section of the screen:
-
-      ![Duplicate Content Screenshot](images/anti-duplicates.png)
-
     - If the content you want to enter already exists, contact the person who uploaded it and ask them to make the necessary edits. [See Working with Other Content Authors](people.md). If the content is on another website, consider linking to it instead.
 
 ## Writing for the Web

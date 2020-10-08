@@ -31,11 +31,12 @@ On the edit screen for an event, you will see the following fields:
       - **Cancelled**: If this is selected, the title of the event will be prepended with the word "Cancelled". The location and registration information will be hidden from the event page and replaced with a notice saying "This event has been cancelled". Events marked as cancelled will not display on the Extension home page.
       - **Postponed**: If this is selected, the title of the event will be prepended with the word "Postponed". The date and time information will be hidden from the event page and replaced with a message saying "This event has been postponed. Check back for details." Events marked as postponed will not display on the Extension home page; however, they will stay on county/program/topic event lists indefinitely, regardless of the date they were originally scheduled for. So when plans for the event are finalized, be sure to update this field as appropriate.
       - **Rescheduled**: If this is selected, the title of the event will be prepended with the word "Rescheduled". No other changes will occur and all information will be visible on the event page.
-  - **All Day Event**: indicates that an event takes place all day. If checked, you will not need to fill in the time fields for the event date.
+  - **Event type (required)**: the category for the event. This is used for internal reporting as well as for export to OSU's calendar system, Localist.
+  - **All-day event**: indicates that an event takes place all day. If checked, you will not need to fill in the time fields for the event date.
 
   ![All Day Event Screenshot](../images/all-day-event.png)
 
-  - **Event Date (required)**: the date(s) when the event occurs
+  - **Event date (required)**: the date(s) when the event occurs
   - **Event occurs multiple times in the specified period**: check this box if you are entering an ongoing event such as a plant clinic or hotline that has regular hours over the date range you specified. This will reveal a field where you can enter those hours more specifically.
 
     ![Event Occurs Multiple Times Screenshot](../images/event-multiple-times.png)
@@ -59,10 +60,10 @@ On the edit screen for an event, you will see the following fields:
     </blockquote>
 
   - **Zoom details**: If you scheduled this event in Zoom, enter the link, phone number(s), and meeting ID provided here (these do not need to be entered in the event description as well).
-  - **Event Cost**: how much it costs to attend the event
-  - **Registration Link**: a link to register for the event online. If you enter the link here, you don’t need to enter it in the description.
-  - **Registration Closed**: If you check this box, the registration button will be replaced with text that says "Registration Closed" on the event page and in teasers for the event in event lists.
-  - **Event Type (required)**: the category for the event. This is used for internal reporting as well as for export to OSU's calendar system, Localist.
+  - **Event cost**: how much it costs to attend the event
+  - **Registration link**: a link to register for the event online. If you enter the link here, you don’t need to enter it in the description.
+  - **Registration closed**: If you check this box, the registration button will be replaced with text that says "Registration Closed" on the event page and in teasers for the event in event lists.
+  - **Contact name, email, and phone (required)**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls Extension events
   - **Description (required)**: the full event description. You do not need to include information, such as date, location, or cost, that is already included in other fields.
   - **More information or promotional flyer**: uploaded flyer or registration form for the event
 
@@ -71,11 +72,12 @@ On the edit screen for an event, you will see the following fields:
     - Important Note: It is important that any information in a flyer is also included in another field on the event (e.g., in the full description field). This is due to the OSU Calendar import process as well as Accessibility standards. See [Accessibility](../content-requirements.md#accessibility).
 
   - **Related content**: link to other content on the site related to the event. May include background educational content, other events in a series, or a program resource containing the registration form.
-  - **Contact name, email, and phone (required)**: person to contact with questions about the event. This information is required by OSU’s calendar system, which pulls Extension events
+  - **Thumbnail**: image will display on the event page as well as with certain styles of teaser for the event.
   - **Tags**
+    - **Category** (programs only): if you are entering an event through a Program group, you can tag it with one of the Program Resource Categories configured for that group (see the Program Resources section for more information). This can be used to narrow event lists on program subpages to only show events in a specific category.
     - **Topics**: specifies which topic pages the event should show on. Event lists on focus areas set up by counties can also be narrowed to show only events tagged with certain topics.
-    - **Additional counties or programs**: other counties and programs where the event should show. You don’t need to include the county or program you are using to enter the event.
-    - **Category**: if you are entering an event through a Program group, you can tag it with one of the Program Resource Categories configured for that group (see the Program Resources section for more information). This can be used to narrow event lists on program subpages to only show events in a specific category.
+    - **Additional counties or programs**: other counties and programs where the event should show.
+    - **Project**: project pages where the event should show.
     - **Additional calendar**: used to export events to other calendars and create narrowed-down event lists on program and county pages
   - **Teaser settings**: thumbnail and short description that display in the event's teaser. If the thumbnail is empty, it will use a default image based on the topic, county, or program.
 

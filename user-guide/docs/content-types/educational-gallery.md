@@ -16,15 +16,14 @@ To create an Educational Gallery, go to your My Groups page and select the appro
 
 On the edit screen for an educational gallery, you will see the following fields:
 
-  - **Introduction (required)**: text that shows above the images in the gallery to provide context. It will also show in the content's teaser if a short description isn't provided.
-  - **Items (required)**: the items in the gallery
+  - **Introduction/Description (required)**: text that shows above the images in the gallery to provide context. It will also show in the content's teaser if a short description isn't provided.
+  - **Gallery items (required)**: the items in the gallery
     - To add a piece of content, click “Add Educational Gallery Item.” You can then enter a name and description for the item and upload the photos.
     - To organize content into sections with titles, click “Add Educational Gallery Section.” This will provide you with fields where you can specify the title of the section and add items to that section.
 
-  - **Short Description (required)**: a summary of the gallery’s contents that will show in the teaser
-  - **Thumbnail**: the image that will show in the teaser. If this is empty, it will use a default image based on the topic tag.
   - **Tags (topic required)**: information about the content to help with display, sorting, search, and promotion. See below for more details.
-  - **Author and Publishing Information**: information about the content for future maintenance.
+  - **Teaser settings**: thumbnail and short description that display in the gallery's teaser. If the thumbnail is empty, it will use a default image based on the topic.
+  - **Author and publishing information**: information about the content for future maintenance.
     - If the content’s author is an OSU Extension employee, start typing their name into the first “Author(s)” field and select them when they come up. This will associate the content with their profile on the site.
     - If the content’s author is not an OSU Extension employee (including OSU employees who don’t have an Extension appointment), enter their information in the “Non-Extension Author(s)” fields.
 
