@@ -35,7 +35,7 @@ On the edit screen for your profile, you will see the following fields:
   - **Links**: You can link to other websites with information about you, such as a LinkedIn account.
   - **Biography**: information about yourself and your work, including links or lists of publications.
   - **External profile link**: If you have a profile on another college website, you can link to it here. Visitors who click on you will go there directly.
-  - **Display email on profile**: Un-check if you don't want your email address displayed with your profile.
+  - **Display email on profile**: Uncheck if you don't want your email address displayed with your profile. The contact form will remain available on your profile page for people to email you.
 
 For changes to other information, please submit a [support request](https://osueesc.atlassian.net/servicedesk/customer/portal/2).
 
