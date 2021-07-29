@@ -24,6 +24,8 @@ Then, click on the “Edit” tab at the top of your profile. The fields you are
 
 On the edit screen for your profile, you will see the following fields:
 
+
+  - **Appointment scheduling link**: Provide a link visitors can use to schedule an appointment with you (e.g. MS Bookings) if available. An orange "Schedule an appointment with me" button will display next to your phone number and other contact info.
   - **Photo**: a photo of yourself.
   - **Tagline**: a sentence or two that displays alongside links to your profile. Use this to describe why website visitors would want to contact you, remembering that it may display in many different contexts on the website (in faculty/staff directories, on articles you author, etc.).
   - **Pronouns**: Specify your pronouns. Read more about [why pronouns matter](https://lgbt.ucsf.edu/pronounsmatter).
@@ -32,6 +34,7 @@ On the edit screen for your profile, you will see the following fields:
   - **Links**: You can link to other websites with information about you, such as a LinkedIn account.
   - **Biography**: information about yourself and your work, including links or lists of publications.
   - **External profile link**: If you have a profile on another college website, you can link to it here. Visitors who click on you will go there directly.
+  - **Display email on profile**: Un-check if you don't want your email address displayed with your profile.
 
 For changes to other information, please submit a [support request](https://osueesc.atlassian.net/servicedesk/customer/portal/2).
 
