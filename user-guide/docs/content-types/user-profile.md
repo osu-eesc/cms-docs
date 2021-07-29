@@ -20,7 +20,8 @@ To get to the edit screen for your profile, click on the “My Account” link i
 
 Then, click on the “Edit” tab at the top of your profile. The fields you are able to edit are in the “Profile” tab on the left-hand side of the edit screen.
 
-![User Edit Screenshot](../images/user-edit-screen.png)
+![User Edit Screenshot](../images/user-edit-screen-top.png)
+![User Edit Screenshot](../images/user-edit-screen-bottom.png)
 
 On the edit screen for your profile, you will see the following fields:
 
