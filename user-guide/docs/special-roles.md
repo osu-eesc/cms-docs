@@ -57,7 +57,7 @@ To edit an existing user, click the “Edit” button next to the name of that u
   	- Remove any **Feature content**
   - **Note:**
     - Don’t **delete** users because doing so removes any associations between them and the content they’ve authored and/or uploaded.
-    - Also remove person from any **Groups** they are members of.
+    - Remove the user from any **Groups** they are members of.
 
 ### Adding Users to Groups
 
