@@ -44,7 +44,6 @@ To edit an existing user, click the “Edit” button next to the name of that u
     - Do not set the user to **Blocked**, this is the equivalent of **unpublishing** a profile and will cause the page to show **Access Denied** to visitors.
   - **Contact information tab**
     - Remove **Office phone**, **Office fax**, and **Mobile phone**.
-
   - **Profile tab**
     - Remove **Appointment scheduling link**, **Photo**, **Tagline**, **Pronouns**, **Languages spoken**, **Expertise**, **Links**, **Biography**, **External profile link**, and uncheck **Display email on profile**.
   - **Employee tab**
