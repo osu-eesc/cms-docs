@@ -51,7 +51,7 @@ To edit an existing user, click the “Edit” button next to the name of that u
       - Removes them from all directories,
       - Puts (retired) or (former) below their titles when they are listed as authors on content, and
       - Removes the contact information from their profile.
-    - Remove **Program area**, **County**, **Location**, **Department/Unit**, **Programs*, **Project(s)**, **Employer**, and uncheck any **Leadership** options.
+    - Remove **Program area**, **County**, **Location**, **Department/Unit**, **Programs**, **Project(s)**, **Employer**, and uncheck any **Leadership** options.
     - **Feature content tab**
     - Remove any **Feature content**
   - **Note:**
