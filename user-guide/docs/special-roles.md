@@ -33,7 +33,7 @@ To edit an existing user, click the “Edit” button next to the name of that u
     - **Status (required)**: See “Removing Users” below.
     - **Title**: Enter the person’s job title(s).
     - **Programs**: Specify the program(s) a person works for. When you select a program here, the person will show in the directory for that program.
-    - **Supervisor**: Check this box to export the person’s information to the Employee Intranet site. There, they can be selected as a supervisor in the Out of State Travel Request form.
+    - **Supervisor**: Check this box to export the person’s information to the Employee Intranet site. There, they can be selected as a supervisor in webforms.
     - **Other checkboxes**: The other checkboxes in this section are used for sorting people in directories.
 
 ### Removing Users
