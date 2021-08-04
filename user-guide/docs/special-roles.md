@@ -38,27 +38,27 @@ To edit an existing user, click the “Edit” button next to the name of that u
 
 ### Removing Users
 
-  - #### Account tab ####
+  - **Account tab**
     - Uncheck **Allow CAS login**. This prevents user from logging in after leaving.
     - Remove **Roles** to prevent access to the site.
     - Do not set the user to **Blocked**, this is the equivalent of **unpublishing** a profile and will cause the page to show **Access Denied** to visitors.
-  - #### Contact information tab ####
+  - **Contact information tab**
   	- Remove **Office phone**, **Office fax**, and **Mobile phone**.
 
-  - #### Profile tab ####
+  - **Profile tab**
   	- Remove **Appointment scheduling link**, **Photo**, **Tagline**, **Pronouns**, **Languages spoken**, **Expertise**, **Links**, **Biography**, **External profile link**, and uncheck **Display email on profile**.
 
-  - #### Employee tab ####
+  - **Employee tab**
     - Set the user’s status to “**Former**” or “**Retired**” as appropriate. Doing this:
       - Removes them from all directories,
       - Puts (retired) or (former) below their titles when they are listed as authors on content, and
       - Removes the contact information from their profile.
   	- Remove **Program area**, **County**, **Location**, **Department/Unit**, **Programs*, **Project(s)**, **Employer**, and uncheck any **Leadership** options.
 
-  - #### Feature content tab ####
+  - **Feature content tab**
   	- Remove any **Feature content**
-    
-  - #### Note: ####  
+
+  - **Note:**
     - Don’t **delete** users because doing so removes any associations between them and the content they’ve authored and/or uploaded.
     - Also remove person from any **Groups** they are members of.
 
