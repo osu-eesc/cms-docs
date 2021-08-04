@@ -1,5 +1,11 @@
 # List of changes to the web guide
 
+- 8/4/2021
+    - Added updated steps for in the "Removing users" section.
+
+- 7/29/2021
+    - Added information about "Appointment scheduling link and Display email on profile.
+
 - 7/22/2020
     - Update image/document/video/audio/content browser instructions to reflect updated filters.
     - Replace instances of "EESC" with "Extension Communications" to reflect unit name change.
